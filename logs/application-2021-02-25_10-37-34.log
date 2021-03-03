@@ -1,0 +1,96 @@
+10:37:34.874 [main] INFO  com.hcl.gim.baseutil.BaseTest - 
+10:37:34.881 [main] INFO  com.hcl.gim.baseutil.BaseTest - Running locally JavaMail
+10:37:34.983 [main] INFO  com.hcl.gim.baseutil.BaseTest - Folder creation for Extent
+10:37:35.008 [main] INFO  com.hcl.gim.baseutil.BaseTest - ExtentDir:-C:\HCL-GIM-Harsha\GIM-App-Harsha1/reports/Automation Report- 02_25_2021_10_37_35/Report/02_25_2021_10_37_35
+10:37:35.175 [main] INFO  com.hcl.gim.baseutil.BaseTest - Report Initiated
+10:37:35.180 [main] INFO  com.hcl.gim.baseutil.BaseTest - Screenshot folder created
+10:37:41.763 [main] INFO  com.hcl.gim.testscripts.car_parking_deduction.TYSS_GIM_CPD_0011 - Chrome Browser is launched
+10:37:42.418 [main] INFO  com.hcl.gim.testscripts.car_parking_deduction.TYSS_GIM_CPD_0011 - Expected text : Log in. is matching with the : Log in. text in the application 
+10:37:42.419 [main] INFO  com.hcl.gim.testscripts.car_parking_deduction.TYSS_GIM_CPD_0011 - Log In page is displayed
+10:37:42.419 [main] INFO  com.hcl.gim.testscripts.car_parking_deduction.TYSS_GIM_CPD_0011 - Enter the value into User Id text box
+10:37:42.639 [main] INFO  com.hcl.gim.testscripts.car_parking_deduction.TYSS_GIM_CPD_0011 - 40136083 typed into User Id text box
+10:37:42.639 [main] INFO  com.hcl.gim.testscripts.car_parking_deduction.TYSS_GIM_CPD_0011 - Enter the value into Password text box
+10:37:42.842 [main] INFO  com.hcl.gim.testscripts.car_parking_deduction.TYSS_GIM_CPD_0011 - GIM@123# typed into Password text box
+10:37:42.842 [main] INFO  com.hcl.gim.testscripts.car_parking_deduction.TYSS_GIM_CPD_0011 - Validate Login button is clickable
+10:37:47.905 [main] INFO  com.hcl.gim.testscripts.car_parking_deduction.TYSS_GIM_CPD_0011 - Clicked on : Login button
+10:37:48.598 [main] INFO  com.hcl.gim.testscripts.car_parking_deduction.TYSS_GIM_CPD_0011 - GEO HR-Log in is successfull
+10:37:48.675 [main] INFO  com.hcl.gim.testscripts.car_parking_deduction.TYSS_GIM_CPD_0011 - Expected text : HR Partner Manual is matching with the : HR Partner Manual text in the application 
+10:37:48.675 [main] INFO  com.hcl.gim.testscripts.car_parking_deduction.TYSS_GIM_CPD_0011 - HR Partner Manual popup is displayed
+10:37:48.675 [main] INFO  com.hcl.gim.testscripts.car_parking_deduction.TYSS_GIM_CPD_0011 - Validate Close button on HCL Banner is clickable
+10:37:48.842 [main] INFO  com.hcl.gim.testscripts.car_parking_deduction.TYSS_GIM_CPD_0011 - Clicked on : Close button on HCL Banner
+10:37:48.963 [main] INFO  com.hcl.gim.testscripts.car_parking_deduction.TYSS_GIM_CPD_0011 - Home page is displayed, url= https://staging.myhcl.com/GIM/Home/Index, title= Home Page
+10:37:48.974 [main] INFO  com.hcl.gim.testscripts.car_parking_deduction.TYSS_GIM_CPD_0011 - Role: Employee
+10:37:48.974 [main] INFO  com.hcl.gim.testscripts.car_parking_deduction.TYSS_GIM_CPD_0011 - Validate Geo HR Initiate On Behalf Of Employee button is clickable
+10:37:49.724 [main] INFO  com.hcl.gim.testscripts.car_parking_deduction.TYSS_GIM_CPD_0011 - Clicked on : Geo HR Initiate On Behalf Of Employee button
+10:37:49.797 [main] INFO  com.hcl.gim.testscripts.car_parking_deduction.TYSS_GIM_CPD_0011 - Initiate Claim page is displayed, url= https://staging.myhcl.com/GIM/HRPartner/InitiateClaim, title= InitiateClaim
+10:37:49.804 [main] INFO  com.hcl.gim.testscripts.car_parking_deduction.TYSS_GIM_CPD_0011 - Wait for Select Claim type Drop down
+10:37:49.966 [main] INFO  com.hcl.gim.testscripts.car_parking_deduction.TYSS_GIM_CPD_0011 - Validate Select Claim type Drop down is clickable
+10:37:50.332 [main] INFO  com.hcl.gim.testscripts.car_parking_deduction.TYSS_GIM_CPD_0011 - Clicked on : Select Claim type Drop down
+10:37:51.383 [main] INFO  com.hcl.gim.testscripts.car_parking_deduction.TYSS_GIM_CPD_0011 - List of all Claim types from the Drop down is displayed.
+10:37:51.401 [main] INFO  com.hcl.gim.testscripts.car_parking_deduction.TYSS_GIM_CPD_0011 - Wait for Car parking Deduction
+10:37:51.648 [main] INFO  com.hcl.gim.testscripts.car_parking_deduction.TYSS_GIM_CPD_0011 - Able to mouse over on  Car parking Deduction
+10:37:51.864 [main] INFO  com.hcl.gim.testscripts.car_parking_deduction.TYSS_GIM_CPD_0011 - Clicked on : Car parking Deduction
+10:37:51.900 [main] INFO  com.hcl.gim.testscripts.car_parking_deduction.TYSS_GIM_CPD_0011 - Able to select Car parking Deduction from the Dropdown and default selection is Copy & Paste 
+10:37:51.984 [main] INFO  com.hcl.gim.testscripts.car_parking_deduction.TYSS_GIM_CPD_0011 - Expected text : Car parking Deduction is matching with the : Car parking Deduction text in the application 
+10:37:51.984 [main] INFO  com.hcl.gim.testscripts.car_parking_deduction.TYSS_GIM_CPD_0011 - Car parking Deduction is selected and default selection is Copy & Paste
+10:37:51.992 [main] INFO  com.hcl.gim.testscripts.car_parking_deduction.TYSS_GIM_CPD_0011 - Scroll up
+10:37:52.109 [main] INFO  com.hcl.gim.testscripts.car_parking_deduction.TYSS_GIM_CPD_0011 - Scroll up
+10:37:52.162 [main] INFO  com.hcl.gim.testscripts.car_parking_deduction.TYSS_GIM_CPD_0011 - Wait for Through the Form Radio Button
+10:37:52.255 [main] INFO  com.hcl.gim.testscripts.car_parking_deduction.TYSS_GIM_CPD_0011 - Validate Through the Form Radio Button is clickable
+10:37:52.365 [main] INFO  com.hcl.gim.testscripts.car_parking_deduction.TYSS_GIM_CPD_0011 - Clicked on : Through the Form Radio Button
+10:37:52.431 [main] INFO  com.hcl.gim.testscripts.car_parking_deduction.TYSS_GIM_CPD_0011 - Through the Form option is selected
+10:37:52.432 [main] INFO  com.hcl.gim.testscripts.car_parking_deduction.TYSS_GIM_CPD_0011 - Wait for Employee code text box
+10:37:52.572 [main] INFO  com.hcl.gim.testscripts.car_parking_deduction.TYSS_GIM_CPD_0011 - Enter the value into Employee code text box
+10:37:52.748 [main] INFO  com.hcl.gim.testscripts.car_parking_deduction.TYSS_GIM_CPD_0011 - 51361960 typed into Employee code text box
+10:37:53.757 [main] INFO  com.hcl.gim.testscripts.car_parking_deduction.TYSS_GIM_CPD_0011 - Valid value is entered in Employee code text box
+10:37:53.758 [main] INFO  com.hcl.gim.testscripts.car_parking_deduction.TYSS_GIM_CPD_0011 - 51361960 entered in Employee code text box
+10:37:53.758 [main] INFO  com.hcl.gim.testscripts.car_parking_deduction.TYSS_GIM_CPD_0011 - Wait for Country code text box
+10:37:53.895 [main] INFO  com.hcl.gim.testscripts.car_parking_deduction.TYSS_GIM_CPD_0011 - Enter the value into Country code text box
+10:37:54.065 [main] INFO  com.hcl.gim.testscripts.car_parking_deduction.TYSS_GIM_CPD_0011 - 37 typed into Country code text box
+10:37:55.077 [main] INFO  com.hcl.gim.testscripts.car_parking_deduction.TYSS_GIM_CPD_0011 - Valid value is entered in Country code text box
+10:37:55.077 [main] INFO  com.hcl.gim.testscripts.car_parking_deduction.TYSS_GIM_CPD_0011 - 37 entered in Country code text box
+10:37:55.077 [main] INFO  com.hcl.gim.testscripts.car_parking_deduction.TYSS_GIM_CPD_0011 - Wait for Company code text box
+10:37:55.215 [main] INFO  com.hcl.gim.testscripts.car_parking_deduction.TYSS_GIM_CPD_0011 - Enter the value into Company code text box
+10:37:55.404 [main] INFO  com.hcl.gim.testscripts.car_parking_deduction.TYSS_GIM_CPD_0011 - 4060 typed into Company code text box
+10:37:56.413 [main] INFO  com.hcl.gim.testscripts.car_parking_deduction.TYSS_GIM_CPD_0011 - Valid value is entered in Company code text box
+10:37:56.414 [main] INFO  com.hcl.gim.testscripts.car_parking_deduction.TYSS_GIM_CPD_0011 - 4060 entered in Company code text box
+10:37:56.414 [main] INFO  com.hcl.gim.testscripts.car_parking_deduction.TYSS_GIM_CPD_0011 - Wait for  Amount text box
+10:37:56.538 [main] INFO  com.hcl.gim.testscripts.car_parking_deduction.TYSS_GIM_CPD_0011 - Enter the value into  Amount text box
+10:37:56.698 [main] INFO  com.hcl.gim.testscripts.car_parking_deduction.TYSS_GIM_CPD_0011 - 10223 typed into  Amount text box
+10:37:57.707 [main] INFO  com.hcl.gim.testscripts.car_parking_deduction.TYSS_GIM_CPD_0011 - Valid value is entered in Amount text box
+10:37:57.707 [main] INFO  com.hcl.gim.testscripts.car_parking_deduction.TYSS_GIM_CPD_0011 - 10223 entered in Amount text box
+10:37:57.707 [main] INFO  com.hcl.gim.testscripts.car_parking_deduction.TYSS_GIM_CPD_0011 - Wait for From Date text box
+10:37:57.836 [main] INFO  com.hcl.gim.testscripts.car_parking_deduction.TYSS_GIM_CPD_0011 - 6/27/20 is selected
+10:37:58.844 [main] INFO  com.hcl.gim.testscripts.car_parking_deduction.TYSS_GIM_CPD_0011 - Valid value is entered in From Date text box
+10:37:58.845 [main] INFO  com.hcl.gim.testscripts.car_parking_deduction.TYSS_GIM_CPD_0011 - 6/27/20 entered in from date text box
+10:37:58.845 [main] INFO  com.hcl.gim.testscripts.car_parking_deduction.TYSS_GIM_CPD_0011 - Wait for To Date text box
+10:37:58.974 [main] INFO  com.hcl.gim.testscripts.car_parking_deduction.TYSS_GIM_CPD_0011 - 8/23/20 is selected
+10:37:59.983 [main] INFO  com.hcl.gim.testscripts.car_parking_deduction.TYSS_GIM_CPD_0011 - Valid value is entered in To Date text box
+10:37:59.984 [main] INFO  com.hcl.gim.testscripts.car_parking_deduction.TYSS_GIM_CPD_0011 - 8/23/20 entered in To date text box
+10:37:59.984 [main] INFO  com.hcl.gim.testscripts.car_parking_deduction.TYSS_GIM_CPD_0011 - Wait for Remarks text box
+10:38:00.140 [main] INFO  com.hcl.gim.testscripts.car_parking_deduction.TYSS_GIM_CPD_0011 - Enter the value into Remarks text box
+10:38:00.404 [main] INFO  com.hcl.gim.testscripts.car_parking_deduction.TYSS_GIM_CPD_0011 - Remarks 10 typed into Remarks text box
+10:38:01.415 [main] INFO  com.hcl.gim.testscripts.car_parking_deduction.TYSS_GIM_CPD_0011 - Valid value is entered in Remarks text box
+10:38:01.415 [main] INFO  com.hcl.gim.testscripts.car_parking_deduction.TYSS_GIM_CPD_0011 - Remarks 10 entered in Remarks text box
+10:38:01.415 [main] INFO  com.hcl.gim.testscripts.car_parking_deduction.TYSS_GIM_CPD_0011 - Wait for Number of installments text box
+10:38:01.557 [main] INFO  com.hcl.gim.testscripts.car_parking_deduction.TYSS_GIM_CPD_0011 - Enter the value into Number of installments text box
+10:38:01.722 [main] INFO  com.hcl.gim.testscripts.car_parking_deduction.TYSS_GIM_CPD_0011 - 2 typed into Number of installments text box
+10:38:01.798 [main] INFO  com.hcl.gim.testscripts.car_parking_deduction.TYSS_GIM_CPD_0011 - Expected attribute value : 2 is matching with the actual attribute value : 2 of Number of installments text box
+10:38:01.798 [main] INFO  com.hcl.gim.testscripts.car_parking_deduction.TYSS_GIM_CPD_0011 - 2 entered in Number of installments text box 
+10:38:01.798 [main] INFO  com.hcl.gim.testscripts.car_parking_deduction.TYSS_GIM_CPD_0011 - Wait for Periodicity text box
+10:38:01.928 [main] INFO  com.hcl.gim.testscripts.car_parking_deduction.TYSS_GIM_CPD_0011 - Enter the value into Periodicity text box
+10:38:02.100 [main] INFO  com.hcl.gim.testscripts.car_parking_deduction.TYSS_GIM_CPD_0011 - Q typed into Periodicity text box
+10:38:02.165 [main] INFO  com.hcl.gim.testscripts.car_parking_deduction.TYSS_GIM_CPD_0011 - Expected attribute value : Q is matching with the actual attribute value : Q of Periodicity text box
+10:38:02.165 [main] INFO  com.hcl.gim.testscripts.car_parking_deduction.TYSS_GIM_CPD_0011 - Q entered in Periodicity text box
+10:38:02.165 [main] INFO  com.hcl.gim.testscripts.car_parking_deduction.TYSS_GIM_CPD_0011 - Wait for Through Form Upload link
+10:38:02.292 [main] INFO  com.hcl.gim.testscripts.car_parking_deduction.TYSS_GIM_CPD_0011 - Validate Through Form Upload link is clickable
+10:38:02.451 [main] INFO  com.hcl.gim.testscripts.car_parking_deduction.TYSS_GIM_CPD_0011 - Clicked on : Through Form Upload link
+10:38:09.702 [main] INFO  com.hcl.gim.testscripts.car_parking_deduction.TYSS_GIM_CPD_0011 - The file is uploaded in the file upload text area
+10:38:09.702 [main] INFO  com.hcl.gim.testscripts.car_parking_deduction.TYSS_GIM_CPD_0011 - Wait for Through Form Submit button
+10:38:09.844 [main] INFO  com.hcl.gim.testscripts.car_parking_deduction.TYSS_GIM_CPD_0011 - Validate Through Form Submit button is clickable
+10:38:10.019 [main] INFO  com.hcl.gim.testscripts.car_parking_deduction.TYSS_GIM_CPD_0011 - Clicked on : Through Form Submit button
+10:38:14.454 [main] INFO  com.hcl.gim.testscripts.car_parking_deduction.TYSS_GIM_CPD_0011 - Are you sure you want to proceed pop up is displayed
+10:38:14.466 [main] INFO  com.hcl.gim.testscripts.car_parking_deduction.TYSS_GIM_CPD_0011 - Wait for Yes button
+10:38:16.600 [main] INFO  com.hcl.gim.testscripts.car_parking_deduction.TYSS_GIM_CPD_0011 - Validate Yes button is clickable
+10:38:16.755 [main] INFO  com.hcl.gim.testscripts.car_parking_deduction.TYSS_GIM_CPD_0011 - Clicked on : Yes button
+10:38:16.755 [main] INFO  com.hcl.gim.testscripts.car_parking_deduction.TYSS_GIM_CPD_0011 - Wait for Claim requests has been successfully raised success message

@@ -1,0 +1,56 @@
+10:30:34.285 [main] INFO  com.hcl.gim.baseutil.BaseTest - 
+10:30:34.292 [main] INFO  com.hcl.gim.baseutil.BaseTest - Running locally JavaMail
+10:30:34.396 [main] INFO  com.hcl.gim.baseutil.BaseTest - Folder creation for Extent
+10:30:34.452 [main] INFO  com.hcl.gim.baseutil.BaseTest - ExtentDir:-C:\HCL-GIM-Harsha\GIM-App-Harsha1/reports/Automation Report- 02_25_2021_10_30_34/Report/02_25_2021_10_30_34
+10:30:35.920 [main] INFO  com.hcl.gim.baseutil.BaseTest - Report Initiated
+10:30:35.923 [main] INFO  com.hcl.gim.baseutil.BaseTest - Screenshot folder created
+10:30:43.161 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0002 - Chrome Browser is launched
+10:31:05.346 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0002 - Expected text : Log in. is matching with the : Log in. text in the application 
+10:31:05.346 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0002 - Log In page is displayed
+10:31:05.347 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0002 - Enter the value into User Id text box
+10:31:05.714 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0002 - 51575273 typed into User Id text box
+10:31:05.715 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0002 - Enter the value into Password text box
+10:31:05.965 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0002 - GIM@123# typed into Password text box
+10:31:05.966 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0002 - Validate Login button is clickable
+10:31:19.020 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0002 - Clicked on : Login button
+10:31:19.695 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0002 - LOB HR-Log in is successfull
+10:31:19.782 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0002 - Expected text : HR Partner Manual is matching with the : HR Partner Manual text in the application 
+10:31:19.783 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0002 - HR Partner Manual popup is displayed
+10:31:19.783 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0002 - Validate Close button on HCL Banner is clickable
+10:31:19.957 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0002 - Clicked on : Close button on HCL Banner
+10:31:20.111 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0002 - Home page is displayed, url= https://staging.myhcl.com/GIM/Home/Index, title= Home Page
+10:31:20.123 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0002 - Role: Employee
+10:31:20.123 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0002 - Validate LOB HR Initiate On Behalf Of Employee button is clickable
+10:31:21.005 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0002 - Clicked on : LOB HR Initiate On Behalf Of Employee button
+10:31:21.096 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0002 - Initiate Claim page is displayed, url= https://staging.myhcl.com/GIM/HRPartner/InitiateClaim, title= InitiateClaim
+10:31:21.104 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0002 - Wait for Select Claim type Drop down
+10:31:21.262 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0002 - Validate Select Claim type Drop down is clickable
+10:31:21.640 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0002 - Clicked on : Select Claim type Drop down
+10:31:22.013 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0002 - List of all Claim types from the Drop down is displayed.
+10:31:22.030 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0002 - Wait for Client Bonus/Reward/Incentive
+10:31:22.277 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0002 - Able to mouse over on  Client Bonus/Reward/Incentive
+10:31:22.485 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0002 - Clicked on : Client Bonus/Reward/Incentive
+10:31:22.532 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0002 - Able to select Client Bonus/Reward/Incentive from the Dropdown and default selection is Copy & Paste 
+10:31:22.596 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0002 - Expected text : Client Bonus/Reward/Incentive is matching with the : Client Bonus/Reward/Incentive text in the application 
+10:31:22.597 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0002 - Client Bonus/Reward/Incentive is selected and default selection is Copy & Paste
+10:31:22.611 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0002 - Scroll up
+10:31:23.265 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0002 - Wait for Download Client Bonus/Reward/Incentive Form Template link
+10:31:23.402 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0002 - Validate Download Client Bonus/Reward/Incentive Form Template link is clickable
+10:31:23.562 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0002 - Clicked on : Download Client Bonus/Reward/Incentive Form Template link
+10:31:23.886 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0002 - New File Created:725c5983-ab29-42c3-bb0a-7c02bd409725.tmp
+10:31:23.946 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0002 - New File Created:Claim.xlsx.crdownload
+10:31:24.065 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0002 - New File Created:Claim.xlsx
+10:31:24.066 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0002 - Downloaded file found with extension .xlsx. File name is Claim.xlsx
+10:31:27.300 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0002 - Able to mouse over on Paste Your Content Here Text
+10:31:37.445 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0002 - Wait for Upload Document Link
+10:31:37.605 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0002 - Validate Upload Document Link is clickable
+10:31:37.753 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0002 - Clicked on : Upload Document Link
+10:31:54.826 [main] ERROR com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0002 - no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class='dz-filename']/span"}
+  (Session info: chrome=88.0.4324.190)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: 'HCLT-PC5929-1', ip: '10.98.101.172', os.name: 'Windows Server 2019', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.9'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 88.0.4324.190, chrome: {chromedriverVersion: 87.0.4280.88 (89e2380a3e36c..., userDataDir: C:\Users\sajal.j\AppData\Lo...}, goog:chromeOptions: {debuggerAddress: localhost:62626}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: ecc4e72bf1aee3312470627187c3d9a5
+*** Element info: {Using=xpath, value=//div[@class='dz-filename']/span}

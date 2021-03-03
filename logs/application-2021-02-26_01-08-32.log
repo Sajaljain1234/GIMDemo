@@ -1,0 +1,57 @@
+13:08:32.855 [main] INFO  com.hcl.gim.baseutil.BaseTest - 
+13:08:32.861 [main] INFO  com.hcl.gim.baseutil.BaseTest - Running locally JavaMail
+13:08:32.956 [main] INFO  com.hcl.gim.baseutil.BaseTest - Folder creation for Extent
+13:08:32.981 [main] INFO  com.hcl.gim.baseutil.BaseTest - ExtentDir:-C:\HCL-GIM-Harsha\GIM-App-Harsha1/reports/Automation Report- 02_26_2021_13_08_32/Report/02_26_2021_13_08_32
+13:08:33.137 [main] INFO  com.hcl.gim.baseutil.BaseTest - Report Initiated
+13:08:33.140 [main] INFO  com.hcl.gim.baseutil.BaseTest - Screenshot folder created
+13:08:38.472 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0008 - Chrome Browser is launched
+13:08:39.936 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0008 - Expected text : Log in. is matching with the : Log in. text in the application 
+13:08:39.936 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0008 - Log In page is displayed
+13:08:39.937 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0008 - Enter the value into User Id text box
+13:08:40.175 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0008 - 40136083 typed into User Id text box
+13:08:40.175 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0008 - Enter the value into Password text box
+13:08:40.396 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0008 - GIM@123# typed into Password text box
+13:08:40.396 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0008 - Validate Login button is clickable
+13:08:42.862 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0008 - Clicked on : Login button
+13:08:43.586 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0008 - GEO HR-Log in is successfull
+13:08:43.657 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0008 - Expected text : HR Partner Manual is matching with the : HR Partner Manual text in the application 
+13:08:43.657 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0008 - HR Partner Manual popup is displayed
+13:08:43.658 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0008 - Validate Close button on HCL Banner is clickable
+13:08:43.819 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0008 - Clicked on : Close button on HCL Banner
+13:08:43.966 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0008 - Home page is displayed, url= https://staging.myhcl.com/GIM/Home/Index, title= Home Page
+13:08:43.995 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0008 - Role: Employee
+13:08:43.996 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0008 - Validate Geo HR Initiate On Behalf Of Employee button is clickable
+13:08:44.647 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0008 - Clicked on : Geo HR Initiate On Behalf Of Employee button
+13:08:44.714 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0008 - Initiate Claim page is displayed, url= https://staging.myhcl.com/GIM/HRPartner/InitiateClaim, title= InitiateClaim
+13:08:44.723 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0008 - Wait for Select Claim type Drop down
+13:08:44.947 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0008 - Validate Select Claim type Drop down is clickable
+13:08:45.251 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0008 - Clicked on : Select Claim type Drop down
+13:08:46.203 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0008 - List of all Claim types from the Drop down is displayed.
+13:08:46.222 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0008 - Wait for Exgratia - Language allowance
+13:08:46.460 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0008 - Able to mouse over on  Exgratia - Language allowance
+13:08:46.690 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0008 - Clicked on : Exgratia - Language allowance
+13:08:46.730 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0008 - Able to select Exgratia - Language allowance from the Dropdown and default selection is Copy & Paste 
+13:08:46.821 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0008 - Expected text : Exgratia - Language allowance is matching with the : Exgratia - Language allowance text in the application 
+13:08:46.822 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0008 - Exgratia - Language allowance is selected and default selection is Copy & Paste
+13:08:46.843 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0008 - Scroll up
+13:08:46.887 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0008 - Wait for Download Exgratia - Language allowance Form Template link
+13:08:47.024 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0008 - Validate Download Exgratia - Language allowance Form Template link is clickable
+13:08:47.172 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0008 - Clicked on : Download Exgratia - Language allowance Form Template link
+13:08:47.745 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0008 - New File Created:1b90cc13-3b76-4e60-bd29-d5aa08032b33.tmp
+13:08:47.839 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0008 - New File Created:Claim (3).xlsx.crdownload
+13:08:48.025 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0008 - New File Created:Claim (3).xlsx
+13:08:48.026 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0008 - Downloaded file found with extension .xlsx. File name is Claim (3).xlsx
+13:08:48.527 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0008 - Downloaded document name is Claim (3).xlsx
+13:08:48.528 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0008 - Template with Filename Claim (3).xlsx downloaded successfully
+13:08:51.964 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0008 - Able to mouse over on Paste Your Content Here Text
+13:09:02.154 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0008 - Wait for Upload Document Link
+13:09:02.293 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0008 - Validate Upload Document Link is clickable
+13:09:02.464 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0008 - Clicked on : Upload Document Link
+13:09:09.591 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0008 - Expected text : Sample(DOCX).docx is matching with the : Sample(DOCX).docx text in the application 
+13:09:09.592 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0008 - Sample(DOCX).docx file is uploaded
+13:09:09.592 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0008 - Wait for Clear Button
+13:09:09.727 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0008 - Validate Clear Button is clickable
+13:09:09.882 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0008 - Clicked on : Clear Button
+13:09:09.965 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0008 - Download Form Template is reset
+13:09:10.037 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0008 - Paste Your Content Here is reset
+13:09:10.110 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0008 - Upload or Drag and Drop Your Files Here is reset

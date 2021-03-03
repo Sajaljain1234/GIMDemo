@@ -1,0 +1,60 @@
+13:39:26.451 [main] INFO  com.hcl.gim.baseutil.BaseTest - 
+13:39:26.466 [main] INFO  com.hcl.gim.baseutil.BaseTest - Running locally JavaMail
+13:39:26.591 [main] INFO  com.hcl.gim.baseutil.BaseTest - Folder creation for Extent
+13:39:26.606 [main] INFO  com.hcl.gim.baseutil.BaseTest - ExtentDir:-C:\HCL-GIM-Harsha\GIM-App-Harsha1/reports/Automation Report- 02_26_2021_13_39_26/Report/02_26_2021_13_39_26
+13:39:26.762 [main] INFO  com.hcl.gim.baseutil.BaseTest - Report Initiated
+13:39:26.762 [main] INFO  com.hcl.gim.baseutil.BaseTest - Screenshot folder created
+13:39:34.016 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_014 - Chrome Browser is launched
+13:39:35.177 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_014 - Expected text : Log in. is matching with the : Log in. text in the application 
+13:39:35.178 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_014 - Log In page is displayed
+13:39:35.178 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_014 - Enter the value into User Id text box
+13:39:35.450 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_014 - 40136083 typed into User Id text box
+13:39:35.451 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_014 - Enter the value into Password text box
+13:39:35.701 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_014 - GIM@123# typed into Password text box
+13:39:35.701 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_014 - Validate Login button is clickable
+13:39:43.428 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_014 - Clicked on : Login button
+13:39:43.925 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_014 - GEO HR-Log in is successfull
+13:39:44.071 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_014 - Expected text : HR Partner Manual is matching with the : HR Partner Manual text in the application 
+13:39:44.072 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_014 - HR Partner Manual popup is displayed
+13:39:44.072 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_014 - Validate Close button on HCL Banner is clickable
+13:39:44.363 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_014 - Clicked on : Close button on HCL Banner
+13:39:44.589 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_014 - Home page is displayed, url= https://staging.myhcl.com/GIM/Home/Index, title= Home Page
+13:39:44.605 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_014 - Role: Employee
+13:39:44.606 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_014 - Validate Geo HR Initiate On Behalf Of Employee button is clickable
+13:39:45.405 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_014 - Clicked on : Geo HR Initiate On Behalf Of Employee button
+13:39:45.526 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_014 - Initiate Claim page is displayed, url= https://staging.myhcl.com/GIM/HRPartner/InitiateClaim, title= InitiateClaim
+13:39:45.554 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_014 - Wait for Select Claim type Drop down
+13:39:45.906 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_014 - Validate Select Claim type Drop down is clickable
+13:39:46.126 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_014 - Clicked on : Select Claim type Drop down
+13:39:47.248 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_014 - List of all Claim types from the Drop down is displayed.
+13:39:47.267 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_014 - Wait for Ikahya safety bonus( client-seriti/elango)
+13:39:47.505 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_014 - Able to mouse over on  Ikahya safety bonus( client-seriti/elango)
+13:39:47.757 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_014 - Clicked on : Ikahya safety bonus( client-seriti/elango)
+13:39:47.795 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_014 - Able to select Ikahya safety bonus( client-seriti/elango) from the Dropdown and default selection is Copy & Paste 
+13:39:47.974 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_014 - Expected text : Ikahya safety bonus( client-seriti/elango) is matching with the : Ikahya safety bonus( client-seriti/elango) text in the application 
+13:39:47.974 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_014 - Ikahya safety bonus( client-seriti/elango) is selected and default selection is Copy & Paste
+13:39:47.987 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_014 - Scroll up
+13:39:48.043 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_014 - Scroll up
+13:39:48.097 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_014 - Wait for Excel Upload Radio Button
+13:39:48.195 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_014 - Validate Excel Upload Radio Button is clickable
+13:39:48.477 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_014 - Clicked on : Excel Upload Radio Button
+13:39:48.533 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_014 - Excel Upload option is selected
+13:39:48.533 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_014 - Wait for Download Form Template Link
+13:39:48.689 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_014 - Validate Download Form Template Link is clickable
+13:39:48.877 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_014 - Clicked on : Download Form Template Link
+13:39:48.931 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_014 - New File Created:e1e89cae-529e-42d9-aa2e-fcdcb5849d90.tmp
+13:39:48.986 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_014 - New File Created:Claim (6).xlsx.crdownload
+13:39:49.131 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_014 - New File Created:Claim (6).xlsx
+13:39:49.134 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_014 - Downloaded file found with extension .xlsx. File name is Claim (6).xlsx
+13:39:49.645 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_014 - Downloaded document name is Claim (6).xlsx
+13:39:49.649 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_014 - Template with Filename Claim (6).xlsx downloaded successfully
+13:39:50.237 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_014 - [51400641, 16, 4270, 125, 2/13/2019  , 7/13/2019  , R2, 3, Test1]
+13:39:58.358 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_014 - Wait for Upload Template Link
+13:40:00.409 [main] ERROR com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_014 - Upload Template Link is not visible
+13:40:00.409 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_014 - Validate Upload Template Link is clickable
+13:40:02.466 [main] ERROR com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_014 - Upload Template Link is not clickable
+13:40:02.466 [main] ERROR com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_014 - failed to click on Upload Template Link
+13:40:04.548 [main] ERROR com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_014 - java.net.ConnectException: Failed to connect to localhost/0:0:0:0:0:0:0:1:14973
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: 'HCLT-PC5929-1', ip: '10.98.101.172', os.name: 'Windows Server 2019', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.9'
+Driver info: driver.version: RemoteWebDriver

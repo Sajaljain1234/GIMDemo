@@ -1,0 +1,55 @@
+12:59:04.573 [main] INFO  com.hcl.gim.baseutil.BaseTest - 
+12:59:04.581 [main] INFO  com.hcl.gim.baseutil.BaseTest - Running locally JavaMail
+12:59:04.701 [main] INFO  com.hcl.gim.baseutil.BaseTest - Folder creation for Extent
+12:59:04.737 [main] INFO  com.hcl.gim.baseutil.BaseTest - ExtentDir:-C:\HCL-GIM-Harsha\GIM-App-Harsha1/reports/Automation Report- 02_26_2021_12_59_04/Report/02_26_2021_12_59_04
+12:59:04.913 [main] INFO  com.hcl.gim.baseutil.BaseTest - Report Initiated
+12:59:04.916 [main] INFO  com.hcl.gim.baseutil.BaseTest - Screenshot folder created
+12:59:10.716 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0008 - Chrome Browser is launched
+12:59:12.486 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0008 - Expected text : Log in. is matching with the : Log in. text in the application 
+12:59:12.487 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0008 - Log In page is displayed
+12:59:12.487 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0008 - Enter the value into User Id text box
+12:59:12.841 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0008 - 51575273 typed into User Id text box
+12:59:12.841 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0008 - Enter the value into Password text box
+12:59:13.146 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0008 - GIM@123# typed into Password text box
+12:59:13.147 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0008 - Validate Login button is clickable
+12:59:16.204 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0008 - Clicked on : Login button
+12:59:16.988 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0008 - LOB HR-Log in is successfull
+12:59:17.496 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0008 - Expected text : HR Partner Manual is matching with the : HR Partner Manual text in the application 
+12:59:17.498 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0008 - HR Partner Manual popup is displayed
+12:59:17.498 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0008 - Validate Close button on HCL Banner is clickable
+12:59:17.951 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0008 - Clicked on : Close button on HCL Banner
+12:59:18.391 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0008 - Home page is displayed, url= https://staging.myhcl.com/GIM/Home/Index, title= Home Page
+12:59:18.427 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0008 - Role: Employee
+12:59:18.428 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0008 - Validate LOB HR Initiate On Behalf Of Employee button is clickable
+12:59:19.977 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0008 - Clicked on : LOB HR Initiate On Behalf Of Employee button
+12:59:20.177 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0008 - Initiate Claim page is displayed, url= https://staging.myhcl.com/GIM/HRPartner/InitiateClaim, title= InitiateClaim
+12:59:20.192 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0008 - Wait for Select Claim type Drop down
+12:59:20.450 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0008 - Validate Select Claim type Drop down is clickable
+12:59:20.748 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0008 - Clicked on : Select Claim type Drop down
+12:59:22.298 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0008 - List of all Claim types from the Drop down is displayed.
+12:59:22.323 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0008 - Wait for Client Bonus/Reward/Incentive
+12:59:22.603 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0008 - Able to mouse over on  Client Bonus/Reward/Incentive
+12:59:22.828 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0008 - Clicked on : Client Bonus/Reward/Incentive
+12:59:22.868 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0008 - Able to select Client Bonus/Reward/Incentive from the Dropdown and default selection is Copy & Paste 
+12:59:22.942 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0008 - Expected text : Client Bonus/Reward/Incentive is matching with the : Client Bonus/Reward/Incentive text in the application 
+12:59:22.942 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0008 - Client Bonus/Reward/Incentive is selected and default selection is Copy & Paste
+12:59:22.953 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0008 - Scroll up
+12:59:23.571 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0008 - Wait for Download Client Bonus/Reward/Incentive Form Template link
+12:59:23.710 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0008 - Validate Download Client Bonus/Reward/Incentive Form Template link is clickable
+12:59:23.905 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0008 - Clicked on : Download Client Bonus/Reward/Incentive Form Template link
+12:59:24.994 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0008 - New File Created:b939e641-86cc-4777-a7a5-cd7298493525.tmp
+12:59:25.074 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0008 - New File Created:Claim (2).xlsx.crdownload
+12:59:25.261 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0008 - New File Created:Claim (2).xlsx
+12:59:25.261 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0008 - Downloaded file found with extension .xlsx. File name is Claim (2).xlsx
+12:59:29.203 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0008 - Able to mouse over on Paste Your Content Here Text
+12:59:39.401 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0008 - Wait for Upload Document Link
+12:59:39.549 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0008 - Validate Upload Document Link is clickable
+12:59:39.752 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0008 - Clicked on : Upload Document Link
+12:59:46.893 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0008 - Expected text : Sample(DOCX).docx is matching with the : Sample(DOCX).docx text in the application 
+12:59:46.894 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0008 - Sample(DOCX).docx file is uploaded
+12:59:46.894 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0008 - Wait for Clear Button
+12:59:47.086 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0008 - Validate Clear Button is clickable
+12:59:47.263 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0008 - Clicked on : Clear Button
+12:59:47.362 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0008 - Download Form Template is reset
+12:59:47.437 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0008 - Paste Your Content Here is reset
+12:59:47.519 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0008 - Upload or Drag and Drop Your Files Here is reset

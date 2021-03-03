@@ -1,0 +1,60 @@
+17:36:52.773 [main] INFO  com.hcl.gim.baseutil.BaseTest - 
+17:36:52.781 [main] INFO  com.hcl.gim.baseutil.BaseTest - Running locally JavaMail
+17:36:52.884 [main] INFO  com.hcl.gim.baseutil.BaseTest - Folder creation for Extent
+17:36:52.923 [main] INFO  com.hcl.gim.baseutil.BaseTest - ExtentDir:-C:\HCL-GIM-Harsha\GIM-App-Harsha1/reports/Automation Report- 02_26_2021_17_36_52/Report/02_26_2021_17_36_52
+17:36:53.192 [main] INFO  com.hcl.gim.baseutil.BaseTest - Report Initiated
+17:36:53.196 [main] INFO  com.hcl.gim.baseutil.BaseTest - Screenshot folder created
+17:37:00.690 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0008 - Chrome Browser is launched
+17:37:07.827 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0008 - Expected text : Log in. is matching with the : Log in. text in the application 
+17:37:07.829 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0008 - Log In page is displayed
+17:37:07.830 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0008 - Enter the value into User Id text box
+17:37:08.095 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0008 - 40136083 typed into User Id text box
+17:37:08.096 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0008 - Enter the value into Password text box
+17:37:08.395 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0008 - GIM@123# typed into Password text box
+17:37:08.396 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0008 - Validate Login button is clickable
+17:37:11.529 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0008 - Clicked on : Login button
+17:37:12.267 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0008 - GEO HR-Log in is successfull
+17:37:12.350 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0008 - Expected text : HR Partner Manual is matching with the : HR Partner Manual text in the application 
+17:37:12.351 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0008 - HR Partner Manual popup is displayed
+17:37:12.352 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0008 - Validate Close button on HCL Banner is clickable
+17:37:12.545 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0008 - Clicked on : Close button on HCL Banner
+17:37:12.721 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0008 - Home page is displayed, url= https://staging.myhcl.com/GIM/Home/Index, title= Home Page
+17:37:12.754 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0008 - Role: Employee
+17:37:12.754 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0008 - Validate Geo HR Initiate On Behalf Of Employee button is clickable
+17:37:13.581 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0008 - Clicked on : Geo HR Initiate On Behalf Of Employee button
+17:37:13.697 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0008 - Initiate Claim page is displayed, url= https://staging.myhcl.com/GIM/HRPartner/InitiateClaim, title= InitiateClaim
+17:37:13.714 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0008 - Wait for Select Claim type Drop down
+17:37:13.999 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0008 - Validate Select Claim type Drop down is clickable
+17:37:14.304 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0008 - Clicked on : Select Claim type Drop down
+17:37:15.387 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0008 - List of all Claim types from the Drop down is displayed.
+17:37:15.408 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0008 - Wait for Exgratia - Language allowance
+17:37:15.673 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0008 - Able to mouse over on  Exgratia - Language allowance
+17:37:15.892 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0008 - Clicked on : Exgratia - Language allowance
+17:37:15.933 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0008 - Able to select Exgratia - Language allowance from the Dropdown and default selection is Copy & Paste 
+17:37:16.018 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0008 - Expected text : Exgratia - Language allowance is matching with the : Exgratia - Language allowance text in the application 
+17:37:16.019 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0008 - Exgratia - Language allowance is selected and default selection is Copy & Paste
+17:37:16.029 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0008 - Scroll up
+17:37:16.654 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0008 - Wait for Download Exgratia - Language allowance Form Template link
+17:37:16.803 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0008 - Validate Download Exgratia - Language allowance Form Template link is clickable
+17:37:16.980 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0008 - Clicked on : Download Exgratia - Language allowance Form Template link
+17:37:17.348 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0008 - New File Created:134877c2-0ef2-4d0e-ac0f-ab8f95142290.tmp
+17:37:17.427 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0008 - New File Created:Claim (10).xlsx.crdownload
+17:37:17.724 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0008 - New File Created:Claim (10).xlsx
+17:37:17.725 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0008 - Downloaded file found with extension .xlsx. File name is Claim (10).xlsx
+17:37:18.223 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0008 - Downloaded document name is Claim (10).xlsx
+17:37:18.224 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0008 - Template with Filename Claim (10).xlsx downloaded successfully
+17:37:22.451 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0008 - Able to mouse over on Paste Your Content Here Text
+17:37:30.657 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0008 - Wait for Upload Document Link
+17:38:01.030 [main] ERROR com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0008 - Upload Document Link is not visible
+17:38:01.031 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0008 - Validate Upload Document Link is clickable
+17:38:31.272 [main] ERROR com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0008 - Upload Document Link is not clickable
+17:38:31.273 [main] ERROR com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0008 - Unable to click on Upload Document Link
+17:39:01.528 [main] ERROR com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0008 - no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=88.0.4324.190)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: 'HCLT-PC5929-1', ip: '10.98.101.172', os.name: 'Windows Server 2019', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.9'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 88.0.4324.190, chrome: {chromedriverVersion: 87.0.4280.88 (89e2380a3e36c..., userDataDir: C:\Users\manish.k01\AppData...}, goog:chromeOptions: {debuggerAddress: localhost:60076}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: 9c92b3146c6f5019c75104976ce6fc33
+*** Element info: {Using=xpath, value=//div[@class='dropzone dropzonePop blueBorder dz-clickable']/div[@class='dz-default dz-message']}

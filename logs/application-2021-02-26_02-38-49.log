@@ -1,0 +1,105 @@
+14:38:49.585 [main] INFO  com.hcl.gim.baseutil.BaseTest - 
+14:38:49.611 [main] INFO  com.hcl.gim.baseutil.BaseTest - Running locally JavaMail
+14:38:49.704 [main] INFO  com.hcl.gim.baseutil.BaseTest - Folder creation for Extent
+14:38:49.751 [main] INFO  com.hcl.gim.baseutil.BaseTest - ExtentDir:-C:\HCL-GIM-Harsha\GIM-App-Harsha1/reports/Automation Report- 02_26_2021_14_38_49/Report/02_26_2021_14_38_49
+14:38:49.908 [main] INFO  com.hcl.gim.baseutil.BaseTest - Report Initiated
+14:38:49.908 [main] INFO  com.hcl.gim.baseutil.BaseTest - Screenshot folder created
+14:38:56.534 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_018 - Chrome Browser is launched
+14:39:02.462 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_018 - Expected text : Log in. is matching with the : Log in. text in the application 
+14:39:02.472 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_018 - Log In page is displayed
+14:39:02.472 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_018 - Enter the value into User Id text box
+14:39:02.734 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_018 - 40136083 typed into User Id text box
+14:39:02.734 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_018 - Enter the value into Password text box
+14:39:02.932 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_018 - GIM@123# typed into Password text box
+14:39:02.932 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_018 - Validate Login button is clickable
+14:39:10.182 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_018 - Clicked on : Login button
+14:39:10.892 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_018 - GEO HR-Log in is successfull
+14:39:10.969 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_018 - Expected text : HR Partner Manual is matching with the : HR Partner Manual text in the application 
+14:39:10.970 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_018 - HR Partner Manual popup is displayed
+14:39:10.970 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_018 - Validate Close button on HCL Banner is clickable
+14:39:11.190 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_018 - Clicked on : Close button on HCL Banner
+14:39:11.333 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_018 - Home page is displayed, url= https://staging.myhcl.com/GIM/Home/Index, title= Home Page
+14:39:11.385 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_018 - Role: Employee
+14:39:11.386 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_018 - Validate Geo HR Initiate On Behalf Of Employee button is clickable
+14:39:12.259 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_018 - Clicked on : Geo HR Initiate On Behalf Of Employee button
+14:39:12.351 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_018 - Initiate Claim page is displayed, url= https://staging.myhcl.com/GIM/HRPartner/InitiateClaim, title= InitiateClaim
+14:39:12.372 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_018 - Wait for Select Claim type Drop down
+14:39:12.552 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_018 - Validate Select Claim type Drop down is clickable
+14:39:12.913 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_018 - Clicked on : Select Claim type Drop down
+14:39:13.989 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_018 - List of all Claim types from the Drop down is displayed.
+14:39:14.015 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_018 - Wait for Ikahya safety bonus( client-seriti/elango)
+14:39:14.348 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_018 - Able to mouse over on  Ikahya safety bonus( client-seriti/elango)
+14:39:14.597 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_018 - Clicked on : Ikahya safety bonus( client-seriti/elango)
+14:39:14.633 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_018 - Able to select Ikahya safety bonus( client-seriti/elango) from the Dropdown and default selection is Copy & Paste 
+14:39:14.694 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_018 - Expected text : Ikahya safety bonus( client-seriti/elango) is matching with the : Ikahya safety bonus( client-seriti/elango) text in the application 
+14:39:14.695 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_018 - Ikahya safety bonus( client-seriti/elango) is selected and default selection is Copy & Paste
+14:39:14.703 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_018 - Scroll up
+14:39:15.341 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_018 - Scroll up
+14:39:15.397 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_018 - Wait for Through the Form Radio Button
+14:39:15.538 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_018 - Validate Through the Form Radio Button is clickable
+14:39:15.717 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_018 - Clicked on : Through the Form Radio Button
+14:39:15.780 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_018 - Through the Form option is selected
+14:39:15.780 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_018 - Wait for Employee code text box
+14:39:15.973 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_018 - Enter the value into Employee code text box
+14:39:16.221 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_018 - 51309317 typed into Employee code text box
+14:39:17.229 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_018 - Valid value is entered in Employee code text box
+14:39:17.229 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_018 - 51309317 entered in Employee code text box
+14:39:17.229 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_018 - Wait for Country code text box
+14:39:17.367 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_018 - Enter the value into Country code text box
+14:39:17.580 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_018 - 16 typed into Country code text box
+14:39:18.607 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_018 - Valid value is entered in Country code text box
+14:39:18.607 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_018 - 16 entered in Country code text box
+14:39:18.607 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_018 - Wait for Company code text box
+14:39:18.761 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_018 - Enter the value into Company code text box
+14:39:18.979 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_018 - 4270 typed into Company code text box
+14:39:20.002 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_018 - Valid value is entered in Company code text box
+14:39:20.002 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_018 - 4270 entered in Company code text box
+14:39:20.011 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_018 - Wait for  Amount text box
+14:39:20.240 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_018 - Enter the value into  Amount text box
+14:39:20.490 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_018 - 140 typed into  Amount text box
+14:39:21.510 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_018 - Valid value is entered in Amount text box
+14:39:21.510 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_018 - 140 entered in Amount text box
+14:39:21.510 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_018 - Wait for From Date text box
+14:39:21.705 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_018 - 2/26/2019   is selected
+14:39:22.722 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_018 - Valid value is entered in From Date text box
+14:39:22.722 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_018 - 2/26/2019   entered in from date text box
+14:39:22.731 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_018 - Wait for To Date text box
+14:39:23.021 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_018 - 7/26/2019   is selected
+14:39:24.051 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_018 - Valid value is entered in To Date text box
+14:39:24.051 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_018 - 7/26/2019   entered in To date text box
+14:39:24.058 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_018 - Wait for Remarks text box
+14:39:24.232 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_018 - Enter the value into Remarks text box
+14:39:24.452 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_018 - Test1 typed into Remarks text box
+14:39:25.478 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_018 - Valid value is entered in Remarks text box
+14:39:25.478 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_018 - Test1 entered in Remarks text box
+14:39:25.478 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_018 - Wait for Number of installments text box
+14:39:25.651 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_018 - Enter the value into Number of installments text box
+14:39:25.879 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_018 - 3 typed into Number of installments text box
+14:39:25.961 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_018 - Expected attribute value : 3 is matching with the actual attribute value : 3 of Number of installments text box
+14:39:25.962 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_018 - 3 entered in Number of installments text box 
+14:39:25.962 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_018 - Wait for Rate text box
+14:39:26.107 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_018 - Enter the value into Rate text box
+14:39:26.324 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_018 - R2 typed into Rate text box
+14:39:26.398 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_018 - Expected attribute value : R2 is matching with the actual attribute value : R2 of Rate text box
+14:39:26.399 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_018 - R2 entered in Rate text box 
+14:39:26.399 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_018 - Wait for Through Form Upload link
+14:39:26.546 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_018 - Validate Through Form Upload link is clickable
+14:39:26.774 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_018 - Clicked on : Through Form Upload link
+14:39:34.113 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_018 - The file is uploaded in the file upload text area
+14:39:34.113 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_018 - Wait for Through Form Submit button
+14:39:34.272 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_018 - Validate Through Form Submit button is clickable
+14:39:34.499 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_018 - Clicked on : Through Form Submit button
+14:39:38.938 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_018 - Are you sure you want to proceed pop up is displayed
+14:39:38.951 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_018 - Wait for Yes button
+14:39:41.079 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_018 - Validate Yes button is clickable
+14:39:41.263 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_018 - Clicked on : Yes button
+14:39:41.264 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_018 - Wait for Claim requests has been successfully raised success message
+14:39:44.805 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_018 - Claim requests has been successfully raised success message is displayed
+14:39:54.732 [main] ERROR com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_018 - chrome not reachable
+  (Session info: chrome=88.0.4324.190)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: 'HCLT-PC5929-1', ip: '10.98.101.172', os.name: 'Windows Server 2019', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.9'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 88.0.4324.190, chrome: {chromedriverVersion: 87.0.4280.88 (89e2380a3e36c..., userDataDir: C:\Users\manish.k01\AppData...}, goog:chromeOptions: {debuggerAddress: localhost:55069}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: 507ec26bd3211a7fe473b852d5082750
+*** Element info: {Using=xpath, value=//div[contains(@class,'spinner')]}

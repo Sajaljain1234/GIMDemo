@@ -1,0 +1,57 @@
+17:16:39.626 [main] INFO  com.hcl.gim.baseutil.BaseTest - 
+17:16:39.639 [main] INFO  com.hcl.gim.baseutil.BaseTest - Running locally JavaMail
+17:16:39.740 [main] INFO  com.hcl.gim.baseutil.BaseTest - Folder creation for Extent
+17:16:39.817 [main] INFO  com.hcl.gim.baseutil.BaseTest - ExtentDir:-C:\HCL-GIM-Harsha\GIM-App-Harsha1/reports/Automation Report- 02_24_2021_17_16_39/Report/02_24_2021_17_16_39
+17:16:40.115 [main] INFO  com.hcl.gim.baseutil.BaseTest - Report Initiated
+17:16:40.121 [main] INFO  com.hcl.gim.baseutil.BaseTest - Screenshot folder created
+17:16:46.524 [main] INFO  com.hcl.gim.testscripts.retention_bonus.TYSS_GIM_RB_0005 - Chrome Browser is launched
+17:16:53.112 [main] INFO  com.hcl.gim.testscripts.retention_bonus.TYSS_GIM_RB_0005 - Expected text : Log in. is matching with the : Log in. text in the application 
+17:16:53.113 [main] INFO  com.hcl.gim.testscripts.retention_bonus.TYSS_GIM_RB_0005 - Log In page is displayed
+17:16:53.113 [main] INFO  com.hcl.gim.testscripts.retention_bonus.TYSS_GIM_RB_0005 - Enter the value into User Id text box
+17:16:53.364 [main] INFO  com.hcl.gim.testscripts.retention_bonus.TYSS_GIM_RB_0005 - 40136083 typed into User Id text box
+17:16:53.364 [main] INFO  com.hcl.gim.testscripts.retention_bonus.TYSS_GIM_RB_0005 - Enter the value into Password text box
+17:16:53.585 [main] INFO  com.hcl.gim.testscripts.retention_bonus.TYSS_GIM_RB_0005 - GIM@123# typed into Password text box
+17:16:53.586 [main] INFO  com.hcl.gim.testscripts.retention_bonus.TYSS_GIM_RB_0005 - Validate Login button is clickable
+17:17:05.415 [main] INFO  com.hcl.gim.testscripts.retention_bonus.TYSS_GIM_RB_0005 - Clicked on : Login button
+17:17:06.186 [main] INFO  com.hcl.gim.testscripts.retention_bonus.TYSS_GIM_RB_0005 - GEO HR-Log in is successfull
+17:17:06.379 [main] INFO  com.hcl.gim.testscripts.retention_bonus.TYSS_GIM_RB_0005 - Expected text : HR Partner Manual is matching with the : HR Partner Manual text in the application 
+17:17:06.381 [main] INFO  com.hcl.gim.testscripts.retention_bonus.TYSS_GIM_RB_0005 - HR Partner Manual popup is displayed
+17:17:06.381 [main] INFO  com.hcl.gim.testscripts.retention_bonus.TYSS_GIM_RB_0005 - Validate Close button on HCL Banner is clickable
+17:17:06.743 [main] INFO  com.hcl.gim.testscripts.retention_bonus.TYSS_GIM_RB_0005 - Clicked on : Close button on HCL Banner
+17:17:07.131 [main] INFO  com.hcl.gim.testscripts.retention_bonus.TYSS_GIM_RB_0005 - Home page is displayed, url= https://staging.myhcl.com/GIM/Home/Index, title= Home Page
+17:17:07.139 [main] INFO  com.hcl.gim.testscripts.retention_bonus.TYSS_GIM_RB_0005 - Role: Employee
+17:17:07.139 [main] INFO  com.hcl.gim.testscripts.retention_bonus.TYSS_GIM_RB_0005 - Validate Geo HR Initiate On Behalf Of Employee button is clickable
+17:17:08.128 [main] INFO  com.hcl.gim.testscripts.retention_bonus.TYSS_GIM_RB_0005 - Clicked on : Geo HR Initiate On Behalf Of Employee button
+17:17:08.239 [main] INFO  com.hcl.gim.testscripts.retention_bonus.TYSS_GIM_RB_0005 - Initiate Claim page is displayed, url= https://staging.myhcl.com/GIM/HRPartner/InitiateClaim, title= InitiateClaim
+17:17:08.271 [main] INFO  com.hcl.gim.testscripts.retention_bonus.TYSS_GIM_RB_0005 - Wait for Select Claim type Drop down
+17:17:08.582 [main] INFO  com.hcl.gim.testscripts.retention_bonus.TYSS_GIM_RB_0005 - Validate Select Claim type Drop down is clickable
+17:17:08.953 [main] INFO  com.hcl.gim.testscripts.retention_bonus.TYSS_GIM_RB_0005 - Clicked on : Select Claim type Drop down
+17:17:10.133 [main] INFO  com.hcl.gim.testscripts.retention_bonus.TYSS_GIM_RB_0005 - List of all Claim types from the Drop down is displayed.
+17:17:10.151 [main] INFO  com.hcl.gim.testscripts.retention_bonus.TYSS_GIM_RB_0005 - Wait for Retention Bonus (Offer letter based)
+17:17:10.413 [main] INFO  com.hcl.gim.testscripts.retention_bonus.TYSS_GIM_RB_0005 - Able to mouse over on  Retention Bonus (Offer letter based)
+17:17:10.656 [main] INFO  com.hcl.gim.testscripts.retention_bonus.TYSS_GIM_RB_0005 - Clicked on : Retention Bonus (Offer letter based)
+17:17:10.707 [main] INFO  com.hcl.gim.testscripts.retention_bonus.TYSS_GIM_RB_0005 - Able to select Retention Bonus (Offer letter based) from the Dropdown and default selection is Copy & Paste 
+17:17:10.774 [main] INFO  com.hcl.gim.testscripts.retention_bonus.TYSS_GIM_RB_0005 - Expected text : Retention Bonus (Offer letter based) is matching with the : Retention Bonus (Offer letter based) text in the application 
+17:17:10.774 [main] INFO  com.hcl.gim.testscripts.retention_bonus.TYSS_GIM_RB_0005 - Retention Bonus (Offer letter based) is selected and default selection is Copy & Paste
+17:17:10.784 [main] INFO  com.hcl.gim.testscripts.retention_bonus.TYSS_GIM_RB_0005 - Scroll up
+17:17:10.914 [main] INFO  com.hcl.gim.testscripts.retention_bonus.TYSS_GIM_RB_0005 - Wait for Download Retention Bonus (Offer letter based) Form Template link
+17:17:11.071 [main] INFO  com.hcl.gim.testscripts.retention_bonus.TYSS_GIM_RB_0005 - Validate Download Retention Bonus (Offer letter based) Form Template link is clickable
+17:17:11.274 [main] INFO  com.hcl.gim.testscripts.retention_bonus.TYSS_GIM_RB_0005 - Clicked on : Download Retention Bonus (Offer letter based) Form Template link
+17:17:11.607 [main] INFO  com.hcl.gim.testscripts.retention_bonus.TYSS_GIM_RB_0005 - New File Created:63180f89-9a88-4ed9-9e69-e749724ff9a7.tmp
+17:17:11.702 [main] INFO  com.hcl.gim.testscripts.retention_bonus.TYSS_GIM_RB_0005 - New File Created:Claim (26).xlsx.crdownload
+17:17:11.854 [main] INFO  com.hcl.gim.testscripts.retention_bonus.TYSS_GIM_RB_0005 - New File Created:Claim (26).xlsx
+17:17:11.855 [main] INFO  com.hcl.gim.testscripts.retention_bonus.TYSS_GIM_RB_0005 - Downloaded file found with extension .xlsx. File name is Claim (26).xlsx
+17:17:12.355 [main] INFO  com.hcl.gim.testscripts.retention_bonus.TYSS_GIM_RB_0005 - Downloaded document name is Claim (26).xlsx
+17:17:12.355 [main] INFO  com.hcl.gim.testscripts.retention_bonus.TYSS_GIM_RB_0005 - Template with Filename Claim (26).xlsx downloaded successfully
+17:17:15.740 [main] INFO  com.hcl.gim.testscripts.retention_bonus.TYSS_GIM_RB_0005 - Able to mouse over on Paste Your Content Here Text
+17:17:25.971 [main] INFO  com.hcl.gim.testscripts.retention_bonus.TYSS_GIM_RB_0005 - Wait for Upload Document Link
+17:17:26.125 [main] INFO  com.hcl.gim.testscripts.retention_bonus.TYSS_GIM_RB_0005 - Validate Upload Document Link is clickable
+17:17:26.284 [main] INFO  com.hcl.gim.testscripts.retention_bonus.TYSS_GIM_RB_0005 - Clicked on : Upload Document Link
+17:17:33.442 [main] INFO  com.hcl.gim.testscripts.retention_bonus.TYSS_GIM_RB_0005 - Expected text : Sample(PNG).png is matching with the : Sample(PNG).png text in the application 
+17:17:33.443 [main] INFO  com.hcl.gim.testscripts.retention_bonus.TYSS_GIM_RB_0005 - Sample(PNG).png file is uploaded
+17:17:33.443 [main] INFO  com.hcl.gim.testscripts.retention_bonus.TYSS_GIM_RB_0005 - Wait for Clear Button
+17:17:33.634 [main] INFO  com.hcl.gim.testscripts.retention_bonus.TYSS_GIM_RB_0005 - Validate Clear Button is clickable
+17:17:33.834 [main] INFO  com.hcl.gim.testscripts.retention_bonus.TYSS_GIM_RB_0005 - Clicked on : Clear Button
+17:17:33.928 [main] INFO  com.hcl.gim.testscripts.retention_bonus.TYSS_GIM_RB_0005 - Download Form Template is reset
+17:17:34.005 [main] INFO  com.hcl.gim.testscripts.retention_bonus.TYSS_GIM_RB_0005 - Paste Your Content Here is reset
+17:17:34.089 [main] INFO  com.hcl.gim.testscripts.retention_bonus.TYSS_GIM_RB_0005 - Upload or Drag and Drop Your Files Here is reset

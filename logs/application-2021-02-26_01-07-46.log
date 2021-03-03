@@ -1,0 +1,50 @@
+13:07:47.139 [main] INFO  com.hcl.gim.baseutil.BaseTest - 
+13:07:47.146 [main] INFO  com.hcl.gim.baseutil.BaseTest - Running locally JavaMail
+13:07:47.233 [main] INFO  com.hcl.gim.baseutil.BaseTest - Folder creation for Extent
+13:07:47.247 [main] INFO  com.hcl.gim.baseutil.BaseTest - ExtentDir:-C:\HCL-GIM-Harsha\GIM-App-Harsha1/reports/Automation Report- 02_26_2021_13_07_47/Report/02_26_2021_13_07_47
+13:07:47.401 [main] INFO  com.hcl.gim.baseutil.BaseTest - Report Initiated
+13:07:47.405 [main] INFO  com.hcl.gim.baseutil.BaseTest - Screenshot folder created
+13:07:52.888 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0006 - Chrome Browser is launched
+13:07:54.452 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0006 - Expected text : Log in. is matching with the : Log in. text in the application 
+13:07:54.452 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0006 - Log In page is displayed
+13:07:54.452 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0006 - Enter the value into User Id text box
+13:07:54.703 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0006 - 40136083 typed into User Id text box
+13:07:54.703 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0006 - Enter the value into Password text box
+13:07:54.917 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0006 - GIM@123# typed into Password text box
+13:07:54.917 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0006 - Validate Login button is clickable
+13:07:56.919 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0006 - Clicked on : Login button
+13:07:57.723 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0006 - GEO HR-Log in is successfull
+13:07:57.814 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0006 - Expected text : HR Partner Manual is matching with the : HR Partner Manual text in the application 
+13:07:57.815 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0006 - HR Partner Manual popup is displayed
+13:07:57.815 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0006 - Validate Close button on HCL Banner is clickable
+13:07:57.988 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0006 - Clicked on : Close button on HCL Banner
+13:07:58.219 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0006 - Home page is displayed, url= https://staging.myhcl.com/GIM/Home/Index, title= Home Page
+13:07:58.236 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0006 - Role: Employee
+13:07:58.237 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0006 - Validate Geo HR Initiate On Behalf Of Employee button is clickable
+13:08:00.608 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0006 - Clicked on : Geo HR Initiate On Behalf Of Employee button
+13:08:00.708 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0006 - Initiate Claim page is displayed, url= https://staging.myhcl.com/GIM/HRPartner/InitiateClaim, title= InitiateClaim
+13:08:00.726 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0006 - Wait for Select Claim type Drop down
+13:08:01.221 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0006 - Validate Select Claim type Drop down is clickable
+13:08:01.460 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0006 - Clicked on : Select Claim type Drop down
+13:08:02.493 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0006 - List of all Claim types from the Drop down is displayed.
+13:08:02.513 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0006 - Wait for Exgratia - Language allowance
+13:08:02.747 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0006 - Able to mouse over on  Exgratia - Language allowance
+13:08:02.968 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0006 - Clicked on : Exgratia - Language allowance
+13:08:03.009 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0006 - Able to select Exgratia - Language allowance from the Dropdown and default selection is Copy & Paste 
+13:08:03.072 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0006 - Expected text : Exgratia - Language allowance is matching with the : Exgratia - Language allowance text in the application 
+13:08:03.073 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0006 - Exgratia - Language allowance is selected and default selection is Copy & Paste
+13:08:03.083 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0006 - Scroll up
+13:08:03.728 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0006 - Wait for Paste Your Content Here Text field
+13:08:03.865 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0006 - Enter the value into Paste Your Content Here Text field
+13:08:04.101 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0006 - Employee Code
+ 40207011 typed into Paste Your Content Here Text field
+13:08:04.101 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0006 - Wait for Upload Document Link
+13:08:04.248 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0006 - Validate Upload Document Link is clickable
+13:08:04.397 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0006 - Clicked on : Upload Document Link
+13:08:11.707 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0006 - Expected text : Sample(PDF).pdf is matching with the : Sample(PDF).pdf text in the application 
+13:08:11.708 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0006 - Sample(PDF).pdf file is uploaded
+13:08:11.709 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0006 - Wait for Upload Button
+13:08:11.917 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0006 - Validate Upload Button is clickable
+13:08:12.182 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0006 - Clicked on : Upload Button
+13:08:16.809 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0006 - Expected text : Please paste records. is matching with the : Please paste records. text in the application 
+13:08:16.810 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0006 - Please Paste Records Text is displayed

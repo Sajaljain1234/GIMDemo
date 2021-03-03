@@ -1,0 +1,6 @@
+13:46:41.064 [main] INFO  com.hcl.gim.baseutil.BaseTest - 
+13:46:41.083 [main] INFO  com.hcl.gim.baseutil.BaseTest - Running locally JavaMail
+13:46:41.208 [main] INFO  com.hcl.gim.baseutil.BaseTest - Folder creation for Extent
+13:46:41.224 [main] INFO  com.hcl.gim.baseutil.BaseTest - ExtentDir:-C:\HCL-GIM-Harsha\GIM-App-Harsha1/reports/Automation Report- 02_26_2021_13_46_41/Report/02_26_2021_13_46_41
+13:46:41.412 [main] INFO  com.hcl.gim.baseutil.BaseTest - Report Initiated
+13:46:41.412 [main] INFO  com.hcl.gim.baseutil.BaseTest - Screenshot folder created

@@ -1,0 +1,632 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite configfailurepolicy="continue" thread-count="1" name="Failed suite [Failed suite [Global Input Module]]" guice-stage="DEVELOPMENT">
+  <listeners>
+    <listener class-name="com.hcl.gim.listeners.TestListener"/>
+  </listeners>
+  <test thread-count="1" name="PROJECT_Test1(failed)(failed)">
+    <parameter name="browserName" value="Chrome"/>
+    <classes>
+      <class name="com.hcl.gim.testscripts.hcl_jewels.TYSS_GIM_HJ_0016">
+        <methods>
+          <include name="createFiles"/>
+          <include name="TC_TYSS_GIM_HJ_0016" invocation-numbers="0"/>
+          <include name="setExtentReport"/>
+          <include name="closeBrowser"/>
+          <include name="launchApp"/>
+          <include name="killTask"/>
+        </methods>
+      </class> <!-- com.hcl.gim.testscripts.hcl_jewels.TYSS_GIM_HJ_0016 -->
+      <class name="com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_024">
+        <methods>
+          <include name="createFiles"/>
+          <include name="TC_TYSS_GIM_ISB_024" invocation-numbers="0"/>
+          <include name="setExtentReport"/>
+          <include name="closeBrowser"/>
+          <include name="launchApp"/>
+          <include name="killTask"/>
+        </methods>
+      </class> <!-- com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_024 -->
+      <class name="com.hcl.gim.testscripts.retention_bonus.TYSS_GIM_RB_0021">
+        <methods>
+          <include name="createFiles"/>
+          <include name="setExtentReport"/>
+          <include name="closeBrowser"/>
+          <include name="TC_TYSS_GIM_RB_0021" invocation-numbers="0"/>
+          <include name="launchApp"/>
+          <include name="killTask"/>
+        </methods>
+      </class> <!-- com.hcl.gim.testscripts.retention_bonus.TYSS_GIM_RB_0021 -->
+      <class name="com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0017">
+        <methods>
+          <include name="createFiles"/>
+          <include name="TC_TYSS_GIM_CBRI_0017" invocation-numbers="0"/>
+          <include name="setExtentReport"/>
+          <include name="closeBrowser"/>
+          <include name="launchApp"/>
+          <include name="killTask"/>
+        </methods>
+      </class> <!-- com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0017 -->
+      <class name="com.hcl.gim.testscripts.exgratia_others.TYSS_GIM_EXO_0021">
+        <methods>
+          <include name="createFiles"/>
+          <include name="setExtentReport"/>
+          <include name="closeBrowser"/>
+          <include name="launchApp"/>
+          <include name="killTask"/>
+          <include name="TC_TYSS_GIM_EXO_0021" invocation-numbers="0"/>
+        </methods>
+      </class> <!-- com.hcl.gim.testscripts.exgratia_others.TYSS_GIM_EXO_0021 -->
+      <class name="com.hcl.gim.testscripts.transport_allowance.TYSS_GIM_TA_0024">
+        <methods>
+          <include name="createFiles"/>
+          <include name="setExtentReport"/>
+          <include name="closeBrowser"/>
+          <include name="launchApp"/>
+          <include name="killTask"/>
+          <include name="TC_TYSS_GIM_TA_0024" invocation-numbers="0"/>
+        </methods>
+      </class> <!-- com.hcl.gim.testscripts.transport_allowance.TYSS_GIM_TA_0024 -->
+      <class name="com.hcl.gim.testscripts.retention_bonus.TYSS_GIM_RB_0019">
+        <methods>
+          <include name="createFiles"/>
+          <include name="setExtentReport"/>
+          <include name="closeBrowser"/>
+          <include name="launchApp"/>
+          <include name="killTask"/>
+          <include name="TC_TYSS_GIM_RB_0019" invocation-numbers="0"/>
+        </methods>
+      </class> <!-- com.hcl.gim.testscripts.retention_bonus.TYSS_GIM_RB_0019 -->
+      <class name="com.hcl.gim.testscripts.transport_allowance.TYSS_GIM_TA_0022">
+        <methods>
+          <include name="createFiles"/>
+          <include name="setExtentReport"/>
+          <include name="closeBrowser"/>
+          <include name="launchApp"/>
+          <include name="killTask"/>
+          <include name="TC_TYSS_GIM_TA_0022" invocation-numbers="0"/>
+        </methods>
+      </class> <!-- com.hcl.gim.testscripts.transport_allowance.TYSS_GIM_TA_0022 -->
+      <class name="com.hcl.gim.testscripts.hcl_jewels.TYSS_GIM_HJ_0017">
+        <methods>
+          <include name="createFiles"/>
+          <include name="setExtentReport"/>
+          <include name="closeBrowser"/>
+          <include name="launchApp"/>
+          <include name="killTask"/>
+          <include name="TC_TYSS_GIM_HJ_0017" invocation-numbers="0"/>
+        </methods>
+      </class> <!-- com.hcl.gim.testscripts.hcl_jewels.TYSS_GIM_HJ_0017 -->
+      <class name="com.hcl.gim.testscripts.rsu.TYSS_GIM_RSU_0016">
+        <methods>
+          <include name="createFiles"/>
+          <include name="setExtentReport"/>
+          <include name="closeBrowser"/>
+          <include name="launchApp"/>
+          <include name="killTask"/>
+          <include name="TC_TYSS_GIM_RSU_0016" invocation-numbers="0"/>
+        </methods>
+      </class> <!-- com.hcl.gim.testscripts.rsu.TYSS_GIM_RSU_0016 -->
+      <class name="com.hcl.gim.testscripts.rsu.TYSS_GIM_RSU_0017">
+        <methods>
+          <include name="createFiles"/>
+          <include name="setExtentReport"/>
+          <include name="closeBrowser"/>
+          <include name="launchApp"/>
+          <include name="killTask"/>
+          <include name="TC_TYSS_GIM_RSU_0017" invocation-numbers="0"/>
+        </methods>
+      </class> <!-- com.hcl.gim.testscripts.rsu.TYSS_GIM_RSU_0017 -->
+      <class name="com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0018">
+        <methods>
+          <include name="createFiles"/>
+          <include name="setExtentReport"/>
+          <include name="closeBrowser"/>
+          <include name="launchApp"/>
+          <include name="killTask"/>
+          <include name="TC_TYSS_GIM_CBRI_0018" invocation-numbers="0"/>
+        </methods>
+      </class> <!-- com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0018 -->
+      <class name="com.hcl.gim.testscripts.child_education.TYSS_GIM_CEA_0006">
+        <methods>
+          <include name="createFiles"/>
+          <include name="setExtentReport"/>
+          <include name="closeBrowser"/>
+          <include name="launchApp"/>
+          <include name="killTask"/>
+          <include name="TC_TYSS_GIM_CEA_0006" invocation-numbers="0"/>
+        </methods>
+      </class> <!-- com.hcl.gim.testscripts.child_education.TYSS_GIM_CEA_0006 -->
+      <class name="com.hcl.gim.testscripts.car_parking_deduction.TYSS_GIM_CPD_0006">
+        <methods>
+          <include name="createFiles"/>
+          <include name="setExtentReport"/>
+          <include name="closeBrowser"/>
+          <include name="TC_TYSS_GIM_CPD_0006" invocation-numbers="0"/>
+          <include name="launchApp"/>
+          <include name="killTask"/>
+        </methods>
+      </class> <!-- com.hcl.gim.testscripts.car_parking_deduction.TYSS_GIM_CPD_0006 -->
+      <class name="com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0016">
+        <methods>
+          <include name="createFiles"/>
+          <include name="setExtentReport"/>
+          <include name="closeBrowser"/>
+          <include name="launchApp"/>
+          <include name="killTask"/>
+          <include name="TC_TYSS_GIM_ELA_0016" invocation-numbers="0"/>
+        </methods>
+      </class> <!-- com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0016 -->
+      <class name="com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0019">
+        <methods>
+          <include name="createFiles"/>
+          <include name="setExtentReport"/>
+          <include name="closeBrowser"/>
+          <include name="launchApp"/>
+          <include name="killTask"/>
+          <include name="TC_TYSS_GIM_ELA_0019" invocation-numbers="0"/>
+        </methods>
+      </class> <!-- com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0019 -->
+      <class name="com.hcl.gim.testscripts.retention_bonus.TYSS_GIM_RB_0020">
+        <methods>
+          <include name="createFiles"/>
+          <include name="setExtentReport"/>
+          <include name="closeBrowser"/>
+          <include name="launchApp"/>
+          <include name="killTask"/>
+          <include name="TC_TYSS_GIM_RB_0020" invocation-numbers="0"/>
+        </methods>
+      </class> <!-- com.hcl.gim.testscripts.retention_bonus.TYSS_GIM_RB_0020 -->
+      <class name="com.hcl.gim.testscripts.exgratia_others.TYSS_GIM_EXO_0020">
+        <methods>
+          <include name="createFiles"/>
+          <include name="setExtentReport"/>
+          <include name="closeBrowser"/>
+          <include name="TC_TYSS_GIM_EXO_0020" invocation-numbers="0"/>
+          <include name="launchApp"/>
+          <include name="killTask"/>
+        </methods>
+      </class> <!-- com.hcl.gim.testscripts.exgratia_others.TYSS_GIM_EXO_0020 -->
+      <class name="com.hcl.gim.testscripts.exgratia_others.TYSS_GIM_EXO_0005">
+        <methods>
+          <include name="createFiles"/>
+          <include name="setExtentReport"/>
+          <include name="closeBrowser"/>
+          <include name="TC_TYSS_GIM_EXO_0005" invocation-numbers="0"/>
+          <include name="launchApp"/>
+          <include name="killTask"/>
+        </methods>
+      </class> <!-- com.hcl.gim.testscripts.exgratia_others.TYSS_GIM_EXO_0005 -->
+      <class name="com.hcl.gim.testscripts.hcl_jewels.TYSS_GIM_HJ_0019">
+        <methods>
+          <include name="createFiles"/>
+          <include name="setExtentReport"/>
+          <include name="closeBrowser"/>
+          <include name="launchApp"/>
+          <include name="killTask"/>
+          <include name="TC_TYSS_GIM_HJ_0019" invocation-numbers="0"/>
+        </methods>
+      </class> <!-- com.hcl.gim.testscripts.hcl_jewels.TYSS_GIM_HJ_0019 -->
+      <class name="com.hcl.gim.testscripts.exgratia_others.TYSS_GIM_EXO_0019">
+        <methods>
+          <include name="createFiles"/>
+          <include name="setExtentReport"/>
+          <include name="closeBrowser"/>
+          <include name="launchApp"/>
+          <include name="killTask"/>
+          <include name="TC_TYSS_GIM_EXO_0019" invocation-numbers="0"/>
+        </methods>
+      </class> <!-- com.hcl.gim.testscripts.exgratia_others.TYSS_GIM_EXO_0019 -->
+      <class name="com.hcl.gim.testscripts.patent_award.TYSS_GIM_PA_0018">
+        <methods>
+          <include name="createFiles"/>
+          <include name="TC_TYSS_GIM_PA_0018" invocation-numbers="0"/>
+          <include name="setExtentReport"/>
+          <include name="closeBrowser"/>
+          <include name="launchApp"/>
+          <include name="killTask"/>
+        </methods>
+      </class> <!-- com.hcl.gim.testscripts.patent_award.TYSS_GIM_PA_0018 -->
+      <class name="com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_009">
+        <methods>
+          <include name="createFiles"/>
+          <include name="TC_TYSS_GIM_ISB_009" invocation-numbers="0"/>
+          <include name="setExtentReport"/>
+          <include name="closeBrowser"/>
+          <include name="launchApp"/>
+          <include name="killTask"/>
+        </methods>
+      </class> <!-- com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_009 -->
+      <class name="com.hcl.gim.testscripts.child_education.TYSS_GIM_CEA_0012">
+        <methods>
+          <include name="createFiles"/>
+          <include name="TC_TYSS_GIM_CEA_0012"/>
+          <include name="setExtentReport"/>
+          <include name="closeBrowser"/>
+          <include name="launchApp"/>
+          <include name="killTask"/>
+        </methods>
+      </class> <!-- com.hcl.gim.testscripts.child_education.TYSS_GIM_CEA_0012 -->
+      <class name="com.hcl.gim.testscripts.car_parking_deduction.TYSS_GIM_CPD_0002">
+        <methods>
+          <include name="createFiles"/>
+          <include name="setExtentReport"/>
+          <include name="closeBrowser"/>
+          <include name="TC_TYSS_GIM_CPD_0002" invocation-numbers="0"/>
+          <include name="launchApp"/>
+          <include name="killTask"/>
+        </methods>
+      </class> <!-- com.hcl.gim.testscripts.car_parking_deduction.TYSS_GIM_CPD_0002 -->
+      <class name="com.hcl.gim.testscripts.exgratia_others.TYSS_GIM_EXO_0022">
+        <methods>
+          <include name="createFiles"/>
+          <include name="setExtentReport"/>
+          <include name="closeBrowser"/>
+          <include name="launchApp"/>
+          <include name="killTask"/>
+          <include name="TC_TYSS_GIM_EXO_0022" invocation-numbers="0"/>
+        </methods>
+      </class> <!-- com.hcl.gim.testscripts.exgratia_others.TYSS_GIM_EXO_0022 -->
+      <class name="com.hcl.gim.testscripts.child_education.TYSS_GIM_CEA_0005">
+        <methods>
+          <include name="createFiles"/>
+          <include name="setExtentReport"/>
+          <include name="closeBrowser"/>
+          <include name="launchApp"/>
+          <include name="killTask"/>
+          <include name="TC_TYSS_GIM_CEA_0005" invocation-numbers="0"/>
+        </methods>
+      </class> <!-- com.hcl.gim.testscripts.child_education.TYSS_GIM_CEA_0005 -->
+      <class name="com.hcl.gim.testscripts.foundation_bonus.TYSS_GIM_FB_0017">
+        <methods>
+          <include name="createFiles"/>
+          <include name="setExtentReport"/>
+          <include name="closeBrowser"/>
+          <include name="launchApp"/>
+          <include name="killTask"/>
+          <include name="TC_TYSS_GIM_FB_0017" invocation-numbers="0"/>
+        </methods>
+      </class> <!-- com.hcl.gim.testscripts.foundation_bonus.TYSS_GIM_FB_0017 -->
+      <class name="com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_011">
+        <methods>
+          <include name="createFiles"/>
+          <include name="setExtentReport"/>
+          <include name="closeBrowser"/>
+          <include name="TC_TYSS_GIM_ISB_011" invocation-numbers="0"/>
+          <include name="launchApp"/>
+          <include name="killTask"/>
+        </methods>
+      </class> <!-- com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_011 -->
+      <class name="com.hcl.gim.testscripts.rsu.TYSS_GIM_RSU_0018">
+        <methods>
+          <include name="createFiles"/>
+          <include name="setExtentReport"/>
+          <include name="closeBrowser"/>
+          <include name="launchApp"/>
+          <include name="killTask"/>
+          <include name="TC_TYSS_GIM_RSU_0018" invocation-numbers="0"/>
+        </methods>
+      </class> <!-- com.hcl.gim.testscripts.rsu.TYSS_GIM_RSU_0018 -->
+      <class name="com.hcl.gim.testscripts.foundation_bonus.TYSS_GIM_FB_0019">
+        <methods>
+          <include name="createFiles"/>
+          <include name="setExtentReport"/>
+          <include name="closeBrowser"/>
+          <include name="launchApp"/>
+          <include name="killTask"/>
+          <include name="TC_TYSS_GIM_FB_0019" invocation-numbers="0"/>
+        </methods>
+      </class> <!-- com.hcl.gim.testscripts.foundation_bonus.TYSS_GIM_FB_0019 -->
+      <class name="com.hcl.gim.testscripts.exgratia_others.TYSS_GIM_EXO_0015">
+        <methods>
+          <include name="createFiles"/>
+          <include name="TC_TYSS_GIM_EXO_0015" invocation-numbers="0"/>
+          <include name="setExtentReport"/>
+          <include name="closeBrowser"/>
+          <include name="launchApp"/>
+          <include name="killTask"/>
+        </methods>
+      </class> <!-- com.hcl.gim.testscripts.exgratia_others.TYSS_GIM_EXO_0015 -->
+      <class name="com.hcl.gim.testscripts.child_education.TYSS_GIM_CEA_0004">
+        <methods>
+          <include name="createFiles"/>
+          <include name="setExtentReport"/>
+          <include name="closeBrowser"/>
+          <include name="launchApp"/>
+          <include name="killTask"/>
+          <include name="TC_TYSS_GIM_CEA_0004"/>
+        </methods>
+      </class> <!-- com.hcl.gim.testscripts.child_education.TYSS_GIM_CEA_0004 -->
+      <class name="com.hcl.gim.testscripts.hcl_jewels.TYSS_GIM_HJ_0018">
+        <methods>
+          <include name="TC_TYSS_GIM_HJ_0018" invocation-numbers="0"/>
+          <include name="createFiles"/>
+          <include name="setExtentReport"/>
+          <include name="closeBrowser"/>
+          <include name="launchApp"/>
+          <include name="killTask"/>
+        </methods>
+      </class> <!-- com.hcl.gim.testscripts.hcl_jewels.TYSS_GIM_HJ_0018 -->
+      <class name="com.hcl.gim.testscripts.child_education.TYSS_GIM_CEA_0003">
+        <methods>
+          <include name="createFiles"/>
+          <include name="setExtentReport"/>
+          <include name="closeBrowser"/>
+          <include name="launchApp"/>
+          <include name="killTask"/>
+          <include name="TC_TYSS_GIM_CEA_0003" invocation-numbers="0"/>
+        </methods>
+      </class> <!-- com.hcl.gim.testscripts.child_education.TYSS_GIM_CEA_0003 -->
+      <class name="com.hcl.gim.testscripts.car_parking_deduction.TYSS_GIM_CPD_0010">
+        <methods>
+          <include name="createFiles"/>
+          <include name="setExtentReport"/>
+          <include name="closeBrowser"/>
+          <include name="TC_TYSS_GIM_CPD_0010" invocation-numbers="0"/>
+          <include name="launchApp"/>
+          <include name="killTask"/>
+        </methods>
+      </class> <!-- com.hcl.gim.testscripts.car_parking_deduction.TYSS_GIM_CPD_0010 -->
+      <class name="com.hcl.gim.testscripts.transport_allowance.TYSS_GIM_TA_0018">
+        <methods>
+          <include name="createFiles"/>
+          <include name="TC_TYSS_GIM_TA_0018" invocation-numbers="0"/>
+          <include name="setExtentReport"/>
+          <include name="closeBrowser"/>
+          <include name="launchApp"/>
+          <include name="killTask"/>
+        </methods>
+      </class> <!-- com.hcl.gim.testscripts.transport_allowance.TYSS_GIM_TA_0018 -->
+      <class name="com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0019">
+        <methods>
+          <include name="createFiles"/>
+          <include name="TC_TYSS_GIM_CBRI_0019" invocation-numbers="0"/>
+          <include name="setExtentReport"/>
+          <include name="closeBrowser"/>
+          <include name="launchApp"/>
+          <include name="killTask"/>
+        </methods>
+      </class> <!-- com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0019 -->
+      <class name="com.hcl.gim.testscripts.car_parking_deduction.TYSS_GIM_CPD_0005">
+        <methods>
+          <include name="createFiles"/>
+          <include name="setExtentReport"/>
+          <include name="closeBrowser"/>
+          <include name="TC_TYSS_GIM_CPD_0005" invocation-numbers="0"/>
+          <include name="launchApp"/>
+          <include name="killTask"/>
+        </methods>
+      </class> <!-- com.hcl.gim.testscripts.car_parking_deduction.TYSS_GIM_CPD_0005 -->
+      <class name="com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0018">
+        <methods>
+          <include name="createFiles"/>
+          <include name="setExtentReport"/>
+          <include name="closeBrowser"/>
+          <include name="launchApp"/>
+          <include name="killTask"/>
+          <include name="TC_TYSS_GIM_ELA_0018" invocation-numbers="0"/>
+        </methods>
+      </class> <!-- com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0018 -->
+      <class name="com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_023">
+        <methods>
+          <include name="createFiles"/>
+          <include name="TC_TYSS_GIM_ISB_023" invocation-numbers="0"/>
+          <include name="setExtentReport"/>
+          <include name="closeBrowser"/>
+          <include name="launchApp"/>
+          <include name="killTask"/>
+        </methods>
+      </class> <!-- com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_023 -->
+      <class name="com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_021">
+        <methods>
+          <include name="createFiles"/>
+          <include name="setExtentReport"/>
+          <include name="closeBrowser"/>
+          <include name="TC_TYSS_GIM_ISB_021" invocation-numbers="0"/>
+          <include name="launchApp"/>
+          <include name="killTask"/>
+        </methods>
+      </class> <!-- com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_021 -->
+      <class name="com.hcl.gim.testscripts.retention_bonus.TYSS_GIM_RB_0016">
+        <methods>
+          <include name="createFiles"/>
+          <include name="setExtentReport"/>
+          <include name="closeBrowser"/>
+          <include name="launchApp"/>
+          <include name="killTask"/>
+          <include name="TC_TYSS_GIM_RB_0016" invocation-numbers="0"/>
+        </methods>
+      </class> <!-- com.hcl.gim.testscripts.retention_bonus.TYSS_GIM_RB_0016 -->
+      <class name="com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0017">
+        <methods>
+          <include name="createFiles"/>
+          <include name="setExtentReport"/>
+          <include name="closeBrowser"/>
+          <include name="launchApp"/>
+          <include name="killTask"/>
+          <include name="TC_TYSS_GIM_ELA_0017" invocation-numbers="0"/>
+        </methods>
+      </class> <!-- com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0017 -->
+      <class name="com.hcl.gim.testscripts.child_education.TYSS_GIM_CEA_0007">
+        <methods>
+          <include name="createFiles"/>
+          <include name="setExtentReport"/>
+          <include name="closeBrowser"/>
+          <include name="launchApp"/>
+          <include name="killTask"/>
+          <include name="TC_TYSS_GIM_CEA_0007"/>
+        </methods>
+      </class> <!-- com.hcl.gim.testscripts.child_education.TYSS_GIM_CEA_0007 -->
+      <class name="com.hcl.gim.testscripts.patent_award.TYSS_GIM_PA_0017">
+        <methods>
+          <include name="createFiles"/>
+          <include name="setExtentReport"/>
+          <include name="closeBrowser"/>
+          <include name="launchApp"/>
+          <include name="killTask"/>
+          <include name="TC_TYSS_GIM_PA_0017" invocation-numbers="0"/>
+        </methods>
+      </class> <!-- com.hcl.gim.testscripts.patent_award.TYSS_GIM_PA_0017 -->
+      <class name="com.hcl.gim.testscripts.retention_bonus.TYSS_GIM_RB_0008">
+        <methods>
+          <include name="createFiles"/>
+          <include name="setExtentReport"/>
+          <include name="closeBrowser"/>
+          <include name="launchApp"/>
+          <include name="killTask"/>
+          <include name="TC_TYSS_GIM_RB_0008" invocation-numbers="0"/>
+        </methods>
+      </class> <!-- com.hcl.gim.testscripts.retention_bonus.TYSS_GIM_RB_0008 -->
+      <class name="com.hcl.gim.testscripts.transport_allowance.TYSS_GIM_TA_0021">
+        <methods>
+          <include name="createFiles"/>
+          <include name="TC_TYSS_GIM_TA_0021" invocation-numbers="0"/>
+          <include name="setExtentReport"/>
+          <include name="closeBrowser"/>
+          <include name="launchApp"/>
+          <include name="killTask"/>
+        </methods>
+      </class> <!-- com.hcl.gim.testscripts.transport_allowance.TYSS_GIM_TA_0021 -->
+      <class name="com.hcl.gim.testscripts.rsu.TYSS_GIM_RSU_0019">
+        <methods>
+          <include name="createFiles"/>
+          <include name="setExtentReport"/>
+          <include name="closeBrowser"/>
+          <include name="launchApp"/>
+          <include name="killTask"/>
+          <include name="TC_TYSS_GIM_RSU_0019" invocation-numbers="0"/>
+        </methods>
+      </class> <!-- com.hcl.gim.testscripts.rsu.TYSS_GIM_RSU_0019 -->
+      <class name="com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0013">
+        <methods>
+          <include name="TC_TYSS_GIM_ELA_00013" invocation-numbers="0"/>
+          <include name="createFiles"/>
+          <include name="setExtentReport"/>
+          <include name="closeBrowser"/>
+          <include name="launchApp"/>
+          <include name="killTask"/>
+        </methods>
+      </class> <!-- com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0013 -->
+      <class name="com.hcl.gim.testscripts.child_education.TYSS_GIM_CEA_0009">
+        <methods>
+          <include name="createFiles"/>
+          <include name="TC_TYSS_GIM_CEA_0009" invocation-numbers="0"/>
+          <include name="setExtentReport"/>
+          <include name="closeBrowser"/>
+          <include name="launchApp"/>
+          <include name="killTask"/>
+        </methods>
+      </class> <!-- com.hcl.gim.testscripts.child_education.TYSS_GIM_CEA_0009 -->
+      <class name="com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_022">
+        <methods>
+          <include name="createFiles"/>
+          <include name="setExtentReport"/>
+          <include name="closeBrowser"/>
+          <include name="TC_TYSS_GIM_ISB_022" invocation-numbers="0"/>
+          <include name="launchApp"/>
+          <include name="killTask"/>
+        </methods>
+      </class> <!-- com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_022 -->
+      <class name="com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_018">
+        <methods>
+          <include name="createFiles"/>
+          <include name="setExtentReport"/>
+          <include name="closeBrowser"/>
+          <include name="TC_TYSS_GIM_ISB_018" invocation-numbers="0"/>
+          <include name="launchApp"/>
+          <include name="killTask"/>
+        </methods>
+      </class> <!-- com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_018 -->
+      <class name="com.hcl.gim.testscripts.transport_allowance.TYSS_GIM_TA_0023">
+        <methods>
+          <include name="createFiles"/>
+          <include name="setExtentReport"/>
+          <include name="closeBrowser"/>
+          <include name="launchApp"/>
+          <include name="killTask"/>
+          <include name="TC_TYSS_GIM_TA_0023" invocation-numbers="0"/>
+        </methods>
+      </class> <!-- com.hcl.gim.testscripts.transport_allowance.TYSS_GIM_TA_0023 -->
+      <class name="com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0016">
+        <methods>
+          <include name="createFiles"/>
+          <include name="setExtentReport"/>
+          <include name="closeBrowser"/>
+          <include name="TC_TYSS_GIM_CBRI_0016" invocation-numbers="0"/>
+          <include name="launchApp"/>
+          <include name="killTask"/>
+        </methods>
+      </class> <!-- com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0016 -->
+      <class name="com.hcl.gim.testscripts.patent_award.TYSS_GIM_PA_0019">
+        <methods>
+          <include name="createFiles"/>
+          <include name="setExtentReport"/>
+          <include name="closeBrowser"/>
+          <include name="launchApp"/>
+          <include name="killTask"/>
+          <include name="TC_TYSS_GIM_PA_0019" invocation-numbers="0"/>
+        </methods>
+      </class> <!-- com.hcl.gim.testscripts.patent_award.TYSS_GIM_PA_0019 -->
+      <class name="com.hcl.gim.testscripts.child_education.TYSS_GIM_CEA_0008">
+        <methods>
+          <include name="createFiles"/>
+          <include name="TC_TYSS_GIM_CEA_0008"/>
+          <include name="setExtentReport"/>
+          <include name="closeBrowser"/>
+          <include name="launchApp"/>
+          <include name="killTask"/>
+        </methods>
+      </class> <!-- com.hcl.gim.testscripts.child_education.TYSS_GIM_CEA_0008 -->
+      <class name="com.hcl.gim.testscripts.foundation_bonus.TYSS_GIM_FB_0015">
+        <methods>
+          <include name="createFiles"/>
+          <include name="setExtentReport"/>
+          <include name="closeBrowser"/>
+          <include name="TC_TYSS_GIM_FB_0015" invocation-numbers="0"/>
+          <include name="launchApp"/>
+          <include name="killTask"/>
+        </methods>
+      </class> <!-- com.hcl.gim.testscripts.foundation_bonus.TYSS_GIM_FB_0015 -->
+      <class name="com.hcl.gim.testscripts.patent_award.TYSS_GIM_PA_0016">
+        <methods>
+          <include name="createFiles"/>
+          <include name="TC_TYSS_GIM_PA_0016" invocation-numbers="0"/>
+          <include name="setExtentReport"/>
+          <include name="closeBrowser"/>
+          <include name="launchApp"/>
+          <include name="killTask"/>
+        </methods>
+      </class> <!-- com.hcl.gim.testscripts.patent_award.TYSS_GIM_PA_0016 -->
+      <class name="com.hcl.gim.testscripts.rsu.TYSS_GIM_RSU_0005">
+        <methods>
+          <include name="createFiles"/>
+          <include name="setExtentReport"/>
+          <include name="closeBrowser"/>
+          <include name="launchApp"/>
+          <include name="killTask"/>
+          <include name="TC_TYSS_GIM_RSU_0005" invocation-numbers="0"/>
+        </methods>
+      </class> <!-- com.hcl.gim.testscripts.rsu.TYSS_GIM_RSU_0005 -->
+      <class name="com.hcl.gim.testscripts.exgratia_others.TYSS_GIM_EXO_0018">
+        <methods>
+          <include name="createFiles"/>
+          <include name="setExtentReport"/>
+          <include name="closeBrowser"/>
+          <include name="launchApp"/>
+          <include name="killTask"/>
+          <include name="TC_TYSS_GIM_EXO_0018" invocation-numbers="0"/>
+        </methods>
+      </class> <!-- com.hcl.gim.testscripts.exgratia_others.TYSS_GIM_EXO_0018 -->
+      <class name="com.hcl.gim.testscripts.foundation_bonus.TYSS_GIM_FB_0018">
+        <methods>
+          <include name="createFiles"/>
+          <include name="setExtentReport"/>
+          <include name="closeBrowser"/>
+          <include name="launchApp"/>
+          <include name="killTask"/>
+          <include name="TC_TYSS_GIM_FB_0018" invocation-numbers="0"/>
+        </methods>
+      </class> <!-- com.hcl.gim.testscripts.foundation_bonus.TYSS_GIM_FB_0018 -->
+    </classes>
+  </test> <!-- PROJECT_Test1(failed)(failed) -->
+</suite> <!-- Failed suite [Failed suite [Global Input Module]] -->

@@ -1,0 +1,57 @@
+13:29:11.263 [main] INFO  com.hcl.gim.baseutil.BaseTest - 
+13:29:11.270 [main] INFO  com.hcl.gim.baseutil.BaseTest - Running locally JavaMail
+13:29:11.380 [main] INFO  com.hcl.gim.baseutil.BaseTest - Folder creation for Extent
+13:29:11.403 [main] INFO  com.hcl.gim.baseutil.BaseTest - ExtentDir:-C:\HCL-GIM-Harsha\GIM-App-Harsha1/reports/Automation Report- 02_26_2021_13_29_11/Report/02_26_2021_13_29_11
+13:29:11.582 [main] INFO  com.hcl.gim.baseutil.BaseTest - Report Initiated
+13:29:11.585 [main] INFO  com.hcl.gim.baseutil.BaseTest - Screenshot folder created
+13:29:18.412 [main] INFO  com.hcl.gim.testscripts.hcl_jewels.TYSS_GIM_HJ_0008 - Chrome Browser is launched
+13:29:19.323 [main] INFO  com.hcl.gim.testscripts.hcl_jewels.TYSS_GIM_HJ_0008 - Expected text : Log in. is matching with the : Log in. text in the application 
+13:29:19.324 [main] INFO  com.hcl.gim.testscripts.hcl_jewels.TYSS_GIM_HJ_0008 - Log In page is displayed
+13:29:19.324 [main] INFO  com.hcl.gim.testscripts.hcl_jewels.TYSS_GIM_HJ_0008 - Enter the value into User Id text box
+13:29:19.985 [main] INFO  com.hcl.gim.testscripts.hcl_jewels.TYSS_GIM_HJ_0008 - 51575273 typed into User Id text box
+13:29:19.985 [main] INFO  com.hcl.gim.testscripts.hcl_jewels.TYSS_GIM_HJ_0008 - Enter the value into Password text box
+13:29:20.291 [main] INFO  com.hcl.gim.testscripts.hcl_jewels.TYSS_GIM_HJ_0008 - GIM@123# typed into Password text box
+13:29:20.292 [main] INFO  com.hcl.gim.testscripts.hcl_jewels.TYSS_GIM_HJ_0008 - Validate Login button is clickable
+13:29:33.003 [main] INFO  com.hcl.gim.testscripts.hcl_jewels.TYSS_GIM_HJ_0008 - Clicked on : Login button
+13:29:33.279 [main] INFO  com.hcl.gim.testscripts.hcl_jewels.TYSS_GIM_HJ_0008 - LOB HR-Log in is successfull
+13:29:33.391 [main] INFO  com.hcl.gim.testscripts.hcl_jewels.TYSS_GIM_HJ_0008 - Expected text : HR Partner Manual is matching with the : HR Partner Manual text in the application 
+13:29:33.392 [main] INFO  com.hcl.gim.testscripts.hcl_jewels.TYSS_GIM_HJ_0008 - HR Partner Manual popup is displayed
+13:29:33.392 [main] INFO  com.hcl.gim.testscripts.hcl_jewels.TYSS_GIM_HJ_0008 - Validate Close button on HCL Banner is clickable
+13:29:33.621 [main] INFO  com.hcl.gim.testscripts.hcl_jewels.TYSS_GIM_HJ_0008 - Clicked on : Close button on HCL Banner
+13:29:33.767 [main] INFO  com.hcl.gim.testscripts.hcl_jewels.TYSS_GIM_HJ_0008 - Home page is displayed, url= https://staging.myhcl.com/GIM/Home/Index, title= Home Page
+13:29:33.799 [main] INFO  com.hcl.gim.testscripts.hcl_jewels.TYSS_GIM_HJ_0008 - Role: Employee
+13:29:33.800 [main] INFO  com.hcl.gim.testscripts.hcl_jewels.TYSS_GIM_HJ_0008 - Validate LOB HR Initiate On Behalf Of Employee button is clickable
+13:29:34.878 [main] INFO  com.hcl.gim.testscripts.hcl_jewels.TYSS_GIM_HJ_0008 - Clicked on : LOB HR Initiate On Behalf Of Employee button
+13:29:34.957 [main] INFO  com.hcl.gim.testscripts.hcl_jewels.TYSS_GIM_HJ_0008 - Initiate Claim page is displayed, url= https://staging.myhcl.com/GIM/HRPartner/InitiateClaim, title= InitiateClaim
+13:29:34.964 [main] INFO  com.hcl.gim.testscripts.hcl_jewels.TYSS_GIM_HJ_0008 - Wait for Select Claim type Drop down
+13:29:35.109 [main] INFO  com.hcl.gim.testscripts.hcl_jewels.TYSS_GIM_HJ_0008 - Validate Select Claim type Drop down is clickable
+13:29:35.533 [main] INFO  com.hcl.gim.testscripts.hcl_jewels.TYSS_GIM_HJ_0008 - Clicked on : Select Claim type Drop down
+13:29:35.928 [main] INFO  com.hcl.gim.testscripts.hcl_jewels.TYSS_GIM_HJ_0008 - List of all Claim types from the Drop down is displayed.
+13:29:35.945 [main] INFO  com.hcl.gim.testscripts.hcl_jewels.TYSS_GIM_HJ_0008 - Wait for HCL Jewels
+13:29:36.188 [main] INFO  com.hcl.gim.testscripts.hcl_jewels.TYSS_GIM_HJ_0008 - Able to mouse over on  HCL Jewels
+13:29:36.402 [main] INFO  com.hcl.gim.testscripts.hcl_jewels.TYSS_GIM_HJ_0008 - Clicked on : HCL Jewels
+13:29:36.436 [main] INFO  com.hcl.gim.testscripts.hcl_jewels.TYSS_GIM_HJ_0008 - Able to select HCL Jewels from the Dropdown and default selection is Copy & Paste 
+13:29:36.497 [main] INFO  com.hcl.gim.testscripts.hcl_jewels.TYSS_GIM_HJ_0008 - Expected text : HCL Jewels is matching with the : HCL Jewels text in the application 
+13:29:36.497 [main] INFO  com.hcl.gim.testscripts.hcl_jewels.TYSS_GIM_HJ_0008 - HCL Jewels is selected and default selection is Copy & Paste
+13:29:36.505 [main] INFO  com.hcl.gim.testscripts.hcl_jewels.TYSS_GIM_HJ_0008 - Scroll up
+13:29:36.611 [main] INFO  com.hcl.gim.testscripts.hcl_jewels.TYSS_GIM_HJ_0008 - Wait for Download HCL Jewels Form Template link
+13:29:36.744 [main] INFO  com.hcl.gim.testscripts.hcl_jewels.TYSS_GIM_HJ_0008 - Validate Download HCL Jewels Form Template link is clickable
+13:29:36.892 [main] INFO  com.hcl.gim.testscripts.hcl_jewels.TYSS_GIM_HJ_0008 - Clicked on : Download HCL Jewels Form Template link
+13:29:36.941 [main] INFO  com.hcl.gim.testscripts.hcl_jewels.TYSS_GIM_HJ_0008 - New File Created:62b7776f-47b4-4ef3-b9f0-b594ce065f16.tmp
+13:29:37.005 [main] INFO  com.hcl.gim.testscripts.hcl_jewels.TYSS_GIM_HJ_0008 - New File Created:Claim (5).xlsx.crdownload
+13:29:37.120 [main] INFO  com.hcl.gim.testscripts.hcl_jewels.TYSS_GIM_HJ_0008 - New File Created:Claim (5).xlsx
+13:29:37.124 [main] INFO  com.hcl.gim.testscripts.hcl_jewels.TYSS_GIM_HJ_0008 - Downloaded file found with extension .xlsx. File name is Claim (5).xlsx
+13:29:37.625 [main] INFO  com.hcl.gim.testscripts.hcl_jewels.TYSS_GIM_HJ_0008 - Downloaded document name is Claim (5).xlsx
+13:29:37.625 [main] INFO  com.hcl.gim.testscripts.hcl_jewels.TYSS_GIM_HJ_0008 - Template with Filename Claim (5).xlsx downloaded successfully
+13:29:40.385 [main] INFO  com.hcl.gim.testscripts.hcl_jewels.TYSS_GIM_HJ_0008 - Able to mouse over on Paste Your Content Here Text
+13:29:50.588 [main] INFO  com.hcl.gim.testscripts.hcl_jewels.TYSS_GIM_HJ_0008 - Wait for Upload Document Link
+13:29:50.747 [main] INFO  com.hcl.gim.testscripts.hcl_jewels.TYSS_GIM_HJ_0008 - Validate Upload Document Link is clickable
+13:29:50.929 [main] INFO  com.hcl.gim.testscripts.hcl_jewels.TYSS_GIM_HJ_0008 - Clicked on : Upload Document Link
+13:29:58.077 [main] INFO  com.hcl.gim.testscripts.hcl_jewels.TYSS_GIM_HJ_0008 - Expected text : Sample(MSG).msg is matching with the : Sample(MSG).msg text in the application 
+13:29:58.078 [main] INFO  com.hcl.gim.testscripts.hcl_jewels.TYSS_GIM_HJ_0008 - Sample(MSG).msg file is uploaded
+13:29:58.078 [main] INFO  com.hcl.gim.testscripts.hcl_jewels.TYSS_GIM_HJ_0008 - Wait for Clear Button
+13:29:58.222 [main] INFO  com.hcl.gim.testscripts.hcl_jewels.TYSS_GIM_HJ_0008 - Validate Clear Button is clickable
+13:29:58.384 [main] INFO  com.hcl.gim.testscripts.hcl_jewels.TYSS_GIM_HJ_0008 - Clicked on : Clear Button
+13:29:58.473 [main] INFO  com.hcl.gim.testscripts.hcl_jewels.TYSS_GIM_HJ_0008 - Download Form Template is reset
+13:29:58.549 [main] INFO  com.hcl.gim.testscripts.hcl_jewels.TYSS_GIM_HJ_0008 - Paste Your Content Here is reset
+13:29:58.630 [main] INFO  com.hcl.gim.testscripts.hcl_jewels.TYSS_GIM_HJ_0008 - Upload or Drag and Drop Your Files Here is reset

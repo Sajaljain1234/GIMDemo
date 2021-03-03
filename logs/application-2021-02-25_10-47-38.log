@@ -1,0 +1,45 @@
+10:47:39.026 [main] INFO  com.hcl.gim.baseutil.BaseTest - 
+10:47:39.033 [main] INFO  com.hcl.gim.baseutil.BaseTest - Running locally JavaMail
+10:47:39.128 [main] INFO  com.hcl.gim.baseutil.BaseTest - Folder creation for Extent
+10:47:39.147 [main] INFO  com.hcl.gim.baseutil.BaseTest - ExtentDir:-C:\HCL-GIM-Harsha\GIM-App-Harsha1/reports/Automation Report- 02_25_2021_10_47_39/Report/02_25_2021_10_47_39
+10:47:39.294 [main] INFO  com.hcl.gim.baseutil.BaseTest - Report Initiated
+10:47:39.298 [main] INFO  com.hcl.gim.baseutil.BaseTest - Screenshot folder created
+10:47:44.709 [main] INFO  com.hcl.gim.testscripts.patent_award.TYSS_GIM_PA_0014 - Chrome Browser is launched
+10:47:46.612 [main] INFO  com.hcl.gim.testscripts.patent_award.TYSS_GIM_PA_0014 - Expected text : Log in. is matching with the : Log in. text in the application 
+10:47:46.612 [main] INFO  com.hcl.gim.testscripts.patent_award.TYSS_GIM_PA_0014 - Log In page is displayed
+10:47:46.613 [main] INFO  com.hcl.gim.testscripts.patent_award.TYSS_GIM_PA_0014 - Enter the value into User Id text box
+10:47:46.829 [main] INFO  com.hcl.gim.testscripts.patent_award.TYSS_GIM_PA_0014 - 51575273 typed into User Id text box
+10:47:46.829 [main] INFO  com.hcl.gim.testscripts.patent_award.TYSS_GIM_PA_0014 - Enter the value into Password text box
+10:47:47.005 [main] INFO  com.hcl.gim.testscripts.patent_award.TYSS_GIM_PA_0014 - GIM@123# typed into Password text box
+10:47:47.005 [main] INFO  com.hcl.gim.testscripts.patent_award.TYSS_GIM_PA_0014 - Validate Login button is clickable
+10:47:48.255 [main] INFO  com.hcl.gim.testscripts.patent_award.TYSS_GIM_PA_0014 - Clicked on : Login button
+10:47:48.953 [main] INFO  com.hcl.gim.testscripts.patent_award.TYSS_GIM_PA_0014 - LOB HR-Log in is successfull
+10:47:49.028 [main] INFO  com.hcl.gim.testscripts.patent_award.TYSS_GIM_PA_0014 - Expected text : HR Partner Manual is matching with the : HR Partner Manual text in the application 
+10:47:49.028 [main] INFO  com.hcl.gim.testscripts.patent_award.TYSS_GIM_PA_0014 - HR Partner Manual popup is displayed
+10:47:49.028 [main] INFO  com.hcl.gim.testscripts.patent_award.TYSS_GIM_PA_0014 - Validate Close button on HCL Banner is clickable
+10:47:49.179 [main] INFO  com.hcl.gim.testscripts.patent_award.TYSS_GIM_PA_0014 - Clicked on : Close button on HCL Banner
+10:47:49.272 [main] INFO  com.hcl.gim.testscripts.patent_award.TYSS_GIM_PA_0014 - Home page is displayed, url= https://staging.myhcl.com/GIM/Home/Index, title= Home Page
+10:47:49.279 [main] INFO  com.hcl.gim.testscripts.patent_award.TYSS_GIM_PA_0014 - Role: Employee
+10:47:49.280 [main] INFO  com.hcl.gim.testscripts.patent_award.TYSS_GIM_PA_0014 - Validate LOB HR Initiate On Behalf Of Employee button is clickable
+10:47:49.961 [main] INFO  com.hcl.gim.testscripts.patent_award.TYSS_GIM_PA_0014 - Clicked on : LOB HR Initiate On Behalf Of Employee button
+10:47:50.026 [main] INFO  com.hcl.gim.testscripts.patent_award.TYSS_GIM_PA_0014 - Initiate Claim page is displayed, url= https://staging.myhcl.com/GIM/HRPartner/InitiateClaim, title= InitiateClaim
+10:47:50.033 [main] INFO  com.hcl.gim.testscripts.patent_award.TYSS_GIM_PA_0014 - Wait for Select Claim type Drop down
+10:47:50.182 [main] INFO  com.hcl.gim.testscripts.patent_award.TYSS_GIM_PA_0014 - Validate Select Claim type Drop down is clickable
+10:47:50.592 [main] INFO  com.hcl.gim.testscripts.patent_award.TYSS_GIM_PA_0014 - Clicked on : Select Claim type Drop down
+10:47:51.015 [main] INFO  com.hcl.gim.testscripts.patent_award.TYSS_GIM_PA_0014 - List of all Claim types from the Drop down is displayed.
+10:47:51.035 [main] INFO  com.hcl.gim.testscripts.patent_award.TYSS_GIM_PA_0014 - Wait for Patent Award
+10:47:51.274 [main] INFO  com.hcl.gim.testscripts.patent_award.TYSS_GIM_PA_0014 - Able to mouse over on  Patent Award
+10:47:51.515 [main] INFO  com.hcl.gim.testscripts.patent_award.TYSS_GIM_PA_0014 - Clicked on : Patent Award
+10:47:51.570 [main] INFO  com.hcl.gim.testscripts.patent_award.TYSS_GIM_PA_0014 - Able to select Patent Award from the Dropdown and default selection is Copy & Paste 
+10:47:51.697 [main] INFO  com.hcl.gim.testscripts.patent_award.TYSS_GIM_PA_0014 - Expected text : Patent Award is matching with the : Patent Award text in the application 
+10:47:51.697 [main] INFO  com.hcl.gim.testscripts.patent_award.TYSS_GIM_PA_0014 - Patent Award is selected and default selection is Copy & Paste
+10:47:51.706 [main] INFO  com.hcl.gim.testscripts.patent_award.TYSS_GIM_PA_0014 - Scroll up
+10:47:51.761 [main] INFO  com.hcl.gim.testscripts.patent_award.TYSS_GIM_PA_0014 - Scroll up
+10:47:51.812 [main] INFO  com.hcl.gim.testscripts.patent_award.TYSS_GIM_PA_0014 - Wait for Excel Upload Radio Button
+10:47:51.913 [main] INFO  com.hcl.gim.testscripts.patent_award.TYSS_GIM_PA_0014 - Validate Excel Upload Radio Button is clickable
+10:47:52.052 [main] INFO  com.hcl.gim.testscripts.patent_award.TYSS_GIM_PA_0014 - Clicked on : Excel Upload Radio Button
+10:47:52.114 [main] INFO  com.hcl.gim.testscripts.patent_award.TYSS_GIM_PA_0014 - Excel Upload option is selected
+10:47:52.114 [main] INFO  com.hcl.gim.testscripts.patent_award.TYSS_GIM_PA_0014 - Wait for Excel Back button
+10:47:52.250 [main] INFO  com.hcl.gim.testscripts.patent_award.TYSS_GIM_PA_0014 - Validate Excel Back button is clickable
+10:47:52.750 [main] INFO  com.hcl.gim.testscripts.patent_award.TYSS_GIM_PA_0014 - Clicked on : Excel Back button
+10:47:52.803 [main] INFO  com.hcl.gim.testscripts.patent_award.TYSS_GIM_PA_0014 - Initiate Claim page is displayed, url= https://staging.myhcl.com/GIM/HRPartner/InitiateClaim, title= InitiateClaim

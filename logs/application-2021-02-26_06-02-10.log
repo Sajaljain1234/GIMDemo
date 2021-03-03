@@ -1,0 +1,7 @@
+18:02:11.098 [main] INFO  com.hcl.gim.baseutil.BaseTest - 
+18:02:11.105 [main] INFO  com.hcl.gim.baseutil.BaseTest - Running locally JavaMail
+18:02:11.215 [main] INFO  com.hcl.gim.baseutil.BaseTest - Folder creation for Extent
+18:02:11.235 [main] INFO  com.hcl.gim.baseutil.BaseTest - ExtentDir:-C:\HCL-GIM-Harsha\GIM-App-Harsha1/reports/Automation Report- 02_26_2021_18_02_11/Report/02_26_2021_18_02_11
+18:02:11.410 [main] INFO  com.hcl.gim.baseutil.BaseTest - Report Initiated
+18:02:11.414 [main] INFO  com.hcl.gim.baseutil.BaseTest - Screenshot folder created
+18:02:16.751 [main] INFO  com.hcl.gim.testscripts.child_education.TYSS_GIM_CEA_0012 - Chrome Browser is launched

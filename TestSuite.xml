@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite configfailurepolicy="continue" thread-count="1" name="Global Input Module">
+  <listeners>
+    <listener class-name="com.hcl.gim.listeners.TestListener"/>
+  </listeners>
+  <test thread-count="1" name="PROJECT_Test1">
+    <parameter name="browserName" value="Chrome"/>
+    <classes>
+  		<class name="com.hcl.gim.testscripts.child_education.TYSS_GIM_CEA_0010"/>
+    </classes>
+  </test> <!-- PROJECT_Test1 -->
+</suite> <!-- Global Input Module -->

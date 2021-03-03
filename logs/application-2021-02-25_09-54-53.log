@@ -1,0 +1,76 @@
+21:54:53.579 [main] INFO  com.hcl.gim.baseutil.BaseTest - 
+21:54:53.588 [main] INFO  com.hcl.gim.baseutil.BaseTest - Running locally JavaMail
+21:54:54.199 [main] INFO  com.hcl.gim.baseutil.BaseTest - Folder creation for Extent
+21:54:54.210 [main] INFO  com.hcl.gim.baseutil.BaseTest - ExtentDir:-C:\HCL-GIM-Harsha\GIM-App-Harsha1/reports/Automation Report- 02_25_2021_21_54_54/Report/02_25_2021_21_54_54
+21:54:54.364 [main] INFO  com.hcl.gim.baseutil.BaseTest - Report Initiated
+21:54:54.368 [main] INFO  com.hcl.gim.baseutil.BaseTest - Screenshot folder created
+21:55:01.203 [main] INFO  com.hcl.gim.testscripts.car_parking_deduction.TYSS_GIM_CPD_0001 - Chrome Browser is launched
+21:55:05.977 [main] INFO  com.hcl.gim.testscripts.car_parking_deduction.TYSS_GIM_CPD_0001 - Expected text : Log in. is matching with the : Log in. text in the application 
+21:55:05.977 [main] INFO  com.hcl.gim.testscripts.car_parking_deduction.TYSS_GIM_CPD_0001 - Log In page is displayed
+21:55:05.977 [main] INFO  com.hcl.gim.testscripts.car_parking_deduction.TYSS_GIM_CPD_0001 - Enter the value into User Id text box
+21:55:06.209 [main] INFO  com.hcl.gim.testscripts.car_parking_deduction.TYSS_GIM_CPD_0001 - 40136083 typed into User Id text box
+21:55:06.209 [main] INFO  com.hcl.gim.testscripts.car_parking_deduction.TYSS_GIM_CPD_0001 - Enter the value into Password text box
+21:55:06.380 [main] INFO  com.hcl.gim.testscripts.car_parking_deduction.TYSS_GIM_CPD_0001 - GIM@123# typed into Password text box
+21:55:06.381 [main] INFO  com.hcl.gim.testscripts.car_parking_deduction.TYSS_GIM_CPD_0001 - Validate Login button is clickable
+21:55:08.079 [main] INFO  com.hcl.gim.testscripts.car_parking_deduction.TYSS_GIM_CPD_0001 - Clicked on : Login button
+21:55:08.801 [main] INFO  com.hcl.gim.testscripts.car_parking_deduction.TYSS_GIM_CPD_0001 - GEO HR-Log in is successfull
+21:55:08.870 [main] INFO  com.hcl.gim.testscripts.car_parking_deduction.TYSS_GIM_CPD_0001 - Expected text : HR Partner Manual is matching with the : HR Partner Manual text in the application 
+21:55:08.872 [main] INFO  com.hcl.gim.testscripts.car_parking_deduction.TYSS_GIM_CPD_0001 - HR Partner Manual popup is displayed
+21:55:08.872 [main] INFO  com.hcl.gim.testscripts.car_parking_deduction.TYSS_GIM_CPD_0001 - Validate Close button on HCL Banner is clickable
+21:55:09.022 [main] INFO  com.hcl.gim.testscripts.car_parking_deduction.TYSS_GIM_CPD_0001 - Clicked on : Close button on HCL Banner
+21:55:09.107 [main] INFO  com.hcl.gim.testscripts.car_parking_deduction.TYSS_GIM_CPD_0001 - Home page is displayed, url= https://staging.myhcl.com/GIM/Home/Index, title= Home Page
+21:55:09.113 [main] INFO  com.hcl.gim.testscripts.car_parking_deduction.TYSS_GIM_CPD_0001 - Role: Employee
+21:55:09.114 [main] INFO  com.hcl.gim.testscripts.car_parking_deduction.TYSS_GIM_CPD_0001 - Validate Geo HR Initiate On Behalf Of Employee button is clickable
+21:55:09.737 [main] INFO  com.hcl.gim.testscripts.car_parking_deduction.TYSS_GIM_CPD_0001 - Clicked on : Geo HR Initiate On Behalf Of Employee button
+21:55:09.797 [main] INFO  com.hcl.gim.testscripts.car_parking_deduction.TYSS_GIM_CPD_0001 - Initiate Claim page is displayed, url= https://staging.myhcl.com/GIM/HRPartner/InitiateClaim, title= InitiateClaim
+21:55:09.803 [main] INFO  com.hcl.gim.testscripts.car_parking_deduction.TYSS_GIM_CPD_0001 - Wait for Select Claim type Drop down
+21:55:09.964 [main] INFO  com.hcl.gim.testscripts.car_parking_deduction.TYSS_GIM_CPD_0001 - Validate Select Claim type Drop down is clickable
+21:55:10.358 [main] INFO  com.hcl.gim.testscripts.car_parking_deduction.TYSS_GIM_CPD_0001 - Clicked on : Select Claim type Drop down
+21:55:11.246 [main] INFO  com.hcl.gim.testscripts.car_parking_deduction.TYSS_GIM_CPD_0001 - List of all Claim types from the Drop down is displayed.
+21:55:11.261 [main] INFO  com.hcl.gim.testscripts.car_parking_deduction.TYSS_GIM_CPD_0001 - Wait for Car parking Deduction
+21:55:11.494 [main] INFO  com.hcl.gim.testscripts.car_parking_deduction.TYSS_GIM_CPD_0001 - Able to mouse over on  Car parking Deduction
+21:55:11.706 [main] INFO  com.hcl.gim.testscripts.car_parking_deduction.TYSS_GIM_CPD_0001 - Clicked on : Car parking Deduction
+21:55:11.755 [main] INFO  com.hcl.gim.testscripts.car_parking_deduction.TYSS_GIM_CPD_0001 - Able to select Car parking Deduction from the Dropdown and default selection is Copy & Paste 
+21:55:11.842 [main] INFO  com.hcl.gim.testscripts.car_parking_deduction.TYSS_GIM_CPD_0001 - Expected text : Car parking Deduction is matching with the : Car parking Deduction text in the application 
+21:55:11.843 [main] INFO  com.hcl.gim.testscripts.car_parking_deduction.TYSS_GIM_CPD_0001 - Car parking Deduction is selected and default selection is Copy & Paste
+21:55:11.853 [main] INFO  com.hcl.gim.testscripts.car_parking_deduction.TYSS_GIM_CPD_0001 - Scroll up
+21:55:11.897 [main] INFO  com.hcl.gim.testscripts.car_parking_deduction.TYSS_GIM_CPD_0001 - Wait for Download CarParkingDeduction Form Template link
+21:55:12.031 [main] INFO  com.hcl.gim.testscripts.car_parking_deduction.TYSS_GIM_CPD_0001 - Validate Download CarParkingDeduction Form Template link is clickable
+21:55:12.158 [main] INFO  com.hcl.gim.testscripts.car_parking_deduction.TYSS_GIM_CPD_0001 - Clicked on : Download CarParkingDeduction Form Template link
+21:55:12.400 [main] INFO  com.hcl.gim.testscripts.car_parking_deduction.TYSS_GIM_CPD_0001 - New File Created:fcbf98f5-6cea-494d-920d-fbbe08484a14.tmp
+21:55:12.466 [main] INFO  com.hcl.gim.testscripts.car_parking_deduction.TYSS_GIM_CPD_0001 - New File Created:Claim (5).xlsx.crdownload
+21:55:12.701 [main] INFO  com.hcl.gim.testscripts.car_parking_deduction.TYSS_GIM_CPD_0001 - New File Created:Claim (5).xlsx
+21:55:12.702 [main] INFO  com.hcl.gim.testscripts.car_parking_deduction.TYSS_GIM_CPD_0001 - Downloaded file found with extension .xlsx. File name is Claim (5).xlsx
+21:55:13.203 [main] INFO  com.hcl.gim.testscripts.car_parking_deduction.TYSS_GIM_CPD_0001 - Downloaded document name is Claim (5).xlsx
+21:55:13.203 [main] INFO  com.hcl.gim.testscripts.car_parking_deduction.TYSS_GIM_CPD_0001 - Template with Filename Claim (5).xlsx downloaded successfully
+21:55:19.411 [main] INFO  com.hcl.gim.testscripts.car_parking_deduction.TYSS_GIM_CPD_0002 - Chrome Browser is launched
+21:55:19.973 [main] INFO  com.hcl.gim.testscripts.car_parking_deduction.TYSS_GIM_CPD_0002 - Expected text : Log in. is matching with the : Log in. text in the application 
+21:55:19.974 [main] INFO  com.hcl.gim.testscripts.car_parking_deduction.TYSS_GIM_CPD_0002 - Log In page is displayed
+21:55:19.975 [main] INFO  com.hcl.gim.testscripts.car_parking_deduction.TYSS_GIM_CPD_0002 - Enter the value into User Id text box
+21:55:20.190 [main] INFO  com.hcl.gim.testscripts.car_parking_deduction.TYSS_GIM_CPD_0002 - 40136083 typed into User Id text box
+21:55:20.190 [main] INFO  com.hcl.gim.testscripts.car_parking_deduction.TYSS_GIM_CPD_0002 - Enter the value into Password text box
+21:55:20.400 [main] INFO  com.hcl.gim.testscripts.car_parking_deduction.TYSS_GIM_CPD_0002 - GIM@123# typed into Password text box
+21:55:20.400 [main] INFO  com.hcl.gim.testscripts.car_parking_deduction.TYSS_GIM_CPD_0002 - Validate Login button is clickable
+21:55:21.491 [main] INFO  com.hcl.gim.testscripts.car_parking_deduction.TYSS_GIM_CPD_0002 - Clicked on : Login button
+21:55:22.124 [main] INFO  com.hcl.gim.testscripts.car_parking_deduction.TYSS_GIM_CPD_0002 - GEO HR-Log in is successfull
+21:55:22.191 [main] INFO  com.hcl.gim.testscripts.car_parking_deduction.TYSS_GIM_CPD_0002 - Expected text : HR Partner Manual is matching with the : HR Partner Manual text in the application 
+21:55:22.191 [main] INFO  com.hcl.gim.testscripts.car_parking_deduction.TYSS_GIM_CPD_0002 - HR Partner Manual popup is displayed
+21:55:22.192 [main] INFO  com.hcl.gim.testscripts.car_parking_deduction.TYSS_GIM_CPD_0002 - Validate Close button on HCL Banner is clickable
+21:55:22.339 [main] INFO  com.hcl.gim.testscripts.car_parking_deduction.TYSS_GIM_CPD_0002 - Clicked on : Close button on HCL Banner
+21:55:22.436 [main] INFO  com.hcl.gim.testscripts.car_parking_deduction.TYSS_GIM_CPD_0002 - Home page is displayed, url= https://staging.myhcl.com/GIM/Home/Index, title= Home Page
+21:55:22.448 [main] INFO  com.hcl.gim.testscripts.car_parking_deduction.TYSS_GIM_CPD_0002 - Role: Employee
+21:55:22.448 [main] INFO  com.hcl.gim.testscripts.car_parking_deduction.TYSS_GIM_CPD_0002 - Validate Geo HR Initiate On Behalf Of Employee button is clickable
+21:55:23.051 [main] INFO  com.hcl.gim.testscripts.car_parking_deduction.TYSS_GIM_CPD_0002 - Clicked on : Geo HR Initiate On Behalf Of Employee button
+21:55:23.109 [main] INFO  com.hcl.gim.testscripts.car_parking_deduction.TYSS_GIM_CPD_0002 - Initiate Claim page is displayed, url= https://staging.myhcl.com/GIM/HRPartner/InitiateClaim, title= InitiateClaim
+21:55:23.114 [main] INFO  com.hcl.gim.testscripts.car_parking_deduction.TYSS_GIM_CPD_0002 - Wait for Select Claim type Drop down
+21:55:23.240 [main] INFO  com.hcl.gim.testscripts.car_parking_deduction.TYSS_GIM_CPD_0002 - Validate Select Claim type Drop down is clickable
+21:55:23.431 [main] INFO  com.hcl.gim.testscripts.car_parking_deduction.TYSS_GIM_CPD_0002 - Clicked on : Select Claim type Drop down
+21:55:23.491 [main] ERROR com.hcl.gim.testscripts.car_parking_deduction.TYSS_GIM_CPD_0002 - no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=88.0.4324.190)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: 'HCLT-PC5929-1', ip: '10.98.101.172', os.name: 'Windows Server 2019', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.9'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 88.0.4324.190, chrome: {chromedriverVersion: 87.0.4280.88 (89e2380a3e36c..., userDataDir: C:\Users\sajal.j\AppData\Lo...}, goog:chromeOptions: {debuggerAddress: localhost:62098}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: 89760bbfdc03d6ce7b412b80431ef99f
+*** Element info: {Using=xpath, value=//ul[@class='selecty-options active']/li}

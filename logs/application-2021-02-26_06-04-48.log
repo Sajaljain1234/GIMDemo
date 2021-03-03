@@ -1,0 +1,81 @@
+18:04:48.634 [main] INFO  com.hcl.gim.baseutil.BaseTest - 
+18:04:48.641 [main] INFO  com.hcl.gim.baseutil.BaseTest - Running locally JavaMail
+18:04:48.735 [main] INFO  com.hcl.gim.baseutil.BaseTest - Folder creation for Extent
+18:04:48.776 [main] INFO  com.hcl.gim.baseutil.BaseTest - ExtentDir:-C:\HCL-GIM-Harsha\GIM-App-Harsha1/reports/Automation Report- 02_26_2021_18_04_48/Report/02_26_2021_18_04_48
+18:04:48.953 [main] INFO  com.hcl.gim.baseutil.BaseTest - Report Initiated
+18:04:48.956 [main] INFO  com.hcl.gim.baseutil.BaseTest - Screenshot folder created
+18:04:54.472 [main] INFO  com.hcl.gim.testscripts.child_education.TYSS_GIM_CEA_0010 - Chrome Browser is launched
+18:04:56.352 [main] INFO  com.hcl.gim.testscripts.child_education.TYSS_GIM_CEA_0010 - Expected text : Log in. is matching with the : Log in. text in the application 
+18:04:56.353 [main] INFO  com.hcl.gim.testscripts.child_education.TYSS_GIM_CEA_0010 - Log In page is displayed
+18:04:56.353 [main] INFO  com.hcl.gim.testscripts.child_education.TYSS_GIM_CEA_0010 - Enter the value into User Id text box
+18:04:56.566 [main] INFO  com.hcl.gim.testscripts.child_education.TYSS_GIM_CEA_0010 - 40121219 typed into User Id text box
+18:04:56.567 [main] INFO  com.hcl.gim.testscripts.child_education.TYSS_GIM_CEA_0010 - Enter the value into Password text box
+18:04:56.757 [main] INFO  com.hcl.gim.testscripts.child_education.TYSS_GIM_CEA_0010 - GIM@123# typed into Password text box
+18:04:56.758 [main] INFO  com.hcl.gim.testscripts.child_education.TYSS_GIM_CEA_0010 - Validate Login button is clickable
+18:04:58.080 [main] INFO  com.hcl.gim.testscripts.child_education.TYSS_GIM_CEA_0010 - Clicked on : Login button
+18:04:58.539 [main] INFO  com.hcl.gim.testscripts.child_education.TYSS_GIM_CEA_0010 - Employee-Log in is successfull
+18:04:58.677 [main] INFO  com.hcl.gim.testscripts.child_education.TYSS_GIM_CEA_0010 - Expected text : HR Partner Manual is matching with the : HR Partner Manual text in the application 
+18:04:58.678 [main] INFO  com.hcl.gim.testscripts.child_education.TYSS_GIM_CEA_0010 - HR Partner Manual popup is displayed
+18:04:58.679 [main] INFO  com.hcl.gim.testscripts.child_education.TYSS_GIM_CEA_0010 - Validate Close button on HCL Banner is clickable
+18:04:58.910 [main] INFO  com.hcl.gim.testscripts.child_education.TYSS_GIM_CEA_0010 - Clicked on : Close button on HCL Banner
+18:04:59.059 [main] INFO  com.hcl.gim.testscripts.child_education.TYSS_GIM_CEA_0010 - My Claims page is displayed, url= https://staging.myhcl.com/GIM/Home/Index, title= Home Page
+18:04:59.074 [main] INFO  com.hcl.gim.testscripts.child_education.TYSS_GIM_CEA_0010 - Role: Employee
+18:04:59.074 [main] INFO  com.hcl.gim.testscripts.child_education.TYSS_GIM_CEA_0010 - Validate New Request button is clickable
+18:04:59.320 [main] INFO  com.hcl.gim.testscripts.child_education.TYSS_GIM_CEA_0010 - Clicked on : New Request button
+18:04:59.953 [main] INFO  com.hcl.gim.testscripts.child_education.TYSS_GIM_CEA_0010 - Select Input Type pop up is displayed
+18:04:59.954 [main] INFO  com.hcl.gim.testscripts.child_education.TYSS_GIM_CEA_0010 - Validate Child Education Allowance button is clickable
+18:05:00.871 [main] INFO  com.hcl.gim.testscripts.child_education.TYSS_GIM_CEA_0010 - Clicked on : Child Education Allowance button
+18:05:00.992 [main] INFO  com.hcl.gim.testscripts.child_education.TYSS_GIM_CEA_0010 - Child Education Allowance Page is displayed
+18:05:01.098 [main] INFO  com.hcl.gim.testscripts.child_education.TYSS_GIM_CEA_0010 - Expected attribute value : btn active is matching with the actual attribute value : btn active of one time registration
+18:05:01.098 [main] INFO  com.hcl.gim.testscripts.child_education.TYSS_GIM_CEA_0010 - OneTimeRegistration is selected by default
+18:05:01.099 [main] INFO  com.hcl.gim.testscripts.child_education.TYSS_GIM_CEA_0010 - Validate Child Name dropdown is clickable
+18:05:01.487 [main] INFO  com.hcl.gim.testscripts.child_education.TYSS_GIM_CEA_0010 - Clicked on : Child Name dropdown
+18:05:01.530 [main] INFO  com.hcl.gim.testscripts.child_education.TYSS_GIM_CEA_0010 - Validate Ramesh is clickable
+18:05:01.674 [main] INFO  com.hcl.gim.testscripts.child_education.TYSS_GIM_CEA_0010 - Clicked on : Ramesh
+18:05:01.760 [main] INFO  com.hcl.gim.testscripts.child_education.TYSS_GIM_CEA_0010 - Expected attribute value : selected is matching with the actual attribute value : selected of ChildName
+18:05:01.760 [main] INFO  com.hcl.gim.testscripts.child_education.TYSS_GIM_CEA_0010 - Ramesh is Selected as childname
+18:05:02.779 [main] INFO  com.hcl.gim.testscripts.child_education.TYSS_GIM_CEA_0010 - Validate 2020 - 2021 is clickable
+18:05:02.933 [main] INFO  com.hcl.gim.testscripts.child_education.TYSS_GIM_CEA_0010 - Clicked on : 2020 - 2021
+18:05:03.299 [main] INFO  com.hcl.gim.testscripts.child_education.TYSS_GIM_CEA_0010 - Expected attribute value : btn active is matching with the actual attribute value : btn active of Academic year
+18:05:03.300 [main] INFO  com.hcl.gim.testscripts.child_education.TYSS_GIM_CEA_0010 - 2020 - 2021 is selected as Academic Period 
+18:05:04.820 [main] INFO  com.hcl.gim.testscripts.child_education.TYSS_GIM_CEA_0010 - Wait for From Date
+18:05:04.921 [main] INFO  com.hcl.gim.testscripts.child_education.TYSS_GIM_CEA_0010 - 01-Sep-20 is selected
+18:05:05.932 [main] INFO  com.hcl.gim.testscripts.child_education.TYSS_GIM_CEA_0010 - Valid value is entered in From Date
+18:05:05.932 [main] INFO  com.hcl.gim.testscripts.child_education.TYSS_GIM_CEA_0010 - 01-Sep-20 is selected as From Date
+18:05:07.450 [main] INFO  com.hcl.gim.testscripts.child_education.TYSS_GIM_CEA_0010 - Wait for To Date
+18:05:07.549 [main] INFO  com.hcl.gim.testscripts.child_education.TYSS_GIM_CEA_0010 - 08-Sep-20 is selected
+18:05:08.559 [main] INFO  com.hcl.gim.testscripts.child_education.TYSS_GIM_CEA_0010 - Valid value is entered in To Date
+18:05:08.559 [main] INFO  com.hcl.gim.testscripts.child_education.TYSS_GIM_CEA_0010 - 08-Sep-20 is selected as To Date
+18:05:08.560 [main] INFO  com.hcl.gim.testscripts.child_education.TYSS_GIM_CEA_0010 - Validate class/grade drop down is clickable
+18:05:08.721 [main] INFO  com.hcl.gim.testscripts.child_education.TYSS_GIM_CEA_0010 - Clicked on : class/grade drop down
+18:05:08.737 [main] INFO  com.hcl.gim.testscripts.child_education.TYSS_GIM_CEA_0010 - Validate 1st is clickable
+18:05:08.854 [main] INFO  com.hcl.gim.testscripts.child_education.TYSS_GIM_CEA_0010 - Clicked on : 1st
+18:05:08.901 [main] INFO  com.hcl.gim.testscripts.child_education.TYSS_GIM_CEA_0010 - Expected attribute value : selected is matching with the actual attribute value : selected of class/Grade
+18:05:08.901 [main] INFO  com.hcl.gim.testscripts.child_education.TYSS_GIM_CEA_0010 - 1st is selected as class/grade
+18:05:08.901 [main] INFO  com.hcl.gim.testscripts.child_education.TYSS_GIM_CEA_0010 - Enter the value into Amount
+18:05:09.090 [main] INFO  com.hcl.gim.testscripts.child_education.TYSS_GIM_CEA_0010 - 100 typed into Amount
+18:05:10.100 [main] INFO  com.hcl.gim.testscripts.child_education.TYSS_GIM_CEA_0010 - Valid value is entered in Amount
+18:05:10.100 [main] INFO  com.hcl.gim.testscripts.child_education.TYSS_GIM_CEA_0010 - 100 is entered in Amount
+18:05:10.101 [main] INFO  com.hcl.gim.testscripts.child_education.TYSS_GIM_CEA_0010 - Enter the value into School name
+18:05:10.301 [main] INFO  com.hcl.gim.testscripts.child_education.TYSS_GIM_CEA_0010 - Horizon typed into School name
+18:05:11.313 [main] INFO  com.hcl.gim.testscripts.child_education.TYSS_GIM_CEA_0010 - Valid value is entered in School Name
+18:05:11.313 [main] INFO  com.hcl.gim.testscripts.child_education.TYSS_GIM_CEA_0010 - Horizon is entered in School Name
+18:05:11.313 [main] INFO  com.hcl.gim.testscripts.child_education.TYSS_GIM_CEA_0010 - Enter the value into Remarks
+18:05:11.498 [main] INFO  com.hcl.gim.testscripts.child_education.TYSS_GIM_CEA_0010 - Test typed into Remarks
+18:05:12.511 [main] INFO  com.hcl.gim.testscripts.child_education.TYSS_GIM_CEA_0010 - Valid value is entered in Remarks
+18:05:12.512 [main] INFO  com.hcl.gim.testscripts.child_education.TYSS_GIM_CEA_0010 - Test is entered in remarks 
+18:05:12.512 [main] INFO  com.hcl.gim.testscripts.child_education.TYSS_GIM_CEA_0010 - Validate Download Template is clickable
+18:05:12.712 [main] INFO  com.hcl.gim.testscripts.child_education.TYSS_GIM_CEA_0010 - Clicked on : Download Template
+18:05:12.754 [main] INFO  com.hcl.gim.testscripts.child_education.TYSS_GIM_CEA_0010 - New File Created:1179a075-2559-443e-b387-dfae30d458f8.tmp
+18:05:12.834 [main] INFO  com.hcl.gim.testscripts.child_education.TYSS_GIM_CEA_0010 - New File Created:AnnexureCEA (45).pdf.crdownload
+18:05:12.959 [main] INFO  com.hcl.gim.testscripts.child_education.TYSS_GIM_CEA_0010 - New File Created:AnnexureCEA (45).pdf
+18:05:12.960 [main] INFO  com.hcl.gim.testscripts.child_education.TYSS_GIM_CEA_0010 - Downloaded file found with extension pdf. File name is AnnexureCEA (45).pdf
+18:05:13.460 [main] INFO  com.hcl.gim.testscripts.child_education.TYSS_GIM_CEA_0010 - Downloaded document name is AnnexureCEA (45).pdf
+18:05:13.460 [main] INFO  com.hcl.gim.testscripts.child_education.TYSS_GIM_CEA_0010 - Downloaded document is in pdf Format
+18:05:13.461 [main] INFO  com.hcl.gim.testscripts.child_education.TYSS_GIM_CEA_0010 - Validate Attach document button is clickable
+18:05:13.627 [main] INFO  com.hcl.gim.testscripts.child_education.TYSS_GIM_CEA_0010 - Clicked on : Attach document button
+18:05:20.879 [main] INFO  com.hcl.gim.testscripts.child_education.TYSS_GIM_CEA_0010 - Expected attribute value : dz-clickable dropzone dz-started is matching with the actual attribute value : dz-clickable dropzone dz-started of Attach document
+18:05:20.879 [main] INFO  com.hcl.gim.testscripts.child_education.TYSS_GIM_CEA_0010 - Document is uploaded
+18:05:20.879 [main] INFO  com.hcl.gim.testscripts.child_education.TYSS_GIM_CEA_0010 - Validate Add Claim button is clickable
+18:05:21.103 [main] INFO  com.hcl.gim.testscripts.child_education.TYSS_GIM_CEA_0010 - Clicked on : Add Claim button
+18:05:30.053 [main] ERROR com.hcl.gim.testscripts.child_education.TYSS_GIM_CEA_0010 - Unable to add claim of One Time Registration type 

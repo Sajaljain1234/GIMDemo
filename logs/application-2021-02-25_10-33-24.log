@@ -1,0 +1,222 @@
+10:33:25.087 [main] INFO  com.hcl.gim.baseutil.BaseTest - 
+10:33:25.093 [main] INFO  com.hcl.gim.baseutil.BaseTest - Running locally JavaMail
+10:33:25.179 [main] INFO  com.hcl.gim.baseutil.BaseTest - Folder creation for Extent
+10:33:25.192 [main] INFO  com.hcl.gim.baseutil.BaseTest - ExtentDir:-C:\HCL-GIM-Harsha\GIM-App-Harsha1/reports/Automation Report- 02_25_2021_10_33_25/Report/02_25_2021_10_33_25
+10:33:25.326 [main] INFO  com.hcl.gim.baseutil.BaseTest - Report Initiated
+10:33:25.330 [main] INFO  com.hcl.gim.baseutil.BaseTest - Screenshot folder created
+10:33:31.796 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0002 - Chrome Browser is launched
+10:33:32.476 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0002 - Expected text : Log in. is matching with the : Log in. text in the application 
+10:33:32.476 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0002 - Log In page is displayed
+10:33:32.476 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0002 - Enter the value into User Id text box
+10:33:32.677 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0002 - 51575273 typed into User Id text box
+10:33:32.678 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0002 - Enter the value into Password text box
+10:33:32.869 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0002 - GIM@123# typed into Password text box
+10:33:32.869 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0002 - Validate Login button is clickable
+10:33:37.920 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0002 - Clicked on : Login button
+10:33:38.586 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0002 - LOB HR-Log in is successfull
+10:33:38.652 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0002 - Expected text : HR Partner Manual is matching with the : HR Partner Manual text in the application 
+10:33:38.653 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0002 - HR Partner Manual popup is displayed
+10:33:38.653 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0002 - Validate Close button on HCL Banner is clickable
+10:33:38.818 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0002 - Clicked on : Close button on HCL Banner
+10:33:38.914 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0002 - Home page is displayed, url= https://staging.myhcl.com/GIM/Home/Index, title= Home Page
+10:33:38.924 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0002 - Role: Employee
+10:33:38.924 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0002 - Validate LOB HR Initiate On Behalf Of Employee button is clickable
+10:33:39.680 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0002 - Clicked on : LOB HR Initiate On Behalf Of Employee button
+10:33:39.743 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0002 - Initiate Claim page is displayed, url= https://staging.myhcl.com/GIM/HRPartner/InitiateClaim, title= InitiateClaim
+10:33:39.748 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0002 - Wait for Select Claim type Drop down
+10:33:39.883 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0002 - Validate Select Claim type Drop down is clickable
+10:33:40.325 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0002 - Clicked on : Select Claim type Drop down
+10:33:40.700 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0002 - List of all Claim types from the Drop down is displayed.
+10:33:40.719 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0002 - Wait for Client Bonus/Reward/Incentive
+10:33:40.974 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0002 - Able to mouse over on  Client Bonus/Reward/Incentive
+10:33:41.182 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0002 - Clicked on : Client Bonus/Reward/Incentive
+10:33:41.220 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0002 - Able to select Client Bonus/Reward/Incentive from the Dropdown and default selection is Copy & Paste 
+10:33:41.306 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0002 - Expected text : Client Bonus/Reward/Incentive is matching with the : Client Bonus/Reward/Incentive text in the application 
+10:33:41.307 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0002 - Client Bonus/Reward/Incentive is selected and default selection is Copy & Paste
+10:33:41.315 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0002 - Scroll up
+10:33:41.356 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0002 - Wait for Download Client Bonus/Reward/Incentive Form Template link
+10:33:41.486 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0002 - Validate Download Client Bonus/Reward/Incentive Form Template link is clickable
+10:33:41.626 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0002 - Clicked on : Download Client Bonus/Reward/Incentive Form Template link
+10:33:41.672 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0002 - New File Created:baf866fb-fd4a-446c-bb13-83d8c92f4f20.tmp
+10:33:41.730 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0002 - New File Created:Claim (1).xlsx.crdownload
+10:33:41.839 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0002 - New File Created:Claim (1).xlsx
+10:33:41.840 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0002 - Downloaded file found with extension .xlsx. File name is Claim (1).xlsx
+10:33:44.865 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0002 - Able to mouse over on Paste Your Content Here Text
+10:33:55.051 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0002 - Wait for Upload Document Link
+10:33:55.181 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0002 - Validate Upload Document Link is clickable
+10:33:55.321 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0002 - Clicked on : Upload Document Link
+10:34:02.430 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0002 - Expected text : Sample(JPG).jpg is matching with the : Sample(JPG).jpg text in the application 
+10:34:02.430 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0002 - Sample(JPG).jpg file is uploaded
+10:34:02.431 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0002 - Wait for Upload Button
+10:34:02.549 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0002 - Validate Upload Button is clickable
+10:34:02.720 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0002 - Clicked on : Upload Button
+10:34:08.050 [main] ERROR com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0002 - Unable to load the page correctly
+10:34:08.100 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0002 - Expected text : Are you sure you want to proceed? is matching with the : Are you sure you want to proceed? text in the application 
+10:34:08.100 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0002 - Are you sure you want to proceed Dialog box is displayed
+10:34:08.101 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0002 - Wait for Yes Button
+10:34:10.219 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0002 - Validate Yes Button is clickable
+10:34:10.380 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0002 - Clicked on : Yes Button
+10:34:12.954 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0002 - Expected text : Data has been saved successfully. is matching with the : Data has been saved successfully. text in the application 
+10:34:12.955 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0002 - Data has been saved successfully message is displayed
+10:34:19.390 [main] ERROR com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0002 - Unable to load the page correctly
+10:34:19.556 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0002 - Able to mouse over on Menu
+10:34:19.557 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0002 - Wait for Initiate Claims link
+10:34:20.225 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0002 - Validate Initiate Claims link is clickable
+10:34:20.916 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0002 - Clicked on : Initiate Claims link
+10:34:21.372 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0002 - Wait for Check Box
+10:34:21.597 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0002 - Check Box is selected
+10:34:21.597 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0002 - Wait for Submit button
+10:34:21.745 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0002 - Validate Submit button is clickable
+10:34:21.905 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0002 - Clicked on : Submit button
+10:34:21.905 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0002 - Wait for Submit Popup
+10:34:22.614 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0002 - Expected text : Submit is matching with the : Submit text in the application 
+10:34:22.614 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0002 - Approve Submit Popup is displayed
+10:34:22.614 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0002 - Wait for Approve Remark Text Field
+10:34:22.729 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0002 - Enter the value into Approve Remark Text Field
+10:34:22.913 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0002 - Approved typed into Approve Remark Text Field
+10:34:22.914 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0002 - Wait for Approve submit button
+10:34:23.172 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0002 - Validate Approve submit button is clickable
+10:34:23.313 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0002 - Clicked on : Approve submit button
+10:34:23.313 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0002 - Wait for Approval Warning Popup
+10:34:23.539 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0002 - Expected text : Are you sure you want to proceed? is matching with the : Are you sure you want to proceed? text in the application 
+10:34:23.540 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0002 - Are you sure you want to proceed? Popup is displayed
+10:34:25.541 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0002 - Wait for Yes button
+10:34:25.658 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0002 - Validate Yes button is clickable
+10:34:25.784 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0002 - Clicked on : Yes button
+10:34:25.785 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0002 - Wait for Claim requests has been successfully submitted message
+10:34:27.011 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0002 - Claim requests has been successfully submitted message is displayed
+10:34:33.765 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0002 - Claim is removed from the Initiate Claims Page and moved to next level for approval
+10:34:33.940 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0002 - Able to mouse over on Profile
+10:34:33.940 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0002 - Wait for Logout button
+10:34:34.585 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0002 - Validate Logout button is clickable
+10:34:34.736 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0002 - Clicked on : Logout button
+10:34:35.300 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0002 - Wait for Yes button
+10:34:35.418 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0002 - Validate Yes button is clickable
+10:34:35.972 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0002 - Clicked on : Yes button
+10:34:35.974 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0002 - Wait for Log In
+10:34:36.751 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0002 - Expected text : Log in. is matching with the : Log in. text in the application 
+10:34:36.751 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0002 - Logged out from the Account
+10:34:36.815 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0002 - Expected text : Log in. is matching with the : Log in. text in the application 
+10:34:36.815 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0002 - Log In page is displayed
+10:34:36.816 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0002 - Enter the value into User Id text box
+10:34:36.984 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0002 - 40182709 typed into User Id text box
+10:34:36.985 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0002 - Enter the value into Password text box
+10:34:37.145 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0002 - GIM@123# typed into Password text box
+10:34:37.145 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0002 - Validate Login button is clickable
+10:34:38.331 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0002 - Clicked on : Login button
+10:34:38.952 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0002 - ES1-Log in is successfull
+10:34:39.016 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0002 - Expected text : HR Partner Manual is matching with the : HR Partner Manual text in the application 
+10:34:39.016 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0002 - HR Partner Manual popup is displayed
+10:34:39.016 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0002 - Validate Close button on HCL Banner is clickable
+10:34:39.148 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0002 - Clicked on : Close button on HCL Banner
+10:34:39.227 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0002 - Home page is displayed, url= https://staging.myhcl.com/GIM/Home/Index, title= Home Page
+10:34:39.232 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0002 - Role: Employee
+10:34:39.232 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0002 - Wait for Pending for Approval tab
+10:34:39.362 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0002 - Validate Pending for Approval tab is clickable
+10:34:40.026 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0002 - Clicked on : Pending for Approval tab
+10:34:40.102 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0002 - Pending Action Page is displayed, url= https://staging.myhcl.com/GIM/Home/PendingActions, title= PendingActions
+10:34:40.596 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0002 - List of all claims that need approval is displayed under ES1 OnSite
+10:34:40.613 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0002 - Wait for Particular claim check box
+10:34:40.833 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0002 - Particular claim check box is selected
+10:34:40.908 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0002 - Approve button is highlighted
+10:34:40.908 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0002 - Validate Approve button is clickable
+10:34:41.077 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0002 - Clicked on : Approve button
+10:34:41.078 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0002 - Wait for Approve Remark text field
+10:34:41.760 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0002 - Enter the value into Approve Remark text field
+10:34:41.917 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0002 - Approved typed into Approve Remark text field
+10:34:41.985 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0002 - Approve pop up is displayed
+10:34:41.986 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0002 - Validate Submit button is clickable
+10:34:42.141 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0002 - Clicked on : Submit button
+10:34:42.763 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0002 - Expected text : Are you sure you want to proceed? is matching with the : Are you sure you want to proceed? text in the application 
+10:34:42.764 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0002 - Are you sure you want to proceed message is displayed
+10:34:44.765 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0002 - Wait for Yes button
+10:34:44.883 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0002 - Validate Yes button is clickable
+10:34:45.025 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0002 - Clicked on : Yes button
+10:34:46.144 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0002 - Claim requests has been successfully approved toast message is displayed
+10:34:52.601 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0002 - Claim is removed from the Pending Actions page and moved to next level for approval
+10:34:52.761 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0002 - Able to mouse over on Profile
+10:34:52.762 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0002 - Wait for Logout button
+10:34:53.398 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0002 - Validate Logout button is clickable
+10:34:53.528 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0002 - Clicked on : Logout button
+10:34:54.088 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0002 - Wait for Yes button
+10:34:54.198 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0002 - Validate Yes button is clickable
+10:34:54.411 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0002 - Clicked on : Yes button
+10:34:54.411 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0002 - Wait for Log In
+10:34:54.561 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0002 - Expected text : Log in. is matching with the : Log in. text in the application 
+10:34:54.562 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0002 - Logged out from the Account
+10:34:54.612 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0002 - Expected text : Log in. is matching with the : Log in. text in the application 
+10:34:54.612 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0002 - Log In page is displayed
+10:34:54.612 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0002 - Enter the value into User Id text box
+10:34:54.757 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0002 - 51480631 typed into User Id text box
+10:34:54.757 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0002 - Enter the value into Password text box
+10:34:54.898 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0002 - GIM@123# typed into Password text box
+10:34:54.899 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0002 - Validate Login button is clickable
+10:34:56.198 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0002 - Clicked on : Login button
+10:34:56.804 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0002 - ES2 OnSite-Log in is successfull
+10:34:56.861 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0002 - Expected text : HR Partner Manual is matching with the : HR Partner Manual text in the application 
+10:34:56.862 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0002 - HR Partner Manual popup is displayed
+10:34:56.862 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0002 - Validate Close button on HCL Banner is clickable
+10:34:56.984 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0002 - Clicked on : Close button on HCL Banner
+10:34:57.057 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0002 - Home page is displayed, url= https://staging.myhcl.com/GIM/Home/Index, title= Home Page
+10:34:57.065 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0002 - Role: Employee
+10:34:57.066 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0002 - Wait for Pending for Approval tab
+10:34:57.196 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0002 - Validate Pending for Approval tab is clickable
+10:34:57.784 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0002 - Clicked on : Pending for Approval tab
+10:34:57.830 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0002 - Pending Action Page is displayed, url= https://staging.myhcl.com/GIM/Home/PendingActions, title= PendingActions
+10:34:58.225 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0002 - List of all claims that need approval is displayed under ES2 OnSite
+10:34:58.235 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0002 - Wait for Particular claim check box
+10:34:58.427 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0002 - Particular claim check box is selected
+10:34:58.497 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0002 - Approve button is highlighted
+10:34:58.497 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0002 - Validate Approve button is clickable
+10:34:58.638 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0002 - Clicked on : Approve button
+10:34:58.638 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0002 - Wait for Approve Remark text field
+10:34:59.287 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0002 - Enter the value into Approve Remark text field
+10:34:59.428 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0002 - Approved typed into Approve Remark text field
+10:34:59.490 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0002 - Approve pop up is displayed
+10:34:59.490 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0002 - Validate Submit button is clickable
+10:34:59.632 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0002 - Clicked on : Submit button
+10:35:00.276 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0002 - Expected text : Are you sure you want to proceed? is matching with the : Are you sure you want to proceed? text in the application 
+10:35:00.277 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0002 - Are you sure you want to proceed message is displayed
+10:35:02.279 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0002 - Wait for Yes button
+10:35:02.391 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0002 - Validate Yes button is clickable
+10:35:02.511 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0002 - Clicked on : Yes button
+10:35:03.615 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0002 - Claim requests has been successfully approved toast message is displayed
+10:35:10.557 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0002 - Claim is removed from the Pending Actions page and moved to next level for approval
+10:35:10.725 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0002 - Able to mouse over on Profile
+10:35:10.725 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0002 - Wait for Logout button
+10:35:11.368 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0002 - Validate Logout button is clickable
+10:35:11.501 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0002 - Clicked on : Logout button
+10:35:12.063 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0002 - Wait for Yes button
+10:35:12.185 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0002 - Validate Yes button is clickable
+10:35:12.449 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0002 - Clicked on : Yes button
+10:35:12.450 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0002 - Wait for Log In
+10:35:12.628 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0002 - Expected text : Log in. is matching with the : Log in. text in the application 
+10:35:12.628 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0002 - Logged out from the Account
+10:35:12.695 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0002 - Expected text : Log in. is matching with the : Log in. text in the application 
+10:35:12.695 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0002 - Log In page is displayed
+10:35:12.695 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0002 - Enter the value into User Id text box
+10:35:12.854 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0002 - 51575273 typed into User Id text box
+10:35:12.854 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0002 - Enter the value into Password text box
+10:35:13.013 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0002 - GIM@123# typed into Password text box
+10:35:13.013 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0002 - Validate Login button is clickable
+10:35:14.491 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0002 - Clicked on : Login button
+10:35:15.119 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0002 - LOB HR-Log in is successfull
+10:35:15.186 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0002 - Expected text : HR Partner Manual is matching with the : HR Partner Manual text in the application 
+10:35:15.186 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0002 - HR Partner Manual popup is displayed
+10:35:15.186 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0002 - Validate Close button on HCL Banner is clickable
+10:35:15.334 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0002 - Clicked on : Close button on HCL Banner
+10:35:15.422 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0002 - Home page is displayed, url= https://staging.myhcl.com/GIM/Home/Index, title= Home Page
+10:35:15.430 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0002 - Role: Employee
+10:35:15.430 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0002 - Validate LOB HR Initiate On Behalf Of Employee button is clickable
+10:35:16.053 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0002 - Clicked on : LOB HR Initiate On Behalf Of Employee button
+10:35:16.110 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0002 - Initiate Claim page is displayed, url= https://staging.myhcl.com/GIM/HRPartner/InitiateClaim, title= InitiateClaim
+10:35:16.285 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0002 - Able to mouse over on Menu
+10:35:16.286 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0002 - Wait for Previous Records link
+10:35:17.546 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0002 - Home link is displayed
+10:35:17.603 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0002 - Previous Records link is displayed
+10:35:17.604 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0002 - Validate Previous Records link is clickable
+10:35:18.243 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0002 - Clicked on : Previous Records link
+10:35:18.305 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0002 - Previous Records Page is displayed, url= https://staging.myhcl.com/GIM/Home/PreviousRecords, title= Previous Records
+10:35:18.923 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0002 - Wait for Approve Status text
+10:35:19.039 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0002 - Expected text : Pushed into iRem is matching with the : Pushed into iRem text in the application 
+10:35:19.039 [main] INFO  com.hcl.gim.testscripts.clientbonus_reward_incentive.TYSS_GIM_CBRI_0002 - Pushed into iRem status is displayed

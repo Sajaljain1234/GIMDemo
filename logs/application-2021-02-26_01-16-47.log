@@ -1,0 +1,23 @@
+13:16:47.966 [main] INFO  com.hcl.gim.baseutil.BaseTest - 
+13:16:47.986 [main] INFO  com.hcl.gim.baseutil.BaseTest - Running locally JavaMail
+13:16:48.091 [main] INFO  com.hcl.gim.baseutil.BaseTest - Folder creation for Extent
+13:16:48.135 [main] INFO  com.hcl.gim.baseutil.BaseTest - ExtentDir:-C:\HCL-GIM-Harsha\GIM-App-Harsha1/reports/Automation Report- 02_26_2021_13_16_48/Report/02_26_2021_13_16_48
+13:16:48.382 [main] INFO  com.hcl.gim.baseutil.BaseTest - Report Initiated
+13:16:48.382 [main] INFO  com.hcl.gim.baseutil.BaseTest - Screenshot folder created
+13:16:54.486 [main] INFO  com.hcl.gim.testscripts.exgratia_others.TYSS_GIM_EXO_0009 - Chrome Browser is launched
+13:16:57.049 [main] INFO  com.hcl.gim.testscripts.exgratia_others.TYSS_GIM_EXO_0009 - Expected text : Log in. is matching with the : Log in. text in the application 
+13:16:57.050 [main] INFO  com.hcl.gim.testscripts.exgratia_others.TYSS_GIM_EXO_0009 - Log In page is displayed
+13:16:57.050 [main] INFO  com.hcl.gim.testscripts.exgratia_others.TYSS_GIM_EXO_0009 - Enter the value into User Id text box
+13:16:57.454 [main] INFO  com.hcl.gim.testscripts.exgratia_others.TYSS_GIM_EXO_0009 - 40136083 typed into User Id text box
+13:16:57.455 [main] INFO  com.hcl.gim.testscripts.exgratia_others.TYSS_GIM_EXO_0009 - Enter the value into Password text box
+13:16:57.699 [main] INFO  com.hcl.gim.testscripts.exgratia_others.TYSS_GIM_EXO_0009 - GIM@123# typed into Password text box
+13:16:57.700 [main] INFO  com.hcl.gim.testscripts.exgratia_others.TYSS_GIM_EXO_0009 - Validate Login button is clickable
+13:17:03.278 [main] INFO  com.hcl.gim.testscripts.exgratia_others.TYSS_GIM_EXO_0009 - Clicked on : Login button
+13:17:03.712 [main] INFO  com.hcl.gim.testscripts.exgratia_others.TYSS_GIM_EXO_0009 - GEO HR-Log in is successfull
+13:17:03.853 [main] INFO  com.hcl.gim.testscripts.exgratia_others.TYSS_GIM_EXO_0009 - Expected text : HR Partner Manual is matching with the : HR Partner Manual text in the application 
+13:17:03.854 [main] INFO  com.hcl.gim.testscripts.exgratia_others.TYSS_GIM_EXO_0009 - HR Partner Manual popup is displayed
+13:17:03.854 [main] INFO  com.hcl.gim.testscripts.exgratia_others.TYSS_GIM_EXO_0009 - Validate Close button on HCL Banner is clickable
+13:17:04.026 [main] INFO  com.hcl.gim.testscripts.exgratia_others.TYSS_GIM_EXO_0009 - Clicked on : Close button on HCL Banner
+13:17:04.147 [main] INFO  com.hcl.gim.testscripts.exgratia_others.TYSS_GIM_EXO_0009 - Home page is displayed, url= https://staging.myhcl.com/GIM/Home/Index, title= Home Page
+13:17:04.156 [main] INFO  com.hcl.gim.testscripts.exgratia_others.TYSS_GIM_EXO_0009 - Role: Employee
+13:17:04.156 [main] INFO  com.hcl.gim.testscripts.exgratia_others.TYSS_GIM_EXO_0009 - Validate Geo HR Initiate On Behalf Of Employee button is clickable

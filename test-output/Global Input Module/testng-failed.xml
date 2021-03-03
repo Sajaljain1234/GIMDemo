@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite configfailurepolicy="continue" thread-count="1" name="Failed suite [Global Input Module]" guice-stage="DEVELOPMENT">
+  <listeners>
+    <listener class-name="com.hcl.gim.listeners.TestListener"/>
+  </listeners>
+  <test thread-count="1" name="PROJECT_Test1(failed)">
+    <parameter name="browserName" value="Chrome"/>
+    <classes>
+      <class name="com.hcl.gim.testscripts.car_parking_deduction.TYSS_GIM_CPD_0002">
+        <methods>
+          <include name="createFiles"/>
+          <include name="setExtentReport"/>
+          <include name="closeBrowser"/>
+          <include name="TC_TYSS_GIM_CPD_0002" invocation-numbers="0"/>
+          <include name="killTask"/>
+          <include name="launchApp"/>
+        </methods>
+      </class> <!-- com.hcl.gim.testscripts.car_parking_deduction.TYSS_GIM_CPD_0002 -->
+    </classes>
+  </test> <!-- PROJECT_Test1(failed) -->
+</suite> <!-- Failed suite [Global Input Module] -->

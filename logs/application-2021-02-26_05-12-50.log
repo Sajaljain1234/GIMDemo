@@ -1,0 +1,441 @@
+05:12:50.629 [main] INFO  com.hcl.gim.baseutil.BaseTest - 
+05:12:50.640 [main] INFO  com.hcl.gim.baseutil.BaseTest - Running locally JavaMail
+05:12:50.765 [main] INFO  com.hcl.gim.baseutil.BaseTest - Folder creation for Extent
+05:12:50.812 [main] INFO  com.hcl.gim.baseutil.BaseTest - ExtentDir:-C:\HCL-GIM-Harsha\GIM-App-Harsha1/reports/Automation Report- 02_26_2021_05_12_50/Report/02_26_2021_05_12_50
+05:12:50.969 [main] INFO  com.hcl.gim.baseutil.BaseTest - Report Initiated
+05:12:50.969 [main] INFO  com.hcl.gim.baseutil.BaseTest - Screenshot folder created
+05:12:56.727 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0016 - Chrome Browser is launched
+05:12:57.419 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0016 - Expected text : Log in. is matching with the : Log in. text in the application 
+05:12:57.419 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0016 - Log In page is displayed
+05:12:57.419 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0016 - Enter the value into User Id text box
+05:12:57.667 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0016 - 40136083 typed into User Id text box
+05:12:57.667 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0016 - Enter the value into Password text box
+05:12:57.875 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0016 - GIM@123# typed into Password text box
+05:12:57.876 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0016 - Validate Login button is clickable
+05:12:59.248 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0016 - Clicked on : Login button
+05:12:59.906 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0016 - GEO HR-Log in is successfull
+05:12:59.976 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0016 - Expected text : HR Partner Manual is matching with the : HR Partner Manual text in the application 
+05:12:59.977 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0016 - HR Partner Manual popup is displayed
+05:12:59.977 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0016 - Validate Close button on HCL Banner is clickable
+05:13:00.151 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0016 - Clicked on : Close button on HCL Banner
+05:13:00.248 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0016 - Home page is displayed, url= https://staging.myhcl.com/GIM/Home/Index, title= Home Page
+05:13:00.256 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0016 - Role: Employee
+05:13:00.257 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0016 - Validate Geo HR Initiate On Behalf Of Employee button is clickable
+05:13:00.941 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0016 - Clicked on : Geo HR Initiate On Behalf Of Employee button
+05:13:01.011 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0016 - Initiate Claim page is displayed, url= https://staging.myhcl.com/GIM/HRPartner/InitiateClaim, title= InitiateClaim
+05:13:01.018 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0016 - Wait for Select Claim type Drop down
+05:13:01.165 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0016 - Validate Select Claim type Drop down is clickable
+05:13:01.558 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0016 - Clicked on : Select Claim type Drop down
+05:13:02.381 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0016 - List of all Claim types from the Drop down is displayed.
+05:13:02.397 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0016 - Wait for Exgratia - Language allowance
+05:13:02.696 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0016 - Able to mouse over on  Exgratia - Language allowance
+05:13:02.929 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0016 - Clicked on : Exgratia - Language allowance
+05:13:02.961 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0016 - Able to select Exgratia - Language allowance from the Dropdown and default selection is Copy & Paste 
+05:13:03.010 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0016 - Expected text : Exgratia - Language allowance is matching with the : Exgratia - Language allowance text in the application 
+05:13:03.011 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0016 - Exgratia - Language allowance is selected and default selection is Copy & Paste
+05:13:03.018 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0016 - Scroll up
+05:13:03.090 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0016 - Scroll up
+05:13:03.135 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0016 - Wait for Through the Form Radio Button
+05:13:03.221 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0016 - Validate Through the Form Radio Button is clickable
+05:13:03.323 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0016 - Clicked on : Through the Form Radio Button
+05:13:03.377 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0016 - Through the Form option is selected
+05:13:03.377 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0016 - Wait for Employee code text box
+05:13:03.498 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0016 - Enter the value into Employee code text box
+05:13:03.666 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0016 - 51818859 typed into Employee code text box
+05:13:04.685 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0016 - Valid value is entered in Employee code text box
+05:13:04.685 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0016 - 51818859 entered in Employee code text box
+05:13:04.693 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0016 - Wait for Country code text box
+05:13:04.860 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0016 - Enter the value into Country code text box
+05:13:05.039 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0016 - 10 typed into Country code text box
+05:13:06.061 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0016 - Valid value is entered in Country code text box
+05:13:06.061 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0016 - 10 entered in Country code text box
+05:13:06.069 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0016 - Wait for Company code text box
+05:13:06.207 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0016 - Enter the value into Company code text box
+05:13:06.366 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0016 - 4000 typed into Company code text box
+05:13:07.383 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0016 - Valid value is entered in Company code text box
+05:13:07.383 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0016 - 4000 entered in Company code text box
+05:13:07.390 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0016 - Wait for  Amount text box
+05:13:07.565 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0016 - Enter the value into  Amount text box
+05:13:07.789 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0016 - 1550 typed into  Amount text box
+05:13:08.808 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0016 - Valid value is entered in Amount text box
+05:13:08.808 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0016 - 1550 entered in Amount text box
+05:13:08.816 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0016 - Wait for From Date text box
+05:13:08.986 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0016 - 3/3/2020 is selected
+05:13:10.006 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0016 - Valid value is entered in From Date text box
+05:13:10.006 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0016 - 3/3/2020 entered in from date text box
+05:13:10.014 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0016 - Wait for To Date text box
+05:13:10.211 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0016 - 3/4/2020 is selected
+05:13:11.236 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0016 - Valid value is entered in To Date text box
+05:13:11.236 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0016 - 3/4/2020 entered in To date text box
+05:13:11.244 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0016 - Wait for Remarks text box
+05:13:11.385 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0016 - Enter the value into Remarks text box
+05:13:11.559 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0016 - Test1 typed into Remarks text box
+05:13:12.585 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0016 - Valid value is entered in Remarks text box
+05:13:12.585 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0016 - Test1 entered in Remarks text box
+05:13:12.593 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0016 - Wait for Rate text box
+05:13:12.760 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0016 - Enter the value into Rate text box
+05:13:12.939 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0016 - R1 typed into Rate text box
+05:13:13.000 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0016 - Expected attribute value : R1 is matching with the actual attribute value : R1 of Rate text box
+05:13:13.000 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0016 - R1 entered in Rate text box 
+05:13:13.000 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0016 - Wait for Number of installments text box
+05:13:13.118 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0016 - Enter the value into Number of installments text box
+05:13:13.297 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0016 - 1 typed into Number of installments text box
+05:13:13.360 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0016 - Expected attribute value : 1 is matching with the actual attribute value : 1 of Number of installments text box
+05:13:13.360 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0016 - 1 entered in Number of installments text box 
+05:13:13.360 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0016 - Wait for Through Form Upload link
+05:13:13.484 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0016 - Validate Through Form Upload link is clickable
+05:13:13.679 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0016 - Clicked on : Through Form Upload link
+05:13:20.914 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0016 - The file is uploaded in the file upload text area
+05:13:20.914 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0016 - Wait for Through Form Submit button
+05:13:21.088 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0016 - Validate Through Form Submit button is clickable
+05:13:21.303 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0016 - Clicked on : Through Form Submit button
+05:13:25.707 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0016 - Are you sure you want to proceed pop up is displayed
+05:13:25.719 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0016 - Wait for Yes button
+05:13:27.849 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0016 - Validate Yes button is clickable
+05:13:27.991 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0016 - Clicked on : Yes button
+05:13:27.991 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0016 - Wait for Claim requests has been successfully raised success message
+05:13:32.016 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0016 - Claim requests has been successfully raised success message is displayed
+05:13:38.140 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0016 - Able to mouse over on Main Menu
+05:13:38.158 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0016 - Validate Initaite Claims link is clickable
+05:13:39.389 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0016 - Clicked on : Initaite Claims link
+05:13:40.117 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0016 - Validate ClaimID : 150 link is clickable
+05:13:40.241 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0016 - Clicked on : ClaimID : 150 link
+05:13:40.241 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0016 - Wait for Verify Claim Detail
+05:13:41.566 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0016 - Expected text : Claim Details (150) is matching with the : Claim Details (150) text in the application 
+05:13:41.574 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0016 - Claim details popup is displayed
+05:13:41.574 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0016 - Wait for Approve or ReferBack Remark Text Field
+05:13:41.731 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0016 - Enter the value into Approve or ReferBack Remark Text Field
+05:13:41.910 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0016 - Test1 typed into Approve or ReferBack Remark Text Field
+05:13:41.921 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0016 - Wait for Approval submit button
+05:13:42.028 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0016 - Validate Approval submit button is clickable
+05:13:42.169 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0016 - Clicked on : Approval submit button
+05:13:42.733 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0016 - Wait for Approval Warning Popup
+05:13:42.896 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0016 - Expected text : Are you sure you want to proceed? is matching with the : Are you sure you want to proceed? text in the application 
+05:13:42.897 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0016 - Are you sure you want to proceed? Popup is displayed
+05:13:44.898 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0016 - Wait for Yes button
+05:13:45.006 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0016 - Validate Yes button is clickable
+05:13:45.135 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0016 - Clicked on : Yes button
+05:13:45.136 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0016 - Wait for Claim Submitted Success Message Through ClaimID
+05:13:47.460 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0016 - Claim requests has been successfully approved message through ClaimID is displayed
+05:13:54.122 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0016 - Claim is removed from the Initiate Claims Page and moved to next level for approval
+05:13:54.317 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0016 - Able to mouse over on Profile
+05:13:54.318 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0016 - Wait for Logout button
+05:13:54.970 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0016 - Validate Logout button is clickable
+05:13:55.143 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0016 - Clicked on : Logout button
+05:13:55.698 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0016 - Wait for Yes button
+05:13:55.806 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0016 - Validate Yes button is clickable
+05:13:56.763 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0016 - Clicked on : Yes button
+05:13:56.764 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0016 - Wait for Log In
+05:13:57.192 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0016 - Expected text : Log in. is matching with the : Log in. text in the application 
+05:13:57.192 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0016 - Logged out from the Account
+05:13:57.272 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0016 - Expected text : Log in. is matching with the : Log in. text in the application 
+05:13:57.272 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0016 - Log In page is displayed
+05:13:57.272 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0016 - Enter the value into User Id text box
+05:13:57.427 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0016 - 40182709 typed into User Id text box
+05:13:57.427 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0016 - Enter the value into Password text box
+05:13:57.590 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0016 - GIM@123# typed into Password text box
+05:13:57.590 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0016 - Validate Login button is clickable
+05:14:00.547 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0016 - Clicked on : Login button
+05:14:01.160 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0016 - GEO HR-Log in is successfull
+05:14:01.227 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0016 - Expected text : HR Partner Manual is matching with the : HR Partner Manual text in the application 
+05:14:01.227 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0016 - HR Partner Manual popup is displayed
+05:14:01.227 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0016 - Validate Close button on HCL Banner is clickable
+05:14:01.370 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0016 - Clicked on : Close button on HCL Banner
+05:14:01.455 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0016 - Home page is displayed, url= https://staging.myhcl.com/GIM/Home/Index, title= Home Page
+05:14:01.462 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0016 - Role: Employee
+05:14:01.462 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0016 - Wait for Pending for Approval tab
+05:14:01.579 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0016 - Validate Pending for Approval tab is clickable
+05:14:02.511 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0016 - Clicked on : Pending for Approval tab
+05:14:02.560 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0016 - Pending Action Page is displayed, url= https://staging.myhcl.com/GIM/Home/PendingActions, title= PendingActions
+05:14:02.816 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0016 - List of all claims that need approval is displayed under ES1 OnSite
+05:14:03.570 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0016 - Validate Claim ID : 150 link is clickable
+05:14:03.676 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0016 - Clicked on : Claim ID : 150 link
+05:14:03.687 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0016 - Wait for Approve or Refer Back Remark text field
+05:14:05.162 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0016 - Enter the value into Approve or Refer Back Remark text field
+05:14:05.344 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0016 - Test1 typed into Approve or Refer Back Remark text field
+05:14:05.353 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0016 - Wait for Approve button in Claim ID pop up
+05:14:05.468 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0016 - Validate Approve button in Claim ID pop up is clickable
+05:14:05.616 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0016 - Clicked on : Approve button in Claim ID pop up
+05:14:06.243 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0016 - Expected text : Are you sure you want to proceed? is matching with the : Are you sure you want to proceed? text in the application 
+05:14:06.243 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0016 - Are you sure you want to proceed message is displayed
+05:14:08.244 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0016 - Wait for Yes button
+05:14:08.367 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0016 - Validate Yes button is clickable
+05:14:08.510 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0016 - Clicked on : Yes button
+05:14:09.726 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0016 - Claim requests has been successfully approved toast message is displayed
+05:14:16.728 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0016 - Claim is removed from the Pending Actions page and moved to next level for approval
+05:14:16.924 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0016 - Able to mouse over on Profile
+05:14:16.925 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0016 - Wait for Logout button
+05:14:17.579 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0016 - Validate Logout button is clickable
+05:14:17.752 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0016 - Clicked on : Logout button
+05:14:18.309 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0016 - Wait for Yes button
+05:14:18.418 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0016 - Validate Yes button is clickable
+05:14:18.646 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0016 - Clicked on : Yes button
+05:14:18.646 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0016 - Wait for Log In
+05:14:18.837 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0016 - Expected text : Log in. is matching with the : Log in. text in the application 
+05:14:18.843 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0016 - Logged out from the Account
+05:14:18.907 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0016 - Expected text : Log in. is matching with the : Log in. text in the application 
+05:14:18.907 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0016 - Log In page is displayed
+05:14:18.907 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0016 - Enter the value into User Id text box
+05:14:19.144 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0016 - 51480631 typed into User Id text box
+05:14:19.144 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0016 - Enter the value into Password text box
+05:14:19.299 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0016 - GIM@123# typed into Password text box
+05:14:19.299 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0016 - Validate Login button is clickable
+05:14:23.118 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0016 - Clicked on : Login button
+05:14:23.748 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0016 - ES2-Log in is successfull
+05:14:23.814 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0016 - Expected text : HR Partner Manual is matching with the : HR Partner Manual text in the application 
+05:14:23.814 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0016 - HR Partner Manual popup is displayed
+05:14:23.814 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0016 - Validate Close button on HCL Banner is clickable
+05:14:23.961 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0016 - Clicked on : Close button on HCL Banner
+05:14:24.054 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0016 - Home page is displayed, url= https://staging.myhcl.com/GIM/Home/Index, title= Home Page
+05:14:24.059 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0016 - Role: Employee
+05:14:24.060 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0016 - Wait for Pending for Approval tab
+05:14:24.199 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0016 - Validate Pending for Approval tab is clickable
+05:14:25.188 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0016 - Clicked on : Pending for Approval tab
+05:14:25.249 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0016 - Pending Action Page is displayed, url= https://staging.myhcl.com/GIM/Home/PendingActions, title= PendingActions
+05:14:25.537 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0016 - List of all claims that need approval is displayed under ES2 OnSite
+05:14:25.781 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0016 - Validate Claim ID : 150 link is clickable
+05:14:25.887 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0016 - Clicked on : Claim ID : 150 link
+05:14:25.901 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0016 - Wait for Approve or Refer Back Remark text field
+05:14:27.188 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0016 - Enter the value into Approve or Refer Back Remark text field
+05:14:27.350 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0016 - Test1 typed into Approve or Refer Back Remark text field
+05:14:27.359 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0016 - Wait for Approve button in Claim ID pop up
+05:14:27.470 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0016 - Validate Approve button in Claim ID pop up is clickable
+05:14:27.619 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0016 - Clicked on : Approve button in Claim ID pop up
+05:14:28.249 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0016 - Expected text : Are you sure you want to proceed? is matching with the : Are you sure you want to proceed? text in the application 
+05:14:28.250 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0016 - Are you sure you want to proceed message is displayed
+05:14:30.250 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0016 - Wait for Yes button
+05:14:30.369 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0016 - Validate Yes button is clickable
+05:14:30.513 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0016 - Clicked on : Yes button
+05:14:31.541 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0016 - Claim requests has been successfully approved toast message is displayed
+05:14:38.602 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0016 - Claim is removed from the Pending Actions page and moved to next level for approval
+05:14:38.799 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0016 - Able to mouse over on Profile
+05:14:38.800 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0016 - Wait for Logout button
+05:14:39.434 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0016 - Validate Logout button is clickable
+05:14:39.629 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0016 - Clicked on : Logout button
+05:14:40.191 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0016 - Wait for Yes button
+05:14:40.310 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0016 - Validate Yes button is clickable
+05:14:40.559 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0016 - Clicked on : Yes button
+05:14:40.560 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0016 - Wait for Log In
+05:14:40.787 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0016 - Expected text : Log in. is matching with the : Log in. text in the application 
+05:14:40.787 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0016 - Logged out from the Account
+05:14:40.860 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0016 - Expected text : Log in. is matching with the : Log in. text in the application 
+05:14:40.860 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0016 - Log In page is displayed
+05:14:40.860 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0016 - Enter the value into User Id text box
+05:14:41.075 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0016 - 40136083 typed into User Id text box
+05:14:41.075 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0016 - Enter the value into Password text box
+05:14:41.239 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0016 - GIM@123# typed into Password text box
+05:14:41.239 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0016 - Validate Login button is clickable
+05:14:45.508 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0016 - Clicked on : Login button
+05:14:46.116 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0016 - GEO HR-Log in is successfull
+05:14:46.172 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0016 - Expected text : HR Partner Manual is matching with the : HR Partner Manual text in the application 
+05:14:46.173 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0016 - HR Partner Manual popup is displayed
+05:14:46.173 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0016 - Validate Close button on HCL Banner is clickable
+05:14:46.299 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0016 - Clicked on : Close button on HCL Banner
+05:14:46.378 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0016 - Home page is displayed, url= https://staging.myhcl.com/GIM/Home/Index, title= Home Page
+05:14:46.386 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0016 - Role: Employee
+05:14:46.387 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0016 - Validate Geo HR Initiate On Behalf Of Employee button is clickable
+05:14:47.107 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0016 - Clicked on : Geo HR Initiate On Behalf Of Employee button
+05:14:47.159 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0016 - Initiate Claim page is displayed, url= https://staging.myhcl.com/GIM/HRPartner/InitiateClaim, title= InitiateClaim
+05:14:47.322 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0016 - Able to mouse over on Menu
+05:14:47.323 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0016 - Wait for Previous Records link
+05:14:48.598 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0016 - Home link is displayed
+05:14:48.661 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0016 - Previous Records link is displayed
+05:14:48.661 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0016 - Validate Previous Records link is clickable
+05:14:49.417 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0016 - Clicked on : Previous Records link
+05:14:49.481 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0016 - Previous Records Page is displayed, url= https://staging.myhcl.com/GIM/Home/PreviousRecords, title= Previous Records
+05:14:57.664 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0016 - Wait for Approve Status text
+05:14:57.804 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0016 - Expected text : Pushed into iRem is matching with the : Pushed into iRem text in the application 
+05:14:57.804 [main] INFO  com.hcl.gim.testscripts.exgratia_language_allowance.TYSS_GIM_ELA_0016 - Pushed into iRem status is displayed
+05:15:03.336 [main] INFO  com.hcl.gim.testscripts.hcl_jewels.TYSS_GIM_HJ_0020 - Chrome Browser is launched
+05:15:03.836 [main] INFO  com.hcl.gim.testscripts.hcl_jewels.TYSS_GIM_HJ_0020 - Expected text : Log in. is matching with the : Log in. text in the application 
+05:15:03.836 [main] INFO  com.hcl.gim.testscripts.hcl_jewels.TYSS_GIM_HJ_0020 - Log In page is displayed
+05:15:03.836 [main] INFO  com.hcl.gim.testscripts.hcl_jewels.TYSS_GIM_HJ_0020 - Enter the value into User Id text box
+05:15:04.075 [main] INFO  com.hcl.gim.testscripts.hcl_jewels.TYSS_GIM_HJ_0020 - 51575273 typed into User Id text box
+05:15:04.076 [main] INFO  com.hcl.gim.testscripts.hcl_jewels.TYSS_GIM_HJ_0020 - Enter the value into Password text box
+05:15:04.259 [main] INFO  com.hcl.gim.testscripts.hcl_jewels.TYSS_GIM_HJ_0020 - GIM@123# typed into Password text box
+05:15:04.259 [main] INFO  com.hcl.gim.testscripts.hcl_jewels.TYSS_GIM_HJ_0020 - Validate Login button is clickable
+05:15:07.397 [main] INFO  com.hcl.gim.testscripts.hcl_jewels.TYSS_GIM_HJ_0020 - Clicked on : Login button
+05:15:08.016 [main] INFO  com.hcl.gim.testscripts.hcl_jewels.TYSS_GIM_HJ_0020 - LOB HR-Log in is successfull
+05:15:08.083 [main] INFO  com.hcl.gim.testscripts.hcl_jewels.TYSS_GIM_HJ_0020 - Expected text : HR Partner Manual is matching with the : HR Partner Manual text in the application 
+05:15:08.083 [main] INFO  com.hcl.gim.testscripts.hcl_jewels.TYSS_GIM_HJ_0020 - HR Partner Manual popup is displayed
+05:15:08.083 [main] INFO  com.hcl.gim.testscripts.hcl_jewels.TYSS_GIM_HJ_0020 - Validate Close button on HCL Banner is clickable
+05:15:08.228 [main] INFO  com.hcl.gim.testscripts.hcl_jewels.TYSS_GIM_HJ_0020 - Clicked on : Close button on HCL Banner
+05:15:08.329 [main] INFO  com.hcl.gim.testscripts.hcl_jewels.TYSS_GIM_HJ_0020 - Home page is displayed, url= https://staging.myhcl.com/GIM/Home/Index, title= Home Page
+05:15:08.335 [main] INFO  com.hcl.gim.testscripts.hcl_jewels.TYSS_GIM_HJ_0020 - Role: Employee
+05:15:08.336 [main] INFO  com.hcl.gim.testscripts.hcl_jewels.TYSS_GIM_HJ_0020 - Validate LOB HR Initiate On Behalf Of Employee button is clickable
+05:15:09.230 [main] INFO  com.hcl.gim.testscripts.hcl_jewels.TYSS_GIM_HJ_0020 - Clicked on : LOB HR Initiate On Behalf Of Employee button
+05:15:09.277 [main] INFO  com.hcl.gim.testscripts.hcl_jewels.TYSS_GIM_HJ_0020 - Initiate Claim page is displayed, url= https://staging.myhcl.com/GIM/HRPartner/InitiateClaim, title= InitiateClaim
+05:15:09.281 [main] INFO  com.hcl.gim.testscripts.hcl_jewels.TYSS_GIM_HJ_0020 - Wait for Select Claim type Drop down
+05:15:09.390 [main] INFO  com.hcl.gim.testscripts.hcl_jewels.TYSS_GIM_HJ_0020 - Validate Select Claim type Drop down is clickable
+05:15:09.852 [main] INFO  com.hcl.gim.testscripts.hcl_jewels.TYSS_GIM_HJ_0020 - Clicked on : Select Claim type Drop down
+05:15:10.148 [main] INFO  com.hcl.gim.testscripts.hcl_jewels.TYSS_GIM_HJ_0020 - List of all Claim types from the Drop down is displayed.
+05:15:10.163 [main] INFO  com.hcl.gim.testscripts.hcl_jewels.TYSS_GIM_HJ_0020 - Wait for HCL Jewels
+05:15:10.375 [main] INFO  com.hcl.gim.testscripts.hcl_jewels.TYSS_GIM_HJ_0020 - Able to mouse over on  HCL Jewels
+05:15:10.609 [main] INFO  com.hcl.gim.testscripts.hcl_jewels.TYSS_GIM_HJ_0020 - Clicked on : HCL Jewels
+05:15:10.645 [main] INFO  com.hcl.gim.testscripts.hcl_jewels.TYSS_GIM_HJ_0020 - Able to select HCL Jewels from the Dropdown and default selection is Copy & Paste 
+05:15:10.733 [main] INFO  com.hcl.gim.testscripts.hcl_jewels.TYSS_GIM_HJ_0020 - Expected text : HCL Jewels is matching with the : HCL Jewels text in the application 
+05:15:10.733 [main] INFO  com.hcl.gim.testscripts.hcl_jewels.TYSS_GIM_HJ_0020 - HCL Jewels is selected and default selection is Copy & Paste
+05:15:10.742 [main] INFO  com.hcl.gim.testscripts.hcl_jewels.TYSS_GIM_HJ_0020 - Scroll up
+05:15:10.809 [main] INFO  com.hcl.gim.testscripts.hcl_jewels.TYSS_GIM_HJ_0020 - Scroll up
+05:15:10.872 [main] INFO  com.hcl.gim.testscripts.hcl_jewels.TYSS_GIM_HJ_0020 - Wait for Through the Form Radio Button
+05:15:10.976 [main] INFO  com.hcl.gim.testscripts.hcl_jewels.TYSS_GIM_HJ_0020 - Validate Through the Form Radio Button is clickable
+05:15:11.073 [main] INFO  com.hcl.gim.testscripts.hcl_jewels.TYSS_GIM_HJ_0020 - Clicked on : Through the Form Radio Button
+05:15:11.126 [main] INFO  com.hcl.gim.testscripts.hcl_jewels.TYSS_GIM_HJ_0020 - Through the Form option is selected
+05:15:11.126 [main] INFO  com.hcl.gim.testscripts.hcl_jewels.TYSS_GIM_HJ_0020 - Wait for Through Form Back button
+05:15:11.268 [main] INFO  com.hcl.gim.testscripts.hcl_jewels.TYSS_GIM_HJ_0020 - Validate Through Form Back button is clickable
+05:15:11.794 [main] INFO  com.hcl.gim.testscripts.hcl_jewels.TYSS_GIM_HJ_0020 - Clicked on : Through Form Back button
+05:15:11.830 [main] INFO  com.hcl.gim.testscripts.hcl_jewels.TYSS_GIM_HJ_0020 - Initiate Claim page is displayed, url= https://staging.myhcl.com/GIM/HRPartner/InitiateClaim, title= InitiateClaim
+05:15:16.807 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_014 - Chrome Browser is launched
+05:15:17.344 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_014 - Expected text : Log in. is matching with the : Log in. text in the application 
+05:15:17.344 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_014 - Log In page is displayed
+05:15:17.344 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_014 - Enter the value into User Id text box
+05:15:17.570 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_014 - 40136083 typed into User Id text box
+05:15:17.570 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_014 - Enter the value into Password text box
+05:15:17.735 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_014 - GIM@123# typed into Password text box
+05:15:17.735 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_014 - Validate Login button is clickable
+05:15:18.865 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_014 - Clicked on : Login button
+05:15:19.468 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_014 - GEO HR-Log in is successfull
+05:15:19.526 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_014 - Expected text : HR Partner Manual is matching with the : HR Partner Manual text in the application 
+05:15:19.526 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_014 - HR Partner Manual popup is displayed
+05:15:19.526 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_014 - Validate Close button on HCL Banner is clickable
+05:15:19.658 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_014 - Clicked on : Close button on HCL Banner
+05:15:19.734 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_014 - Home page is displayed, url= https://staging.myhcl.com/GIM/Home/Index, title= Home Page
+05:15:19.740 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_014 - Role: Employee
+05:15:19.740 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_014 - Validate Geo HR Initiate On Behalf Of Employee button is clickable
+05:15:20.352 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_014 - Clicked on : Geo HR Initiate On Behalf Of Employee button
+05:15:20.405 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_014 - Initiate Claim page is displayed, url= https://staging.myhcl.com/GIM/HRPartner/InitiateClaim, title= InitiateClaim
+05:15:20.409 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_014 - Wait for Select Claim type Drop down
+05:15:20.524 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_014 - Validate Select Claim type Drop down is clickable
+05:15:21.003 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_014 - Clicked on : Select Claim type Drop down
+05:15:21.757 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_014 - List of all Claim types from the Drop down is displayed.
+05:15:21.762 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_014 - Wait for Ikahya safety bonus( client-seriti/elango)
+05:15:22.029 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_014 - Able to mouse over on  Ikahya safety bonus( client-seriti/elango)
+05:15:22.260 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_014 - Clicked on : Ikahya safety bonus( client-seriti/elango)
+05:15:22.294 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_014 - Able to select Ikahya safety bonus( client-seriti/elango) from the Dropdown and default selection is Copy & Paste 
+05:15:22.356 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_014 - Expected text : Ikahya safety bonus( client-seriti/elango) is matching with the : Ikahya safety bonus( client-seriti/elango) text in the application 
+05:15:22.356 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_014 - Ikahya safety bonus( client-seriti/elango) is selected and default selection is Copy & Paste
+05:15:22.365 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_014 - Scroll up
+05:15:22.974 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_014 - Scroll up
+05:15:23.011 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_014 - Wait for Excel Upload Radio Button
+05:15:23.136 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_014 - Validate Excel Upload Radio Button is clickable
+05:15:23.282 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_014 - Clicked on : Excel Upload Radio Button
+05:15:23.324 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_014 - Excel Upload option is selected
+05:15:23.324 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_014 - Wait for Download Form Template Link
+05:15:23.442 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_014 - Validate Download Form Template Link is clickable
+05:15:23.562 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_014 - Clicked on : Download Form Template Link
+05:15:23.864 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_014 - New File Created:a88db163-f50f-4e6f-b5bd-15c0f2dde3a6.tmp
+05:15:23.921 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_014 - New File Created:Claim.xlsx.crdownload
+05:15:24.039 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_014 - New File Created:Claim.xlsx
+05:15:24.039 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_014 - Downloaded file found with extension .xlsx. File name is Claim.xlsx
+05:15:24.541 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_014 - Downloaded document name is Claim.xlsx
+05:15:24.541 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_014 - Template with Filename Claim.xlsx downloaded successfully
+05:15:24.762 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_014 - [51400641, 16, 4270, 125, 2/13/2019  , 7/13/2019  , R2, 3, Test1]
+05:15:32.826 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_014 - Wait for Upload Template Link
+05:15:32.985 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_014 - Validate Upload Template Link is clickable
+05:15:33.152 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_014 - Clicked on : Upload Template Link
+05:15:40.183 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_014 - Wait for Excel Upload Document Link
+05:15:40.357 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_014 - Validate Excel Upload Document Link is clickable
+05:15:40.536 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_014 - Clicked on : Excel Upload Document Link
+05:15:47.653 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_014 - Expected text : Sample(PDF).pdf is matching with the : Sample(PDF).pdf text in the application 
+05:15:47.653 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_014 - Sample(PDF).pdf file is uploaded
+05:15:47.654 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_014 - Wait for Excel Upload Button
+05:15:47.764 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_014 - Validate Excel Upload Button is clickable
+05:15:47.955 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_014 - Clicked on : Excel Upload Button
+05:15:54.383 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_014 - Expected text : Are you sure you want to proceed? is matching with the : Are you sure you want to proceed? text in the application 
+05:15:54.383 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_014 - Are you sure you want to proceed Dialog box is displayed
+05:15:54.383 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_014 - Wait for Yes Button
+05:15:56.490 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_014 - Validate Yes Button is clickable
+05:15:56.612 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_014 - Clicked on : Yes Button
+05:16:37.769 [main] ERROR com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_014 - Expected condition failed: waiting for visibility of Proxy element for: DefaultElementLocator 'By.xpath: //div[text()='Data has been saved successfully.']' (tried for 30 second(s) with 500 milliseconds interval)
+05:16:43.702 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_018 - Chrome Browser is launched
+05:16:44.260 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_018 - Expected text : Log in. is matching with the : Log in. text in the application 
+05:16:44.260 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_018 - Log In page is displayed
+05:16:44.260 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_018 - Enter the value into User Id text box
+05:16:44.485 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_018 - 40136083 typed into User Id text box
+05:16:44.485 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_018 - Enter the value into Password text box
+05:16:44.641 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_018 - GIM@123# typed into Password text box
+05:16:44.641 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_018 - Validate Login button is clickable
+05:16:49.168 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_018 - Clicked on : Login button
+05:16:49.778 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_018 - GEO HR-Log in is successfull
+05:16:49.834 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_018 - Expected text : HR Partner Manual is matching with the : HR Partner Manual text in the application 
+05:16:49.834 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_018 - HR Partner Manual popup is displayed
+05:16:49.834 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_018 - Validate Close button on HCL Banner is clickable
+05:16:49.960 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_018 - Clicked on : Close button on HCL Banner
+05:16:50.045 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_018 - Home page is displayed, url= https://staging.myhcl.com/GIM/Home/Index, title= Home Page
+05:16:50.050 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_018 - Role: Employee
+05:16:50.050 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_018 - Validate Geo HR Initiate On Behalf Of Employee button is clickable
+05:16:50.701 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_018 - Clicked on : Geo HR Initiate On Behalf Of Employee button
+05:16:50.756 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_018 - Initiate Claim page is displayed, url= https://staging.myhcl.com/GIM/HRPartner/InitiateClaim, title= InitiateClaim
+05:16:50.761 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_018 - Wait for Select Claim type Drop down
+05:16:50.876 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_018 - Validate Select Claim type Drop down is clickable
+05:16:51.351 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_018 - Clicked on : Select Claim type Drop down
+05:16:52.102 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_018 - List of all Claim types from the Drop down is displayed.
+05:16:52.108 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_018 - Wait for Ikahya safety bonus( client-seriti/elango)
+05:16:52.362 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_018 - Able to mouse over on  Ikahya safety bonus( client-seriti/elango)
+05:16:52.609 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_018 - Clicked on : Ikahya safety bonus( client-seriti/elango)
+05:16:52.638 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_018 - Able to select Ikahya safety bonus( client-seriti/elango) from the Dropdown and default selection is Copy & Paste 
+05:16:52.688 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_018 - Expected text : Ikahya safety bonus( client-seriti/elango) is matching with the : Ikahya safety bonus( client-seriti/elango) text in the application 
+05:16:52.689 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_018 - Ikahya safety bonus( client-seriti/elango) is selected and default selection is Copy & Paste
+05:16:52.695 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_018 - Scroll up
+05:16:52.789 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_018 - Scroll up
+05:16:52.831 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_018 - Wait for Through the Form Radio Button
+05:16:52.903 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_018 - Validate Through the Form Radio Button is clickable
+05:16:52.996 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_018 - Clicked on : Through the Form Radio Button
+05:16:53.042 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_018 - Through the Form option is selected
+05:16:53.042 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_018 - Wait for Employee code text box
+05:16:53.146 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_018 - Enter the value into Employee code text box
+05:16:53.279 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_018 - 51400641 typed into Employee code text box
+05:16:54.296 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_018 - Valid value is entered in Employee code text box
+05:16:54.296 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_018 - 51400641 entered in Employee code text box
+05:16:54.302 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_018 - Wait for Country code text box
+05:16:54.420 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_018 - Enter the value into Country code text box
+05:16:54.576 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_018 - 16 typed into Country code text box
+05:16:55.598 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_018 - Valid value is entered in Country code text box
+05:16:55.598 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_018 - 16 entered in Country code text box
+05:16:55.606 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_018 - Wait for Company code text box
+05:16:55.737 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_018 - Enter the value into Company code text box
+05:16:55.905 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_018 - 4270 typed into Company code text box
+05:16:56.936 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_018 - Valid value is entered in Company code text box
+05:16:56.936 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_018 - 4270 entered in Company code text box
+05:16:56.936 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_018 - Wait for  Amount text box
+05:16:57.040 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_018 - Enter the value into  Amount text box
+05:16:57.197 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_018 - 140 typed into  Amount text box
+05:16:58.219 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_018 - Valid value is entered in Amount text box
+05:16:58.219 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_018 - 140 entered in Amount text box
+05:16:58.219 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_018 - Wait for From Date text box
+05:16:58.364 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_018 - 2/26/2019   is selected
+05:16:59.376 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_018 - Valid value is entered in From Date text box
+05:16:59.377 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_018 - 2/26/2019   entered in from date text box
+05:16:59.377 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_018 - Wait for To Date text box
+05:16:59.542 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_018 - 7/26/2019   is selected
+05:17:00.565 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_018 - Valid value is entered in To Date text box
+05:17:00.565 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_018 - 7/26/2019   entered in To date text box
+05:17:00.565 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_018 - Wait for Remarks text box
+05:17:00.729 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_018 - Enter the value into Remarks text box
+05:17:00.889 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_018 - Test1 typed into Remarks text box
+05:17:01.906 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_018 - Valid value is entered in Remarks text box
+05:17:01.906 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_018 - Test1 entered in Remarks text box
+05:17:01.913 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_018 - Wait for Number of installments text box
+05:17:02.002 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_018 - Enter the value into Number of installments text box
+05:17:02.158 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_018 - 3 typed into Number of installments text box
+05:17:02.211 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_018 - Expected attribute value : 3 is matching with the actual attribute value : 3 of Number of installments text box
+05:17:02.211 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_018 - 3 entered in Number of installments text box 
+05:17:02.211 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_018 - Wait for Rate text box
+05:17:02.316 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_018 - Enter the value into Rate text box
+05:17:02.457 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_018 - R3 typed into Rate text box
+05:17:02.506 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_018 - Expected attribute value : R3 is matching with the actual attribute value : R3 of Rate text box
+05:17:02.506 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_018 - R3 entered in Rate text box 
+05:17:02.506 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_018 - Wait for Through Form Upload link
+05:17:02.616 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_018 - Validate Through Form Upload link is clickable
+05:17:02.748 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_018 - Clicked on : Through Form Upload link
+05:17:09.784 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_018 - The file is uploaded in the file upload text area
+05:17:09.784 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_018 - Wait for Through Form Submit button
+05:17:09.908 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_018 - Validate Through Form Submit button is clickable
+05:17:10.070 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_018 - Clicked on : Through Form Submit button
+05:17:14.421 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_018 - Are you sure you want to proceed pop up is displayed
+05:17:14.429 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_018 - Wait for Yes button
+05:17:16.537 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_018 - Validate Yes button is clickable
+05:17:16.659 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_018 - Clicked on : Yes button
+05:17:16.659 [main] INFO  com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_018 - Wait for Claim requests has been successfully raised success message
+05:17:57.794 [main] ERROR com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_018 - Claim requests has been successfully raised success message is not visible
+05:18:38.989 [main] ERROR com.hcl.gim.testscripts.ikhaya.TYSS_GIM_ISB_018 - Expected condition failed: waiting for visibility of Proxy element for: DefaultElementLocator 'By.xpath: //div[text()='Claim requests has been successfully raised.']' (tried for 30 second(s) with 500 milliseconds interval)

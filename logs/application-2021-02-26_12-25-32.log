@@ -1,0 +1,15 @@
+12:25:33.135 [main] INFO  com.hcl.gim.baseutil.BaseTest - 
+12:25:33.147 [main] INFO  com.hcl.gim.baseutil.BaseTest - Running locally JavaMail
+12:25:33.304 [main] INFO  com.hcl.gim.baseutil.BaseTest - Folder creation for Extent
+12:25:33.321 [main] INFO  com.hcl.gim.baseutil.BaseTest - ExtentDir:-C:\HCL-GIM-Harsha\GIM-App-Harsha1/reports/Automation Report- 02_26_2021_12_25_33/Report/02_26_2021_12_25_33
+12:25:33.550 [main] INFO  com.hcl.gim.baseutil.BaseTest - Report Initiated
+12:25:33.554 [main] INFO  com.hcl.gim.baseutil.BaseTest - Screenshot folder created
+12:25:42.715 [main] INFO  com.hcl.gim.testscripts.car_parking_deduction.TYSS_GIM_CPD_0002 - Chrome Browser is launched
+12:25:50.590 [main] INFO  com.hcl.gim.testscripts.car_parking_deduction.TYSS_GIM_CPD_0002 - Expected text : Log in. is matching with the : Log in. text in the application 
+12:25:50.590 [main] INFO  com.hcl.gim.testscripts.car_parking_deduction.TYSS_GIM_CPD_0002 - Log In page is displayed
+12:25:50.591 [main] INFO  com.hcl.gim.testscripts.car_parking_deduction.TYSS_GIM_CPD_0002 - Enter the value into User Id text box
+12:25:50.865 [main] INFO  com.hcl.gim.testscripts.car_parking_deduction.TYSS_GIM_CPD_0002 - 40136083 typed into User Id text box
+12:25:50.867 [main] INFO  com.hcl.gim.testscripts.car_parking_deduction.TYSS_GIM_CPD_0002 - Enter the value into Password text box
+12:25:51.126 [main] INFO  com.hcl.gim.testscripts.car_parking_deduction.TYSS_GIM_CPD_0002 - GIM@123# typed into Password text box
+12:25:51.127 [main] INFO  com.hcl.gim.testscripts.car_parking_deduction.TYSS_GIM_CPD_0002 - Validate Login button is clickable
+12:26:22.615 [main] INFO  com.hcl.gim.testscripts.car_parking_deduction.TYSS_GIM_CPD_0002 - Clicked on : Login button
